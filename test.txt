@@ -2,5 +2,5 @@
 
 # m h  dom mon dow   command
 #new / Mon~Frisdfsdfsdfsf
-#naver : 03 ~
+#naver : 03 ~dd
 00 03 * * * python3 /var/yongzzaangsdfsdfsdfsddfs11111sdsd
