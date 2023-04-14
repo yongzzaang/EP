@@ -5,10 +5,4 @@
 #naver : 03 ~
 00 03 * * * python3 /var/yongzzaang/wadiz/naverAPI/Batch/Auto.py shoppingAuto
 30 03 * * * python3 /var/yongzzaang/wadiz/naverAPI/Batch/Report.py
-00 04 * * * python3 /var/yongzzaang/wadiz/naverAPI/Batch/statReport.py
-03 04 * * * python3 /var/yongzzaang/wadiz/naverAPI/Batch/Rank.py
-00 05 * * * python3 /var/yongzzaang/wadiz/naverAPI/Batch/Est.py
-#######
-#######################################################
-00 02 * * * python3 /var/yongzzaang/wadiz/naverAPI/Batch/Auto.py shoppingMorningRestore
-00 06 * * * python3 /var/yongzzaang/wadiz/naverAPI/Batch/Auto.py shoppingNightReduce 
+00 04 * * * python3 /var/yongzzaan
