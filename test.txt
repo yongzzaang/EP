@@ -5,4 +5,4 @@
 #naver : 03 ~
 00 03 * * * python3 /var/yongzzaang/wadiz/naverAPI/Batch/Auto.py shoppingAuto
 30 03 * * * python3 /var/yongzzaang/wadiz/naverAPI/Batch/Report.py
-00 04 * * * python3 /var/yongzzaan
+00 04 * * * python3 /var/yongzzaansdfsdfsdfsdf
