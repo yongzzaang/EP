@@ -1,7 +1,0 @@
-111111sd
-
-# m h  dom mon dow   command
-#new / Mon~Frisdfsdfsdfsf
-#naver : 03 ~dddsdfsdf
-00 03 * * * python3 /var/yongzzaangsdfsdfsdfsddfs11111sdsd
-sdfsfsdfsdfdsfdfssdfsdfsdfsdfsdfsdfsdfsf
