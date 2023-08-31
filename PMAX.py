@@ -7,6 +7,8 @@ elif platform.system() == 'Linux' and distro.id() == 'ubuntu' :
     sys.path.append('/var/yongzzaang')
 elif platform.system() == 'Linux' and distro.id() == 'rocky' :
     sys.path.append('/home/seungyoung.jung')
-from wadiz.myClass import Func, Project
-from wadiz.naverClass import NaverAPI, Report
 from datetime import datetime
+
+pmax = pd.read_csv("https://www.wadiz.kr/web/apip/store/external/projects/catalog-feed/facebook-csv")
+
+print('완료)')
