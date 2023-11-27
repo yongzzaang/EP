@@ -4910,6 +4910,19 @@ category_name1	coupon	event_words	goods_type	id	image_link	price_pc	shipping	shi
 반려동물	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		223652_487146	https://cdn3.wadiz.kr/studio/images/2023/10/19/32df62be-b1b8-4028-b29c-b3b290e138df.jpg/wadiz/resizecrop/500x500/format/jpg	95000.0	0		"상세이미지 내용 참조_[슈퍼얼리버드] 멀티펫스텝 1 SET178,000->95,000 (47%)
 고탄성 스펀지 2WAY+논슬립 방수커버+벨크로 안심커버 
 (베이지or라이트그레이 택1)"	퍼핑|강아지|고양이|애견|논슬립|멀티|슬개골|침대|쇼파|인테리어		https://www.wadiz.kr/web/campaign/detail/223652?utm_source=rw_naver&utm_medium=shoppingsearch&utm_campaign=project_223652&utm_content=project_223652_487146
+테크·가전	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		236908_500639	https://cdn3.wadiz.kr/studio/images/2023/11/16/7e5b96ac-d0fe-4b1e-966e-93f27223113f.jpg/wadiz/resizecrop/500x500/format/jpg	49800.0	3000		"디즈니 미키 엠플레이어 프리 무선이어폰_[와디즈 예판 특가] 디즈니 미키 엠플레이어 프리 무선이어폰 블랙[와디즈 단독  혜택]
+정가 69,000원 대비 28% 할인 혜택
+디즈니 미키 엠플레이어 프리 무선이어폰 블랙
+★블랙 컬러★는 2023년 12월 1일 리워드 제공 예정"	무선이어폰|디즈니|미키마우스|아이리버|블루투스이어폰|블루투스무선이어폰|이어폰|무선이어셋|블루투스|엠플레이어		https://link.wadiz.kr/BeYz/lpzlkhy5
+테크·가전	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		236908_500640	https://cdn3.wadiz.kr/studio/images/2023/11/16/7e5b96ac-d0fe-4b1e-966e-93f27223113f.jpg/wadiz/resizecrop/500x500/format/jpg	49800.0	3000		"디즈니 미키 엠플레이어 프리 무선이어폰_[와디즈 예판 특가] 디즈니 미키 엠플레이어 프리 무선이어폰 화이트[와디즈 단독  혜택]
+정가 69,000원 대비 28% 할인 혜택
+디즈니 미키 엠플레이어 프리 무선이어폰 화이트
+★화이트 컬러★는 2023년 12월 1일 리워드 제공 예정
+"	무선이어폰|디즈니|미키마우스|아이리버|블루투스이어폰|블루투스무선이어폰|이어폰|무선이어셋|블루투스|엠플레이어		https://www.wadiz.kr/web/campaign/detail/236908?utm_source=rw_naver&utm_medium=shoppingsearch&utm_campaign=project_236908&utm_content=project_236908_500640
+테크·가전	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		236908_500642	https://cdn3.wadiz.kr/studio/images/2023/11/16/7e5b96ac-d0fe-4b1e-966e-93f27223113f.jpg/wadiz/resizecrop/500x500/format/jpg	49800.0	3000		"디즈니 미키 엠플레이어 프리 무선이어폰_[와디즈 예판 특가] 디즈니 미키 엠플레이어 프리 무선이어폰 베이비핑크[와디즈 단독  혜택]
+정가 69,000원 대비 28% 할인 혜택
+디즈니 미키 엠플레이어 프리 무선이어폰 베이비핑크
+★베이비핑크 컬러★는 2023년 12월 18일 리워드 제공 예정"	무선이어폰|디즈니|미키마우스|아이리버|블루투스이어폰|블루투스무선이어폰|이어폰|무선이어셋|블루투스|엠플레이어		https://www.wadiz.kr/web/campaign/detail/236908?utm_source=rw_naver&utm_medium=shoppingsearch&utm_campaign=project_236908&utm_content=project_236908_500642
 뷰티	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		237169_486434	https://cdn3.wadiz.kr/studio/images/2023/09/27/ef8faab8-48b4-4afe-92b6-8667ed432812.jpg/wadiz/resizecrop/500x500/format/jpg	139000.0	0		핫앤쿨+타임머신 세트_[온도+흡수 올케어] 피부온도 맞추고 흡수케어까지! 바나브 스페셜프리오더	갈바닉|뷰티|디바이스|피부관리|바나브|스킨케어|냉온디바이스|핫앤쿨|타임머신|뷰티디바이스		https://link.wadiz.kr/BeYz/0j80cfrj
 뷰티	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		237169_486435	https://cdn3.wadiz.kr/studio/images/2023/09/27/ef8faab8-48b4-4afe-92b6-8667ed432812.jpg/wadiz/resizecrop/500x500/format/jpg	109000.0	0		핫앤쿨스킨핏 단독 구성_[온도+흡수 올케어] 피부온도 맞추고 흡수케어까지! 바나브 스페셜프리오더	갈바닉|뷰티|디바이스|피부관리|바나브|스킨케어|냉온디바이스|핫앤쿨|타임머신|뷰티디바이스		https://link.wadiz.kr/BeYz/v47sw82x
 뷰티	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		237169_486436	https://cdn3.wadiz.kr/studio/images/2023/09/27/ef8faab8-48b4-4afe-92b6-8667ed432812.jpg/wadiz/resizecrop/500x500/format/jpg	50000.0	0		타임머신 단독 구성_[온도+흡수 올케어] 피부온도 맞추고 흡수케어까지! 바나브 스페셜프리오더	갈바닉|뷰티|디바이스|피부관리|바나브|스킨케어|냉온디바이스|핫앤쿨|타임머신|뷰티디바이스		https://link.wadiz.kr/BeYz/e25hfgs4
