@@ -3704,7 +3704,7 @@ category_name1	coupon	event_words	goods_type	id	image_link	price_pc	shipping	shi
 리빙·베이비	5000원	와디즈 스토어 첫결제 5천원 즉시 쿠폰 할인		4735_12934	https://cdn2.wadiz.kr/2023/06/22/ecd66cef-53b0-412e-93e6-034c52eeeb46.jpg/wadiz/resizecrop/500x500/format/jpg	25000	4000		휴대용 재난탈출 키트 세이프티씰 플렉스 싱글 1개		5	https://link.wadiz.kr/BeYz/a978fkws
 리빙·베이비	5000원	와디즈 스토어 첫결제 5천원 즉시 쿠폰 할인		4735_12935	https://cdn2.wadiz.kr/2023/06/22/019fbae8-4516-4c3f-aef2-ecb78687949f.jpg/wadiz/resizecrop/500x500/format/jpg	44000	4000		휴대용 재난탈출 키트 세이프티씰 플렉스 커플세트 2개		5	https://link.wadiz.kr/BeYz/gdbcx1w6
 리빙·베이비	5000원	와디즈 스토어 첫결제 5천원 즉시 쿠폰 할인		4735_12936	https://cdn2.wadiz.kr/2023/06/22/e9db649d-3950-424a-9156-f60bf5597582.jpg/wadiz/resizecrop/500x500/format/jpg	84000	4000		휴대용 재난탈출 키트 세이프티씰 플렉스 패밀리세트 4개		5	https://link.wadiz.kr/BeYz/rljzcb8i
-패션·잡화	5000원	와디즈 스토어 첫결제 5천원 즉시 쿠폰 할인		4685_12788	https://cdn2.wadiz.kr/2023/06/15/c9d3736c-0bbe-49c3-909a-16e5774f5a9f.png/wadiz/resizecrop/500x500/format/jpg	49800	0		믿소사 키높이 지압 슬리퍼 1세트	믿소사|MIDSOSA|믿소사슬리퍼|믿소사지압슬리퍼|믿소사지압|믿소사키높이지압슬리퍼|MIDSOSA슬리퍼|MIDSOSA지압슬리퍼|MIDSOSA지압|MIDSOSA키높이지압슬리퍼	40	https://link.wadiz.kr/BeYz/95pxsovy
+패션·잡화	5000원	와디즈 스토어 첫결제 5천원 즉시 쿠폰 할인		4685_12788	https://cdn2.wadiz.kr/2023/06/15/c9d3736c-0bbe-49c3-909a-16e5774f5a9f.png/wadiz/resizecrop/500x500/format/jpg	59800	0		믿소사 키높이 지압 슬리퍼 1세트	믿소사|MIDSOSA|믿소사슬리퍼|믿소사지압슬리퍼|믿소사지압|믿소사키높이지압슬리퍼|MIDSOSA슬리퍼|MIDSOSA지압슬리퍼|MIDSOSA지압|MIDSOSA키높이지압슬리퍼	40	https://link.wadiz.kr/BeYz/95pxsovy
 푸드	5000원	와디즈 스토어 첫결제 5천원 즉시 쿠폰 할인		4589_12626	https://cdn2.wadiz.kr/2023/05/26/38b24022-49a1-4de0-886f-68f9f00ff99b.jpg/wadiz/resizecrop/500x500/format/jpg	58000	0		아이튼튼 성장기 어린이 복숭아맛 녹용홍삼스틱 복숭아맛 1박스		7	https://link.wadiz.kr/BeYz/9sop7kf7
 푸드	5000원	와디즈 스토어 첫결제 5천원 즉시 쿠폰 할인		4589_12627	https://cdn2.wadiz.kr/2023/05/26/38b24022-49a1-4de0-886f-68f9f00ff99b.jpg/wadiz/resizecrop/500x500/format/jpg	112000	0		아이튼튼 성장기 어린이 복숭아맛 녹용홍삼스틱 2박스		7	https://link.wadiz.kr/BeYz/56zh1pd4
 푸드	5000원	와디즈 스토어 첫결제 5천원 즉시 쿠폰 할인		4589_12628	https://cdn2.wadiz.kr/2023/05/26/38b24022-49a1-4de0-886f-68f9f00ff99b.jpg/wadiz/resizecrop/500x500/format/jpg	162000	0		아이튼튼 성장기 어린이 복숭아맛 녹용홍삼스틱 3박스		7	https://link.wadiz.kr/BeYz/1b0xxfza
@@ -4906,6 +4906,14 @@ category_name1	coupon	event_words	goods_type	id	image_link	price_pc	shipping	shi
 *범퍼침대
 └러그+이불+침대 올인원 프리미엄 원단 겉커버 + 커버분리 양면 분리방석 
 (베이지or애쉬그린 택1)"	퍼핑|강아지|고양이|애견|논슬립|멀티|슬개골|침대|쇼파|인테리어		https://link.wadiz.kr/BeYz/s5prnncf
+반려동물	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		223652_487146	https://cdn3.wadiz.kr/studio/images/2023/10/19/32df62be-b1b8-4028-b29c-b3b290e138df.jpg/wadiz/resizecrop/500x500/format/jpg	95000	0		"상세이미지 내용 참조_[슈퍼얼리버드] 멀티펫스텝 1 SET178,000->95,000 (47%)
+고탄성 스펀지 2WAY+논슬립 방수커버+벨크로 안심커버 
+(베이지or라이트그레이 택1)"	퍼핑|강아지|고양이|애견|논슬립|멀티|슬개골|침대|쇼파|인테리어		https://www.wadiz.kr/web/campaign/detail/223652?utm_source=rw_naver&utm_medium=shoppingsearch&utm_campaign=project_223652&utm_content=project_223652_487146
+테크·가전	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		236908_500640	https://cdn3.wadiz.kr/studio/images/2023/11/16/7e5b96ac-d0fe-4b1e-966e-93f27223113f.jpg/wadiz/resizecrop/500x500/format/jpg	49800	3000		"디즈니 미키 엠플레이어 프리 무선이어폰_[와디즈 예판 특가] 디즈니 미키 엠플레이어 프리 무선이어폰 화이트[와디즈 단독  혜택]
+정가 69,000원 대비 28% 할인 혜택
+디즈니 미키 엠플레이어 프리 무선이어폰 화이트
+★화이트 컬러★는 2023년 12월 1일 리워드 제공 예정
+"	무선이어폰|디즈니|미키마우스|아이리버|블루투스이어폰|블루투스무선이어폰|이어폰|무선이어셋|블루투스|엠플레이어		https://www.wadiz.kr/web/campaign/detail/236908?utm_source=rw_naver&utm_medium=shoppingsearch&utm_campaign=project_236908&utm_content=project_236908_500640
 뷰티	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		237169_486434	https://cdn3.wadiz.kr/studio/images/2023/09/27/ef8faab8-48b4-4afe-92b6-8667ed432812.jpg/wadiz/resizecrop/500x500/format/jpg	139000	0		핫앤쿨+타임머신 세트_[온도+흡수 올케어] 피부온도 맞추고 흡수케어까지! 바나브 스페셜프리오더	갈바닉|뷰티|디바이스|피부관리|바나브|스킨케어|냉온디바이스|핫앤쿨|타임머신|뷰티디바이스		https://link.wadiz.kr/BeYz/0j80cfrj
 뷰티	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		237169_486435	https://cdn3.wadiz.kr/studio/images/2023/09/27/ef8faab8-48b4-4afe-92b6-8667ed432812.jpg/wadiz/resizecrop/500x500/format/jpg	109000	0		핫앤쿨스킨핏 단독 구성_[온도+흡수 올케어] 피부온도 맞추고 흡수케어까지! 바나브 스페셜프리오더	갈바닉|뷰티|디바이스|피부관리|바나브|스킨케어|냉온디바이스|핫앤쿨|타임머신|뷰티디바이스		https://link.wadiz.kr/BeYz/v47sw82x
 뷰티	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		237169_486436	https://cdn3.wadiz.kr/studio/images/2023/09/27/ef8faab8-48b4-4afe-92b6-8667ed432812.jpg/wadiz/resizecrop/500x500/format/jpg	50000	0		타임머신 단독 구성_[온도+흡수 올케어] 피부온도 맞추고 흡수케어까지! 바나브 스페셜프리오더	갈바닉|뷰티|디바이스|피부관리|바나브|스킨케어|냉온디바이스|핫앤쿨|타임머신|뷰티디바이스		https://link.wadiz.kr/BeYz/e25hfgs4
@@ -5745,6 +5753,9 @@ Quotidiano 소프트 종이 브로셔
 홈·리빙	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		245390_495136	https://cdn3.wadiz.kr/studio/images/2023/10/25/ad4dc3d2-611f-454f-8147-d9aee2bfa222.png/wadiz/resizecrop/500x500/format/png	117000	3000		"꼴초바니 시리즈 인센스 홀더_[얼리버드] New 솔저바니365일 경계 태세, 뼈속까지 군인
 
 📍정가 155,000원 - 25% 할인"	인센스홀더|꼴초바니|인센스|연기멍|캠핑|소품|인테리어|인센스스틱|감성소품		https://link.wadiz.kr/BeYz/8xa40hro
+홈·리빙	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		245390_495137	https://cdn3.wadiz.kr/studio/images/2023/10/25/ad4dc3d2-611f-454f-8147-d9aee2bfa222.png/wadiz/resizecrop/500x500/format/png	145000	3000		"꼴초바니 시리즈 인센스 홀더_[얼리버드] 트리산타화려한 트리와 앙증맞은 랜턴을 든 꼴초산타
+
+📍정가 178,000원 - 19% 할인"	인센스홀더|꼴초바니|인센스|연기멍|캠핑|소품|인테리어|인센스스틱|감성소품		https://www.wadiz.kr/web/campaign/detail/245390?utm_source=rw_naver&utm_medium=shoppingsearch&utm_campaign=project_245390&utm_content=project_245390_495137
 홈·리빙	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		245390_495139	https://cdn3.wadiz.kr/studio/images/2023/10/25/ad4dc3d2-611f-454f-8147-d9aee2bfa222.png/wadiz/resizecrop/500x500/format/png	10000	3000		"꼴초바니 시리즈 인센스 홀더_[추가선택] HEM 인센스 콘 베스트 4종 [40개입]꼴초바니의 밀도있고 향기로운 연기멍을 만들어주는 
 HEM 인센스 콘 베스트 4종"	인센스홀더|꼴초바니|인센스|연기멍|캠핑|소품|인테리어|인센스스틱|감성소품		https://link.wadiz.kr/BeYz/exz1m4d8
 푸드	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		245398_488756	https://cdn3.wadiz.kr/studio/images/2023/10/18/f7b66034-e5e9-4c5f-acc4-d7bd11710204.jpg/wadiz/resizecrop/500x500/format/jpg	49000	3000		MUMU 무설탕 빈투바 다크초콜릿 73% 5종_[슈퍼 얼리버드/15%할인] 종류별 3개씩 (15개)다크 3개, 솔트커피 3개, 크런키 3개, 아몬드 3개, 마카다미아 3개	초콜릿|무설탕|간식|과자|음식|식단|저칼로리|제로슈가|선물		https://link.wadiz.kr/BeYz/zpta2g3f
@@ -6794,6 +6805,7 @@ set 정가 312,000원 (1개 52,000원)
 테크·가전	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		208310_488754	https://cdn3.wadiz.kr/studio/images/2023/10/13/ee248f45-4af1-4c84-97ad-7e56a4a4da5c.jpg/wadiz/resizecrop/500x500/format/jpg	99000	3000		블루투스 스피커 듀엣 노래방 마이크 / SW-NBF9000_네베프 듀얼 무선 마이크&스피커정가 189,000원_48% 할인	마이크|노래방|블루투스|스피커|캠핑|노래|네베프|여행|코노|테크		https://link.wadiz.kr/BeYz/otzaj95c
 테크·가전	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		208310_494835	https://cdn3.wadiz.kr/studio/images/2023/10/13/ee248f45-4af1-4c84-97ad-7e56a4a4da5c.jpg/wadiz/resizecrop/500x500/format/jpg	5000	3000		"블루투스 스피커 듀엣 노래방 마이크 / SW-NBF9000_[추가상품] USB 노래방 미러볼정가 10,000원_50% 할인
 "	마이크|노래방|블루투스|스피커|캠핑|노래|네베프|여행|코노|테크		https://link.wadiz.kr/BeYz/711zzmsj
+테크·가전	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		208310_488752	https://cdn3.wadiz.kr/studio/images/2023/10/13/ee248f45-4af1-4c84-97ad-7e56a4a4da5c.jpg/wadiz/resizecrop/500x500/format/jpg	79000	3000		블루투스 스피커 듀엣 노래방 마이크 / SW-NBF9000_[슈퍼얼리버드] 네베프 듀얼 무선 마이크&스피커정가 189,000원_58% 할인	마이크|노래방|블루투스|스피커|캠핑|노래|네베프|여행|코노|테크		https://www.wadiz.kr/web/campaign/detail/208310?utm_source=rw_naver&utm_medium=shoppingsearch&utm_campaign=project_208310&utm_content=project_208310_488752
 테크·가전	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		235219_474015	https://cdn.wadiz.kr/wwwwadiz/green001/2023/0822/20230822080433530_235219.png/wadiz/resizecrop/500x500/format/png	119000	4000		샤인프리미엄 D1_[슈퍼얼리버드] 샤인프리미엄 D1 싱글형(1차 출시 가성비 버전)샤인프리미엄 D1 1개	드라이기|드라이|샤인프리미엄|항공기모터|헤어드라이어|모발|건조|스타일|머리|두피		https://link.wadiz.kr/BeYz/tjekmbfj
 테크·가전	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		235219_474013	https://cdn.wadiz.kr/wwwwadiz/green001/2023/0822/20230822080433530_235219.png/wadiz/resizecrop/500x500/format/png	139000	4000		샤인프리미엄 D1_[슈퍼얼리버드] 샤인프리미엄 D1 싱글형(최신형 NEW버전)샤인프리미엄 D1 1개	드라이기|드라이|샤인프리미엄|항공기모터|헤어드라이어|모발|건조|스타일|머리|두피		https://link.wadiz.kr/BeYz/vpvcqish
 테크·가전	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		235219_474014	https://cdn.wadiz.kr/wwwwadiz/green001/2023/0822/20230822080433530_235219.png/wadiz/resizecrop/500x500/format/png	235000	4000		샤인프리미엄 D1_[슈퍼얼리버드] 샤인프리미엄 D1 커플형(최신형 NEW버전)샤인프리미엄 D1 2개	드라이기|드라이|샤인프리미엄|항공기모터|헤어드라이어|모발|건조|스타일|머리|두피		https://link.wadiz.kr/BeYz/i3yje93v
@@ -8085,6 +8097,11 @@ ____________________(-15,100원//30%할인)"	별사과|과일|사과|부사사�
 - 미니밤호박 한끼 60팩"	단호박|밤호박주스|호박한끼|밤호박한끼|구운밤호박|선식|아침|아침대용|쉐이크|호박주스		https://link.wadiz.kr/BeYz/vloimobi
 홈·리빙	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		232926_494213	https://cdn3.wadiz.kr/studio/images/2023/09/24/35102029-aaa4-4e71-9ccb-f5aedc5eae2c.jpg/wadiz/resizecrop/500x500/format/jpg	99000	0		스노락(Snor-lock)_[혼자][홈쇼핑 인기방송제품] 스노락 단품 1세트 구성[미국FDA에서 승인 + 특허 + 대한민국 식약처 의료기기 인증] 믿고 사용할 수 있는 자가맞춤형 코골이방지 의료기기 스노락 단품 1세트입니다. 코골이로 누군가 생각나신다면 정상가 대비 59,000원 할인 된 가격으로 스노락 사용자에게 건강을! 주변사람에게는 꿀잠을 선물하세요!	솔바로|코골이|수면|무호흡|수면무호흡|코골이방지|스노락|코골이예방|꿀잠|숙면		https://www.wadiz.kr/web/campaign/detail/232926?utm_source=rw_naver&utm_medium=shoppingsearch&utm_campaign=project_232926&utm_content=project_232926_494213
 홈·리빙	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		232926_494214	https://cdn3.wadiz.kr/studio/images/2023/09/24/35102029-aaa4-4e71-9ccb-f5aedc5eae2c.jpg/wadiz/resizecrop/500x500/format/jpg	178000	0		스노락(Snor-lock)_[혼자][홈쇼핑 인기방송제품] 스노락 단품 2세트 구성[미국FDA에서 승인 + 특허 + 대한민국 식약처 의료기기 인증] 믿고 사용할 수 있는 자가맞춤형 코골이방지 의료기기 스노락 단품 2세트입니다. 코골이로 누군가 생각나신다면 정상가 대비 138,000원 할인 된 가격으로 스노락 사용자에게 건강을! 주변사람들에게는 꿀잠을 선물하세요!	솔바로|코골이|수면|무호흡|수면무호흡|코골이방지|스노락|코골이예방|꿀잠|숙면		https://www.wadiz.kr/web/campaign/detail/232926?utm_source=rw_naver&utm_medium=shoppingsearch&utm_campaign=project_232926&utm_content=project_232926_494214
+출판	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		236016_488832	https://cdn3.wadiz.kr/studio/images/2023/10/24/1af772db-9694-4b9a-8503-96dec280d582.jpg/wadiz/resizecrop/500x500/format/jpg	21900	3000		"다이어리_[슈퍼 얼리버드] 싱글 set/ 모닝레시피 1권[얼리버드] 싱글 set/ 모닝레시피 다이어리 1권
+- 구성 : 모닝레시피 1권 + 사용설명서PDF + 모닝레시피 노션 템플릿(노션 가이드) + 힘내라 힘! Cheer up 스티커
+- 색상 : 코랄 핑크
+- 정상가 : 28,900
+- 25% 할인 : 21,900원"	2024다이어리|새해다이어리|다이어리|시간관리|미라클모닝|목표달성|새해목표|갓생|긍정확언|노션템플릿		https://link.wadiz.kr/BeYz/8n4ogct5
 출판	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		236016_481988	https://cdn3.wadiz.kr/studio/images/2023/10/24/1af772db-9694-4b9a-8503-96dec280d582.jpg/wadiz/resizecrop/500x500/format/jpg	22900	3000		"다이어리_[얼리버드] 싱글 set/ 모닝레시피 다이어리 1권- 구성 : 모닝레시피 1권 + 사용설명서PDF + 모닝레시피 노션 템플릿(노션 가이드) + 힘내라 힘! Cheer up 스티커
 - 색상 : 코랄 핑크
 - 정상가 : 28,900
@@ -9108,11 +9125,6 @@ ex) 옵션3을 선택하고 싶으시다면 색상1 그린 -> 색상2 인디핑�
 
 - 구성 : 워치큐브 무선 워치충전기 2개"	애플워치|갤럭시워치|여행용|휴대용|애플워치충전|충전기|아이폰15|갤럭시플립5|s23|애플워치9		https://www.wadiz.kr/web/campaign/detail/249699?utm_source=rw_naver&utm_medium=shoppingsearch&utm_campaign=project_249699&utm_content=project_249699_495640
 테크·가전	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		249699_504742	https://cdn3.wadiz.kr/studio/images/2023/10/31/45b685a4-3b9c-42b3-b9ec-bae2b03c3c64.jpg/wadiz/resizecrop/500x500/format/jpg	26700	3000		[슈퍼얼리버드] 워치큐브 무선 워치충전기 더블 (x2)_[1만원대]애플/갤럭시 워치충전기 3cm 휴대용 + 젠더+ 캐리비너 증정	애플워치|갤럭시워치|여행용|휴대용|애플워치충전|충전기|아이폰15|갤럭시플립5|s23|애플워치9		https://www.wadiz.kr/web/campaign/detail/249699?utm_source=rw_naver&utm_medium=shoppingsearch&utm_campaign=project_249699&utm_content=project_249699_504742
-테크·가전	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		249699_495637	https://cdn3.wadiz.kr/studio/images/2023/10/31/45b685a4-3b9c-42b3-b9ec-bae2b03c3c64.jpg/wadiz/resizecrop/500x500/format/jpg	13700	3000		"워치큐브 스마트워치 무선 충전기, Watch Cube_[스페셜 얼리버드] 워치큐브 무선 워치충전기 싱글 (x1)[한정수량 : 200개]
-정상가 : 21,900원
-와디즈 혜택가 : 13,700원(38%)
-
-- 구성 : 워치큐브 무선 워치충전기 1개"	애플워치|갤럭시워치|여행용|휴대용|애플워치충전|충전기|아이폰15|갤럭시플립5|s23|애플워치9		https://www.wadiz.kr/web/campaign/detail/249699?utm_source=rw_naver&utm_medium=shoppingsearch&utm_campaign=project_249699&utm_content=project_249699_495637
 테크·가전	10000원	와디즈 첫펀딩 1만원 즉시 쿠폰 할인		249699_495638	https://cdn3.wadiz.kr/studio/images/2023/10/31/45b685a4-3b9c-42b3-b9ec-bae2b03c3c64.jpg/wadiz/resizecrop/500x500/format/jpg	14700	3000		"워치큐브 스마트워치 무선 충전기, Watch Cube_[얼리버드] 워치큐브 무선 워치충전기 싱글 (x1)[한정수량 : 400개]
 정상가 : 21,900원
 와디즈 혜택가 : 15,700원(29%)
