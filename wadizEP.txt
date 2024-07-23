@@ -3146,7 +3146,7 @@ category_name1	category_name2	id	image_link	price_pc	shipping	coupon	event_words
 푸드	전통주	8715	https://cdn2.wadiz.kr/2024/06/13/f45fe625-09f9-4fe7-a504-e3b9932eb2ca.png/wadiz/resizecrop/500x500/format/jpg	12000	3500	5000원	앱 첫결제 5천원 즉시할인		뿌막막걸리 전통 주조 방법의 크래프트 막걸리 뿌막 500mL			https://link.wadiz.kr/BeYz/eky35q01
 푸드	전통주	8700	https://cdn2.wadiz.kr/2024/06/12/d0bf212d-b857-4d37-adbf-e995b3046670.jpeg/wadiz/resizecrop/500x500/format/jpg	8000	3000	5000원	앱 첫결제 5천원 즉시할인		술별닷컴 과천도가 상쾌한 막걸리 숲으로7 700ml			https://link.wadiz.kr/BeYz/q17tj17e
 푸드	전통주	8698	https://cdn2.wadiz.kr/2024/06/12/2eb89c60-e5c1-4b3e-9dd3-0dddbcd58205.jpeg/wadiz/resizecrop/500x500/format/jpg	7200	3000	5000원	앱 첫결제 5천원 즉시할인		과천도가 관악산생막걸리 6도 1L 막걸리 전통주			https://link.wadiz.kr/BeYz/g8cz36be
-뷰티	스킨케어	8599	https://d1ruwxjthziwe4.cloudfront.net/marketing/8599.jpg	149600	0	5000원	앱 첫결제 5천원 즉시할인		미라클 시퀀스 유스 앰플 30mL NE1 마이크로딥 쿠션		26.0	https://link.wadiz.kr/BeYz/2ytfj4cd
+뷰티	스킨케어	8599	https://d1ruwxjthziwe4.cloudfront.net/marketing/8599.jpg	161500	0	5000원	앱 첫결제 5천원 즉시할인		미라클 시퀀스 유스 앰플 30mL NE1 마이크로딥 쿠션		26.0	https://link.wadiz.kr/BeYz/2ytfj4cd
 푸드	전통주	8741	https://cdn2.wadiz.kr/2024/06/22/21594a3f-1ad4-4ca4-a6be-469239a681f8.jpg/wadiz/resizecrop/500x500/format/jpg	12400	3000	5000원	앱 첫결제 5천원 즉시할인		술마켓 가평잣막걸리 업그레이드 블랙 6도 970ml 3병			https://link.wadiz.kr/BeYz/vtgcm4k2
 패션	아이웨어	7534	https://cdn2.wadiz.kr/2024/04/19/044a2b57-a04e-4d42-8a17-87d9d8f7d243.jpg/wadiz/resizecrop/500x500/format/jpg	78000	3000	5000원	앱 첫결제 5천원 즉시할인		헤이타 나사없는 풀 티타늄 안경테		7.0	https://link.wadiz.kr/BeYz/7esvqbr4
 패션	아이웨어	7932	https://cdn2.wadiz.kr/2024/04/19/45f696e7-43dc-404a-bdb6-34431319809e.jpg/wadiz/resizecrop/500x500/format/jpg	65000	3000	5000원	앱 첫결제 5천원 즉시할인		헤이타 접이식 UV차단 풀폴딩 선글라스		8.0	https://link.wadiz.kr/BeYz/1hmssiyb
