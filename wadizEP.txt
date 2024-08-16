@@ -133,7 +133,6 @@ category_name1	category_name2	id	image_link	price_pc	shipping	coupon	event_words
 게임	보드게임	1189	https://cdn2.wadiz.kr/2021/09/28/da46aa2d-cee1-4875-a5b0-bd8f12df8986.jpg/wadiz/resizecrop/500x500/format/jpg	14000	3300	5000원	앱 첫결제 5천원 즉시할인		나스카 드로잉 파티게임 싱글 에디션			52.0	N	https://link.wadiz.kr/BeYz/woxf36y3
 패션	의류	506	https://d1ruwxjthziwe4.cloudfront.net/marketing/506.jpg	67000	3000	5000원	앱 첫결제 5천원 즉시할인		언택트 쿨스킨 점퍼 블랙 화이트 블루			46.0	N	https://link.wadiz.kr/BeYz/ip9wsrgx
 홈·리빙	주방	812	https://d1ruwxjthziwe4.cloudfront.net/marketing/812.jpg	14500	3000	5000원	앱 첫결제 5천원 즉시할인		4BNK 겉바속촉 기름 튐 방지 스텐 레이어 멀티 커버			346.0	N	https://link.wadiz.kr/BeYz/7jg94osr
-스포츠·아웃도어		1358	https://cdn2.wadiz.kr/2021/10/12/0b71ac84-9e43-42a6-8593-5e7f6a182047.jpg/wadiz/resizecrop/500x500/format/jpg	21000	0	5000원	앱 첫결제 5천원 즉시할인		에이든 우리나라 역사지도 1장			58.0	N	https://link.wadiz.kr/BeYz/3exgd00s
 스포츠·아웃도어		1359	https://cdn2.wadiz.kr/2021/10/12/e04559f5-9762-43d6-a96e-2ff58bacf009.jpg/wadiz/resizecrop/500x500/format/jpg	15960	0	5000원	앱 첫결제 5천원 즉시할인		에이든 전국 여행지도 모노포스터블랙			44.0	N	https://link.wadiz.kr/BeYz/a4ynh536
 패션	가방	1360	https://d1ruwxjthziwe4.cloudfront.net/marketing/1360.jpg	179000	0	5000원	앱 첫결제 5천원 즉시할인		로라클래시 플로백 38cm 미니 32cm 3컬러			28.0	N	https://link.wadiz.kr/BeYz/j8d2tt4t
 스포츠·아웃도어		1357	https://d1ruwxjthziwe4.cloudfront.net/marketing/1357.jpg	20500	0	5000원	앱 첫결제 5천원 즉시할인		에이든 우리나라 지도 대한민국 전도 전국 여행지도 세트 포스터			89.0	N	https://link.wadiz.kr/BeYz/cw1db17x
