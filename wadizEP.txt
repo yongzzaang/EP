@@ -2903,7 +2903,7 @@ category_name1	category_name2	id	image_link	price_pc	shipping	coupon	event_words
 홈·리빙	인테리어	8493	https://d1ruwxjthziwe4.cloudfront.net/marketing/8493.jpg	99000	0	5000원	앱 첫결제 5천원 즉시할인		퍼백 메쉬 의자 사무용 공부용 컴퓨터 책상 학생용 기능성 숨쉬는의자 PBS1000			10.0	N	https://link.wadiz.kr/BeYz/03eelvcu
 홈·리빙	주방	7031	https://d1ruwxjthziwe4.cloudfront.net/marketing/7031.jpg	596400	4000	5000원	앱 첫결제 5천원 즉시할인		한일프리머스 철통오중스텐 후라이팬 샤프웍 와이드웍 아이언코어2 블랙 24 26 28 세트			32.0	N	https://link.wadiz.kr/BeYz/r11irn01
 테크·가전	주변기기	8414	https://d1ruwxjthziwe4.cloudfront.net/marketing/8414.jpg	47900	0	5000원	앱 첫결제 5천원 즉시할인		엠텍 4000W 멀티탭 GaN 2 PD 65W 접지 멀티충전기			2.0	N	https://link.wadiz.kr/BeYz/ui4bpf35
-푸드	로컬맛집	8131	https://d1ruwxjthziwe4.cloudfront.net/marketing/8131.jpg	39800	0	5000원	앱 첫결제 5천원 즉시할인		부경식품 한우 등심 양념불고기 300g 2팩				N	https://link.wadiz.kr/BeYz/ry83qslt
+푸드	로컬맛집	8131	https://d1ruwxjthziwe4.cloudfront.net/marketing/8131.jpg	22800	0	5000원	앱 첫결제 5천원 즉시할인		부경식품 한우 등심 양념불고기 300g 2팩				N	https://link.wadiz.kr/BeYz/ry83qslt
 푸드		8116	https://d1ruwxjthziwe4.cloudfront.net/marketing/8116.jpg	52100	0	5000원	앱 첫결제 5천원 즉시할인		페를로 펭귄화덕피자 4종 1세트			45.0	N	https://link.wadiz.kr/BeYz/l3xski10
 푸드	간편식	7585	https://d1ruwxjthziwe4.cloudfront.net/marketing/7585.jpg	9000	3000	5000원	앱 첫결제 5천원 즉시할인		건어물아지매 국내가공 백진미 진미채 300g				N	https://link.wadiz.kr/BeYz/yvkbmlpi
 푸드	간편식	7581	https://cdn2.wadiz.kr/2024/04/16/fa6328e8-ff36-4926-a2b6-bdc90b05831f.jpeg/wadiz/resizecrop/500x500/format/jpg	17800	3000	5000원	앱 첫결제 5천원 즉시할인		건어물아지매 맥반석구이 오징어 200g+200g 세트				N	https://link.wadiz.kr/BeYz/1v16mphg
@@ -3161,7 +3161,7 @@ category_name1	category_name2	id	image_link	price_pc	shipping	coupon	event_words
 푸드	산지직송	8876	https://cdn2.wadiz.kr/2024/06/26/f099b054-b7b1-4389-9721-4d0301c6b3b1.jpeg/wadiz/resizecrop/500x500/format/jpg	9600	0	5000원	앱 첫결제 5천원 즉시할인		수토마켓 제주 미니 밤호박 1kg 2kg 3kg				N	https://link.wadiz.kr/BeYz/s82dgsyf
 푸드	디저트·간식	8816	https://cdn2.wadiz.kr/2024/06/20/7153aa05-aed8-4126-889f-619271e4292d.jpeg/wadiz/resizecrop/500x500/format/jpg	12800	4000	5000원	앱 첫결제 5천원 즉시할인		야카 수제 조선 스위츠 약과 8개입				N	https://link.wadiz.kr/BeYz/9yzfsz4z
 푸드	간편식	8880	https://cdn2.wadiz.kr/2024/06/26/c01eef60-8f52-47f3-8a34-66ec8a34b073.jpg/wadiz/resizecrop/500x500/format/jpg	16900	0	5000원	앱 첫결제 5천원 즉시할인		맛뜰안 부산어묵 어묵꼬치 물떡 연육 육수 포함 3봉 5봉				N	https://link.wadiz.kr/BeYz/ncati2wj
-푸드	간편식	8881	https://cdn2.wadiz.kr/2024/06/26/20a4b5eb-15f0-46ab-9c0a-bfc923708848.jpg/wadiz/resizecrop/500x500/format/jpg	35800	0	5000원	앱 첫결제 5천원 즉시할인		바다누리 짜지않고 담백한 쫄쫄이 오징어 5미 10미				N	https://link.wadiz.kr/BeYz/9sdusvtt
+푸드	간편식	8881	https://cdn2.wadiz.kr/2024/06/26/20a4b5eb-15f0-46ab-9c0a-bfc923708848.jpg/wadiz/resizecrop/500x500/format/jpg	22800	0	5000원	앱 첫결제 5천원 즉시할인		바다누리 짜지않고 담백한 쫄쫄이 오징어 5미 10미				N	https://link.wadiz.kr/BeYz/9sdusvtt
 푸드	간편식	8882	https://cdn2.wadiz.kr/2024/06/26/9a9778c4-d633-43c4-8596-176e9b69fc5c.jpg/wadiz/resizecrop/500x500/format/jpg	23800	0	5000원	앱 첫결제 5천원 즉시할인		바다누리 맥반석 땅콩버터 통다리 숯불구이맛 오징어 80g				N	https://link.wadiz.kr/BeYz/8atvbn0t
 푸드	간편식	8883	https://cdn2.wadiz.kr/2024/06/27/dfb3591c-baf7-448c-9aec-688b7e07f175.jpg/wadiz/resizecrop/500x500/format/jpg	18700	0	5000원	앱 첫결제 5천원 즉시할인		수산곳간 추억의맛 빠삭어포튀김 100g 5봉 10봉				N	https://link.wadiz.kr/BeYz/3jm2cdn8
 푸드	간편식	8884	https://cdn2.wadiz.kr/2024/06/26/369b11fb-f8f1-413e-a3c0-081c832a8e97.jpg/wadiz/resizecrop/500x500/format/jpg	21800	0	5000원	앱 첫결제 5천원 즉시할인		수산곳간 크리스피 오징어 튀김 스낵 80g 3봉 6봉				N	https://link.wadiz.kr/BeYz/6z9x25yf
@@ -3204,7 +3204,7 @@ category_name1	category_name2	id	image_link	price_pc	shipping	coupon	event_words
 푸드	산지직송	8961	https://cdn2.wadiz.kr/2024/07/03/1ad23f8d-67bf-4d71-9018-193a9029af02.jpg/wadiz/resizecrop/500x500/format/jpg	6000	4000	5000원	앱 첫결제 5천원 즉시할인		오리and닭 국내산 닭안심살 1kg				N	https://link.wadiz.kr/BeYz/3lli4cmw
 푸드	산지직송	8983	https://cdn2.wadiz.kr/2024/07/04/580f78bf-c42d-4a90-bc56-dd7a5292a20a.jpg/wadiz/resizecrop/500x500/format/jpg	10900	0	5000원	앱 첫결제 5천원 즉시할인		자연을담음 해남 햇보우짱 미니밤호박 1kg				N	https://link.wadiz.kr/BeYz/b53uillf
 푸드	산지직송	8954	https://cdn2.wadiz.kr/2024/07/03/db54d8b5-b4ba-4fcf-b9ba-e85a4e5cb85b.jpg/wadiz/resizecrop/500x500/format/jpg	22400	0	5000원	앱 첫결제 5천원 즉시할인		홍산마늘 3kg 5kg 10kg				N	https://link.wadiz.kr/BeYz/hqe67mak
-푸드	산지직송	8974	https://cdn2.wadiz.kr/2024/07/04/6bfb777b-e292-48f3-bffa-40118819f60d.jpg/wadiz/resizecrop/500x500/format/jpg	32800	0	5000원	앱 첫결제 5천원 즉시할인		가나 국내산 생다진마늘 큐브 90입 180입				N	https://link.wadiz.kr/BeYz/ys7lx6lq
+푸드	산지직송	8974	https://cdn2.wadiz.kr/2024/07/04/6bfb777b-e292-48f3-bffa-40118819f60d.jpg/wadiz/resizecrop/500x500/format/jpg	19800	0	5000원	앱 첫결제 5천원 즉시할인		가나 국내산 생다진마늘 큐브 90입 180입				N	https://link.wadiz.kr/BeYz/ys7lx6lq
 푸드	산지직송	8975	https://cdn2.wadiz.kr/2024/07/04/00758b83-c4a7-45e3-867c-236109bc3921.jpg/wadiz/resizecrop/500x500/format/jpg	16900	0	5000원	앱 첫결제 5천원 즉시할인		계림농장 국내산 천연참나무 무항생제 훈제란 30구				N	https://link.wadiz.kr/BeYz/u0xz8fsr
 푸드	산지직송	8976	https://cdn2.wadiz.kr/2024/07/04/bf8882f2-f7e7-48d2-a0db-5652862cbb00.jpg/wadiz/resizecrop/500x500/format/jpg	15900	0	5000원	앱 첫결제 5천원 즉시할인		계림농장 국내산 무항셍제 구운란 30구				N	https://link.wadiz.kr/BeYz/sbpzbgb9
 푸드	산지직송	8977	https://cdn2.wadiz.kr/2024/07/04/4adee848-80a8-4211-8f4c-80b1b8844174.jpg/wadiz/resizecrop/500x500/format/jpg	14800	0	5000원	앱 첫결제 5천원 즉시할인		바다누리 손질한 남해안 볶음 조림용 고바멸치 200g				N	https://link.wadiz.kr/BeYz/a6jt2z5o
