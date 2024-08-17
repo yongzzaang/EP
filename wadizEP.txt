@@ -500,7 +500,7 @@ category_name1	category_name2	id	image_link	price_pc	shipping	coupon	event_words
 패션	가방	644	https://d1ruwxjthziwe4.cloudfront.net/marketing/644.jpg	52900	3000	5000원	앱 첫결제 5천원 즉시할인		애니한 노트북 수납 바오백			107.0	N	https://link.wadiz.kr/BeYz/31xg95zx
 디자인	문구	3176	https://cdn2.wadiz.kr/2022/07/18/2fed4f92-a0fe-40be-bf98-18070880cd7c.jpg/wadiz/resizecrop/500x500/format/jpg	15000	3000	5000원	앱 첫결제 5천원 즉시할인		피스코리아 컬러 스테이플러			78.0	N	https://link.wadiz.kr/BeYz/6x51dmcd
 키즈	출산·육아용품	3191	https://d1ruwxjthziwe4.cloudfront.net/marketing/3191.jpg	7900	2900	5000원	앱 첫결제 5천원 즉시할인		닥터치카 어린이 고불소 치약 80g			44.0	N	https://link.wadiz.kr/BeYz/1jhhq8do
-패션	의류	3204	https://d1ruwxjthziwe4.cloudfront.net/marketing/3204.jpg	22950	3000	5000원	앱 첫결제 5천원 즉시할인		씨앤씨인터내셔널 멸종위기 동물티셔츠 OG로고티			34.0	N	https://link.wadiz.kr/BeYz/2ly0n0dm
+패션	의류	3204	https://d1ruwxjthziwe4.cloudfront.net/marketing/3204.jpg	20950	3000	5000원	앱 첫결제 5천원 즉시할인		씨앤씨인터내셔널 멸종위기 동물티셔츠 OG로고티			34.0	N	https://link.wadiz.kr/BeYz/2ly0n0dm
 홈·리빙	인센스·방향제	3209	https://cdn2.wadiz.kr/2022/07/26/7e6821f9-7456-43c6-a70d-0547b74348c1.jpg/wadiz/resizecrop/500x500/format/jpg	16000	2500	5000원	앱 첫결제 5천원 즉시할인		인센스월드 힐링템 청솔 인센스스틱 심신안정 방향효과			33.0	N	https://link.wadiz.kr/BeYz/aqs8zxg3
 뷰티	스킨케어	3094	https://d1ruwxjthziwe4.cloudfront.net/marketing/3094.jpg	23900	0	5000원	앱 첫결제 5천원 즉시할인		피지 순삭 앱솔룹 원샷 포어 클리어 패드 1종 145ml			856.0	N	https://link.wadiz.kr/BeYz/m13ldiz1
 뷰티	바디케어	3071	https://cdn2.wadiz.kr/2022/06/21/e35cfc84-9c69-4a7a-b81c-e5592230bcc5.png/wadiz/resizecrop/500x500/format/jpg	54000	3000	5000원	앱 첫결제 5천원 즉시할인		일삼오디 멀티오디밤 천연 멀티 입욕제 오디밤 배쓰밤 각질제거 바디케어 3종+천연비누망 3개 세트			15.0	N	https://link.wadiz.kr/BeYz/weuvytv1
