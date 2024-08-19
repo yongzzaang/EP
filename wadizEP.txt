@@ -268,7 +268,7 @@ category_name1	category_name2	id	image_link	price_pc	shipping	coupon	event_words
 스포츠·아웃도어	등산	2099	https://d1ruwxjthziwe4.cloudfront.net/marketing/2099.jpg	29900	3000	5000원	앱 첫결제 5천원 즉시할인		메디그립 안티쇼크 에디션 무릎보호대			68.0	N	https://link.wadiz.kr/BeYz/m6edr6wy
 테크·가전		2080	https://cdn2.wadiz.kr/2022/01/12/c4be6905-9439-42f3-99ed-7f7609ff8020.jpg/wadiz/resizecrop/500x500/format/jpg	127000	3300	5000원	앱 첫결제 5천원 즉시할인		세라핌 R1+ 스마트폰 게임용 레이싱 휠 고정거치대			18.0	N	https://link.wadiz.kr/BeYz/5wlcxfbm
 패션	패션소품	1945	https://d1ruwxjthziwe4.cloudfront.net/marketing/1945.jpg	7900	3000	5000원	앱 첫결제 5천원 즉시할인		핸디핸드 핸디포켓 강력 자석 아이폰 맥세이프 케이스			289.0	N	https://link.wadiz.kr/BeYz/c7ybktjo
-뷰티	스킨케어	2121	https://d1ruwxjthziwe4.cloudfront.net/marketing/2121.jpg	104000	0	5000원	앱 첫결제 5천원 즉시할인		이데넬 알텀 펩타이드 솔루션 크림 20ml			141.0	N	https://link.wadiz.kr/BeYz/nqfjtz88
+뷰티	스킨케어	2121	https://d1ruwxjthziwe4.cloudfront.net/marketing/2121.jpg	200000	0	5000원	앱 첫결제 5천원 즉시할인		이데넬 알텀 펩타이드 솔루션 크림 20ml			141.0	N	https://link.wadiz.kr/BeYz/nqfjtz88
 스포츠·아웃도어		1938	https://d1ruwxjthziwe4.cloudfront.net/marketing/1938.jpg	35000	0	5000원	앱 첫결제 5천원 즉시할인		포항 야외방탈출 게임 꺼지지 않는 불빛 호미곶 그곳 체험			8.0	N	https://link.wadiz.kr/BeYz/oxm6kdik
 홈·리빙		1377	https://d1ruwxjthziwe4.cloudfront.net/marketing/1377.jpg	20000	3500	5000원	앱 첫결제 5천원 즉시할인		러버스 모과글 폐렴균 충치균 제거 모과향 가글액 300ml			159.0	N	https://link.wadiz.kr/BeYz/drxj9k40
 반려동물		2126	https://d1ruwxjthziwe4.cloudfront.net/marketing/2126.jpg	116820	0	5000원	앱 첫결제 5천원 즉시할인		펫인뷰티 강아지 고양이 천연 라텍스 조각 쫀쫀방석 퀼팅			9.0	N	https://link.wadiz.kr/BeYz/s62x5ldq
@@ -365,7 +365,6 @@ category_name1	category_name2	id	image_link	price_pc	shipping	coupon	event_words
 게임	보드게임	2654	https://cdn2.wadiz.kr/2022/03/30/a2851fad-644e-43c8-823d-a393cc1311bc.jpg/wadiz/resizecrop/500x500/format/jpg	145000	0	5000원	앱 첫결제 5천원 즉시할인		우보펀앤런 서버비아 완전판 콜렉터스 에디션			28.0	N	https://link.wadiz.kr/BeYz/bdynzvbh
 테크·가전		2653	https://d1ruwxjthziwe4.cloudfront.net/marketing/2653.jpg	69000	0	5000원	앱 첫결제 5천원 즉시할인		JMW 항공모터 드라이기			53.0	N	https://link.wadiz.kr/BeYz/c6ql6w7u
 테크·가전	엔터테인먼트가전	2649	https://d1ruwxjthziwe4.cloudfront.net/marketing/2649.jpg	712000	0	5000원	앱 첫결제 5천원 즉시할인		엑스지미 모고프로+스마트 빔프로젝터			14.0	N	https://link.wadiz.kr/BeYz/k1zwahgm
-반려동물	고양이	822	https://d1ruwxjthziwe4.cloudfront.net/marketing/822.jpg	45000	3000	5000원	앱 첫결제 5천원 즉시할인		오로라샌드 먼지없는 벤토나이트 고양이 화장실 모래 오리지널 벤토 폼 스마트 6kg			31.0	N	https://link.wadiz.kr/BeYz/lbq2p8lm
 자동차	관리·세차용품	2260	https://cdn2.wadiz.kr/2022/04/01/398de97a-8365-4937-9376-80cb3254a3d5.png/wadiz/resizecrop/500x500/format/jpg	33800	3000	5000원	앱 첫결제 5천원 즉시할인		아우토슈첸 클린앤케어 올인원 실내클리너 가죽클리너 클리닝 보습케어			61.0	N	https://link.wadiz.kr/BeYz/ex8a80hc
 테크·가전		2631	https://d1ruwxjthziwe4.cloudfront.net/marketing/2631.jpg	259000	0	5000원	앱 첫결제 5천원 즉시할인		케어포유 종아리 발 하체 허벅지 편백나무 건식 족욕기 좌욕기			13.0	N	https://link.wadiz.kr/BeYz/cfjg3ur9
 스포츠·아웃도어		2651	https://d1ruwxjthziwe4.cloudfront.net/marketing/2651.jpg	20500	3000	5000원	앱 첫결제 5천원 즉시할인		코리아보드게임즈 스파이시 카드 블러핑 보드게임			62.0	N	https://link.wadiz.kr/BeYz/mp57p3ca
@@ -2786,6 +2785,7 @@ category_name1	category_name2	id	image_link	price_pc	shipping	coupon	event_words
 스포츠·아웃도어	골프	6415	https://cdn2.wadiz.kr/2024/03/12/82e846f1-aceb-4cc9-ba7f-4efdf1071788.jpg/wadiz/resizecrop/500x500/format/jpg	44900	0	5000원	앱 첫결제 5천원 즉시할인		버디원 스마트골프티 롱티+숏티 1+1			13.0	N	https://link.wadiz.kr/BeYz/2sfiny43
 패션	언더웨어	7402	https://d1ruwxjthziwe4.cloudfront.net/marketing/7402.jpg	45000	3000	5000원	앱 첫결제 5천원 즉시할인		제이슨유통 100수 모달 남성 드로즈 남성팬티 5장 1세트			9.0	N	https://link.wadiz.kr/BeYz/x0dj030t
 홈·리빙	청소·세탁	8150	https://cdn2.wadiz.kr/2024/04/26/a1a0d270-6b64-4d74-95d3-8c231cd17fb5.jpg/wadiz/resizecrop/500x500/format/jpg	15000	0	5000원	앱 첫결제 5천원 즉시할인		디마인드 한알표백제 살균표백제 60개입 건조기시트 40매			7.0	N	https://link.wadiz.kr/BeYz/kd7n87wq
+자동차	모빌리티	7568	https://d1ruwxjthziwe4.cloudfront.net/marketing/7568.jpg	73600	3000	5000원	앱 첫결제 5천원 즉시할인		블레이드신 카본와이퍼 1세트+리필고무2종+유막제거발수코팅제 1세트			29.0	N	https://link.wadiz.kr/BeYz/dkkqt4mf
 홈·리빙	인센스·방향제	7705	https://cdn2.wadiz.kr/2024/04/17/d109036e-74d2-4208-88a8-bbee2066b2ac.jpeg/wadiz/resizecrop/500x500/format/jpg	23500	0	5000원	앱 첫결제 5천원 즉시할인		메종드베이 빅베어브릭 디퓨저 용액 500ml 석고 리드스틱 1세트			8.0	N	https://link.wadiz.kr/BeYz/dr69ptzy
 푸드	헬스·이너뷰티	7345	https://cdn2.wadiz.kr/2024/04/04/04734ea1-34ca-4577-9b67-85fb9833a9a1.jpg/wadiz/resizecrop/500x500/format/jpg	54520	3000	5000원	앱 첫결제 5천원 즉시할인		몸핏쉐이크 체중조절 귀리 단백질쉐이크 50g 14개			0.0	N	https://link.wadiz.kr/BeYz/al6i7npp
 테크·가전		8271	https://cdn2.wadiz.kr/2024/04/30/50e21b6e-c040-4a64-905a-bf2b1b2dd42a.png/wadiz/resizecrop/500x500/format/jpg	799000	0	5000원	앱 첫결제 5천원 즉시할인		혜지시스템 LG전자 28인치 나노 IPS SDQHD 듀얼업 와이드 모니터			6.0	N	https://link.wadiz.kr/BeYz/b0ga44oc
