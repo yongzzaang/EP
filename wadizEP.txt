@@ -2877,7 +2877,6 @@ category_name1	category_name2	id	image_link	price_pc	shipping	coupon	event_words
 뷰티	헤어케어	5925	https://d1ruwxjthziwe4.cloudfront.net/marketing/5925.jpg	25000	3000	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	루토닉스 트리트먼트 노워시 콜라겐 폭탄			170.0	N	https://link.wadiz.kr/BeYz/xy48xj5k
 푸드		4117	https://d1ruwxjthziwe4.cloudfront.net/marketing/4117.jpg	18000	3000	5000원	앱 첫결제 5천원 즉시할인		명희봉밀 일본 전통 나가사키 카스테라 170g			144.0	N	https://link.wadiz.kr/BeYz/ob77k9rh
 테크·가전	엔터테인먼트가전	8363	https://d1ruwxjthziwe4.cloudfront.net/marketing/8363.jpg	389000	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	셀릭 사이버 블레이드 게이밍 무선 이어폰			33.0	N	https://link.wadiz.kr/BeYz/3krk0rqz
-테크·가전	생활가전	8467	https://d1ruwxjthziwe4.cloudfront.net/marketing/8467.jpg	35000	0	5000원	앱 첫결제 5천원 즉시할인		AURA 아우라 3D 입체냉각 아이스 넥밴드 휴대용 선풍기			27.0	N	https://link.wadiz.kr/BeYz/c508ewxv
 반려동물	강아지	7908	https://cdn2.wadiz.kr/2024/04/19/e895f612-bfec-461b-bdec-b1b6abee7033.jpg/wadiz/resizecrop/500x500/format/jpg	10830	0	5000원	앱 첫결제 5천원 즉시할인		도캐더 반려동물간식 저칼로리 동결건조 황금트릿 북어 치킨 고구마 50g			7.0	N	https://link.wadiz.kr/BeYz/epg1td2e
 패션	주얼리	8407	https://cdn2.wadiz.kr/2024/05/13/a096604f-e4b2-48b5-9a1e-934182901f49.jpeg/wadiz/resizecrop/500x500/format/jpg	163000	4000	5000원	앱 첫결제 5천원 즉시할인		레브드파리 이태리 천연원석 목걸이 팔찌 세트			2.0	N	https://link.wadiz.kr/BeYz/06bdm08p
 스포츠·아웃도어	캠핑	5307	https://d1ruwxjthziwe4.cloudfront.net/marketing/5307.jpg	44000	0	5000원	앱 첫결제 5천원 즉시할인		저스트포원 프리미엄 에코 트래블 싱글 키트 1세트			5.0	N	https://link.wadiz.kr/BeYz/un2bnybd
