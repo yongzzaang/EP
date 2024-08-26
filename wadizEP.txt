@@ -1445,7 +1445,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 스포츠·아웃도어	홈트레이닝	5357	https://d1ruwxjthziwe4.cloudfront.net/marketing/5357.jpg	https://link.wadiz.kr/BeYz/9r57u4r1	269000	0	5000원	앱 첫결제 5천원 즉시할인		손목 자동운동 NSD 스피너 손목재활 골프 테니스 엘보 재활 태엽식 자이로볼			20.0	N
 홈·리빙		1254	https://cdn2.wadiz.kr/2021/10/03/78dff81d-3c39-4ba2-8b0c-786f32d93ea5.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/74uz8dbl	18000	3000	5000원	앱 첫결제 5천원 즉시할인		클리핏 만능클립 블랙			63.0	N
 홈·리빙		3618	https://d1ruwxjthziwe4.cloudfront.net/marketing/3618.jpg	https://link.wadiz.kr/BeYz/aj8cj7l4	22000	3000	5000원	앱 첫결제 5천원 즉시할인		클리핏 만능클립20 본체			48.0	N
-자동차	전자기기	5380	https://d1ruwxjthziwe4.cloudfront.net/marketing/5380.jpg	https://link.wadiz.kr/BeYz/mgybk3oj	96000	0	5000원	앱 첫결제 5천원 즉시할인		모비디안 드라이브7 안드로이드오토 카플레이 DRIVE7 차량용 무선 모니터			16.0	N
 키즈	교구·문구	4570	https://d1ruwxjthziwe4.cloudfront.net/marketing/4570.jpg	https://link.wadiz.kr/BeYz/6be6t2im	28980	3000	5000원	앱 첫결제 5천원 즉시할인		예술놀이터 브레이닝 스피드 칠교 칠교놀이 보드게임			10.0	N
 패션	패션소품	5349	https://d1ruwxjthziwe4.cloudfront.net/marketing/5349.jpg	https://link.wadiz.kr/BeYz/gmqwrjo8	391000	0	5000원	앱 첫결제 5천원 즉시할인		로만손 아트락스 스켈레톤 워치			65.0	N
 홈·리빙	주방	5331	https://d1ruwxjthziwe4.cloudfront.net/marketing/5331.jpg	https://link.wadiz.kr/BeYz/jdba507s	218000	3000	5000원	와디즈 스토어에서 78,000.0원 즉시 쿠폰할인!	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	쿠자 316 캠핑그리들 34cm 40cm				N
