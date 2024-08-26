@@ -979,7 +979,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 게임	보드게임	4420	https://cdn2.wadiz.kr/2023/04/20/48b6ae99-3617-43dd-a119-8aeb998b74ad.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/ibmvpjzz	42480	0	5000원	앱 첫결제 5천원 즉시할인		보드엠 알까기 보드게임 거대문어소동			58.0	N
 패션	신발	4424	https://cdn2.wadiz.kr/2023/04/20/fb5156da-6222-4237-bf33-7c9c635a4e6a.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/nl52b5gs	29400	2500	5000원	앱 첫결제 5천원 즉시할인		허니발란스 기능성 인솔 뒷꿈치 깔창			60.0	N
 키즈	출산·육아용품	4423	https://d1ruwxjthziwe4.cloudfront.net/marketing/4423.jpg	https://link.wadiz.kr/BeYz/rcg9bmtv	632000	25000	5000원	앱 첫결제 5천원 즉시할인		노르딕베이비 훈타스 원목아기침대 본체			16.0	N
-푸드	소스·조미료	3913	https://cdn2.wadiz.kr/2023/01/04/a177cbfe-a7aa-4a6e-9168-490aa383e1d2.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/9qdxg8ge	29000	3000	5000원	앱 첫결제 5천원 즉시할인		틴틴 수제 카이막 100g+꿀스틱			75.0	N
 홈·리빙		4412	https://cdn2.wadiz.kr/2023/04/24/18bc6a00-03f7-496e-9f05-3c559df8fb91.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/8vryiv1e	29700	3000	5000원	앱 첫결제 5천원 즉시할인		네모망고 초대형 접이식 우산+방수파우치			74.0	N
 홈·리빙	인테리어	4174	https://cdn2.wadiz.kr/2023/02/22/21510588-d253-4e84-bcc5-87975d975fa5.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/qthk7c1k	7900	3500	5000원	앱 첫결제 5천원 즉시할인		뮤즈프레임 DIY 종이액자 세트			6.0	N
 테크·가전	엔터테인먼트가전	4433	https://d1ruwxjthziwe4.cloudfront.net/marketing/4433.jpg	https://link.wadiz.kr/BeYz/mclgqf17	1182000	0	5000원	앱 첫결제 5천원 즉시할인		엑스지미 헤일로 플러스 Halo+휴대용 스마트 빔프로젝터			2.0	N
@@ -1228,7 +1227,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 홈·리빙		966	https://d1ruwxjthziwe4.cloudfront.net/marketing/966.jpg	https://link.wadiz.kr/BeYz/x3heqm3x	29970	0	5000원	앱 첫결제 5천원 즉시할인		후가글 구강 이물질 흡착 가글액 30개입 2팩			171.0	N
 뷰티	구강용품	2858	https://d1ruwxjthziwe4.cloudfront.net/marketing/2858.jpg	https://link.wadiz.kr/BeYz/7d595yn8	43470	0	5000원	앱 첫결제 5천원 즉시할인		후가글 스틱 50개입 3박스			36.0	N
 홈·리빙	인테리어	4547	https://d1ruwxjthziwe4.cloudfront.net/marketing/4547.jpg	https://link.wadiz.kr/BeYz/r16isikn	285000	0	5000원	앱 첫결제 5천원 즉시할인		BMKC 아타미스 ATAMIS 심플형 풀메쉬 의자 블랙 프레임			17.0	N
-패션	가방	4908	https://d1ruwxjthziwe4.cloudfront.net/marketing/4908.jpg	https://link.wadiz.kr/BeYz/ynjrx15w	131000	0	5000원	앱 첫결제 5천원 즉시할인		투르 드 프랑스 극한백 32L			17.0	N
 뷰티	스킨케어	4963	https://d1ruwxjthziwe4.cloudfront.net/marketing/4963.jpg	https://link.wadiz.kr/BeYz/dt0ftbed	36900	3000	5000원	앱 첫결제 5천원 즉시할인		비앤힐 트라넥 삼산 기미 크림 50ml			131.0	N
 푸드	산지직송	4945	https://d1ruwxjthziwe4.cloudfront.net/marketing/4945.jpg	https://link.wadiz.kr/BeYz/6v92diek	81000	3000	5000원	앱 첫결제 5천원 즉시할인		와사비가게 시즈오카 마즈마 생와사비 50g 이상+오키나와 눈꽃소금 세트			21.0	N
 스포츠·아웃도어	골프	5010	https://cdn2.wadiz.kr/2023/08/18/cfe9d90c-e427-4d8c-85ad-79bca4bf1b92.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/cdor0wch	19000	3000	5000원	앱 첫결제 5천원 즉시할인		바이트 골프 장갑 남성용			20.0	N
@@ -2985,7 +2983,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 반려동물	강아지	8469	https://cdn2.wadiz.kr/2024/05/18/c193c1fb-41a6-4be6-b57e-aaac1cc1c3dd.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/lx1l5j8a	27000	0	5000원	앱 첫결제 5천원 즉시할인		견공 반려견 한방 보양 영양간식 멍이장군 뼈튼튼 젤리 30포 60포			4.0	N
 뷰티	스킨케어	7122	https://cdn2.wadiz.kr/2024/03/26/c92607a8-14c8-4494-84ba-722afcc68893.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/iw9wfpmv	25000	0	5000원	앱 첫결제 5천원 즉시할인		로멜 프레쉬믹스 옐로 도우 마스크팩 반죽팩			15.0	N
 뷰티	스킨케어	8463	https://cdn2.wadiz.kr/2024/05/17/c86075c6-122a-4b25-9869-b4058beda382.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/2jwek5r4	28800	0	5000원	앱 첫결제 5천원 즉시할인		베네투스 모공 압축 크림 50ml			12.0	N
-푸드	산지직송	8518	https://cdn2.wadiz.kr/2024/05/27/bbd152cb-56ad-49ea-b5d5-3316235f5715.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/6h21bd3s	19900	0	5000원	앱 첫결제 5천원 즉시할인		대성농장 제주 제철 미니 꿀 밤호박 15kg 3kg 5kg 10kg			15.0	N
 홈·리빙	청소·세탁	8558	https://cdn2.wadiz.kr/2024/05/30/dc826618-55d0-43e2-9a85-475721919139.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/7kl1t9b6	29000	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	디테일가이 하이엔드 홈 코팅제+스프레이용기 세트			32.0	N
 뷰티	선케어	8166	https://cdn2.wadiz.kr/2024/04/29/3abec4bb-6f66-4367-82f0-27addafd6fba.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/9xewp9xf	18500	0	5000원	앱 첫결제 5천원 즉시할인		부쉬맨 워터프루프 서핑 선스틱 16g			9.0	N
 패션	의류	8315	https://d1ruwxjthziwe4.cloudfront.net/marketing/8315.jpg	https://link.wadiz.kr/BeYz/v7q9yx7p	44100	3000	5000원	앱 첫결제 5천원 즉시할인		세이즈믹 서페이스 클라이밍 쇼츠 베이지			10.0	N
