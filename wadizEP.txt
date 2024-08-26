@@ -918,6 +918,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 키즈	출산·육아용품	4126	https://cdn2.wadiz.kr/2023/02/14/1b873c1c-4242-427b-9ee9-87f2a2b9dfc7.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/fb5aeqku	18000	3000	5000원	앱 첫결제 5천원 즉시할인		모니 실리콘 멀티 빨대컵 유아식기 양손 흘림방지 머그컵			15.0	N
 푸드	음료·커피	4213	https://cdn2.wadiz.kr/2023/12/18/e0e007e0-2b61-4a8d-ac16-0d051b78d9dc.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/tbhwhedz	25900	0	5000원	앱 첫결제 5천원 즉시할인		넛츠그린 제로 칼로리 스파클링 탄산 음료 복숭아블랙티 24개입			63.0	N
 스포츠·아웃도어	홈트레이닝	4119	https://d1ruwxjthziwe4.cloudfront.net/marketing/4119.jpg	https://link.wadiz.kr/BeYz/4hhwg5qc	62100	0	5000원	앱 첫결제 5천원 즉시할인		마이 컬러힐 에코 요가매트 8mm 벽걸이형			20.0	N
+홈·리빙		2849	https://cdn2.wadiz.kr/2022/05/11/63628c41-a313-4998-915d-0c36e7495b54.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/39056a2r	17000	3000	5000원	앱 첫결제 5천원 즉시할인		ADV Sleeper 수면 이어플러그			85.0	N
 여행	여행용품	4281	https://d1ruwxjthziwe4.cloudfront.net/marketing/4281.jpg	https://link.wadiz.kr/BeYz/ied8qq3c	19900	3000	5000원	앱 첫결제 5천원 즉시할인		맹그로브 아마리드 원단 캠핑 장갑			72.0	N
 뷰티	스킨케어	4279	https://cdn2.wadiz.kr/2023/03/23/fe0e6194-c0c5-4faa-84eb-3856056bce36.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/dfzd239p	24300	3000	5000원	앱 첫결제 5천원 즉시할인		더마 스킨플래닝 피토플래닝 페이셜 앰플 요철지우개 30ml			80.0	N
 푸드	비건	409	https://cdn2.wadiz.kr/2021/09/05/34bc4711-4747-4e32-b4b3-943f0d34cb5f.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/8wvj1e47	40500	0	5000원	앱 첫결제 5천원 즉시할인		제주 남현 프리미엄 비건 김치 포기 3kg 5kg			52.0	N
