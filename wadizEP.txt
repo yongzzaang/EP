@@ -720,7 +720,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 홈·리빙	인테리어	3851	https://d1ruwxjthziwe4.cloudfront.net/marketing/3851.jpg	https://link.wadiz.kr/BeYz/ao5ge4yw	27900	3000	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	스마트홈 미니빅 푸시 미니+IoT 허브 기기 원격제어			261.0	N
 홈·리빙	화훼·원예	3787	https://d1ruwxjthziwe4.cloudfront.net/marketing/3787.jpg	https://link.wadiz.kr/BeYz/58s5nf71	31500	0	5000원	앱 첫결제 5천원 즉시할인		반려식물 지양 하월시아 1번			366.0	N
 테크·가전		3311	https://d1ruwxjthziwe4.cloudfront.net/marketing/3311.jpg	https://link.wadiz.kr/BeYz/fjq5w5vo	290000	0	5000원	앱 첫결제 5천원 즉시할인		어라운드엑스 와이젠핏 여성용 EMS 레깅스			16.0	N
-뷰티	헤어케어	3813	https://d1ruwxjthziwe4.cloudfront.net/marketing/3813.jpg	https://link.wadiz.kr/BeYz/uirbgivy	29610	0	5000원	앱 첫결제 5천원 즉시할인		헤어필루션 스탬프 두피 앰플 문신 모근도트닝7ml+스탬프			112.0	N
 스포츠·아웃도어	캠핑	3841	https://d1ruwxjthziwe4.cloudfront.net/marketing/3841.jpg	https://link.wadiz.kr/BeYz/a2tqap7b	34020	3000	5000원	앱 첫결제 5천원 즉시할인		4BNK 요리조리 5in1 캠핑 반합 스텐 16L			101.0	N
 테크·가전	생활가전	3878	https://d1ruwxjthziwe4.cloudfront.net/marketing/3878.jpg	https://link.wadiz.kr/BeYz/6hquc4mv	121000	0	5000원	앱 첫결제 5천원 즉시할인		레브커머스 요플레이 가열식 스텐가습기 신생아 밥솥 밥통 YBH01			65.0	N
 패션		2335	https://cdn2.wadiz.kr/2022/12/17/0862914c-2a3a-4183-8d49-7b475fc412d1.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/gjiqknmp	11100	3000	5000원	앱 첫결제 5천원 즉시할인		큐브쿠션 니삭스 기능성 스포츠 양말 2팩 세트			153.0	N
@@ -1178,7 +1177,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 패션	가방	4843	https://d1ruwxjthziwe4.cloudfront.net/marketing/4843.jpg	https://link.wadiz.kr/BeYz/x82upq9c	101000	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	인케이스 A R C 트래블 컬렉션 아크 테크토트			42.0	N
 홈·리빙	화훼·원예	2923	https://cdn2.wadiz.kr/2023/11/27/d9d12333-4c80-472b-87f2-597937adaa79.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/qdc0sej7	39600	4000	5000원	앱 첫결제 5천원 즉시할인		지양 하월시아 23Spr 31번 화화 금 꽃말 다산 번영 장수			135.0	N
 홈·리빙	화훼·원예	4914	https://d1ruwxjthziwe4.cloudfront.net/marketing/4914.jpg	https://link.wadiz.kr/BeYz/rm0r29gm	54000	3000	5000원	앱 첫결제 5천원 즉시할인		무화농장 무화과 분재 1단형			24.0	N
-스포츠·아웃도어	등산	4658	https://d1ruwxjthziwe4.cloudfront.net/marketing/4658.jpg	https://link.wadiz.kr/BeYz/ll2hxwxm	29900	0	5000원	앱 첫결제 5천원 즉시할인		라이너프리 등산 헬스 러닝 임산부 스포츠 무릎 보호대 2개			34.0	N
+스포츠·아웃도어	등산	4658	https://d1ruwxjthziwe4.cloudfront.net/marketing/4658.jpg	https://link.wadiz.kr/BeYz/ll2hxwxm	24900	0	5000원	앱 첫결제 5천원 즉시할인		라이너프리 등산 헬스 러닝 임산부 스포츠 무릎 보호대 2개			34.0	N
 뷰티	메이크업	2459	https://d1ruwxjthziwe4.cloudfront.net/marketing/2459.jpg	https://link.wadiz.kr/BeYz/ybr4hp65	20500	0	5000원	앱 첫결제 5천원 즉시할인		마더메이드 수퍼 플럼핑 비타민E 비건 립마스크			114.0	N
 푸드		4919	https://d1ruwxjthziwe4.cloudfront.net/marketing/4919.jpg	https://link.wadiz.kr/BeYz/btj5md3c	3800	4000	5000원	앱 첫결제 5천원 즉시할인		빵프로 단백질 충전 프로틴 파운드 속세 케익			25.0	N
 키즈	출산·육아용품	4891	https://cdn2.wadiz.kr/2023/07/19/b549e408-a2d9-4322-b601-866bc721c1ea.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/kvg8bap4	482000	0	5000원	앱 첫결제 5천원 즉시할인		맥시코시 하이체어 네스타 Nesta+토들러 키트			5.0	N
