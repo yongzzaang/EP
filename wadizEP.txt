@@ -2586,6 +2586,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 푸드	간편식	7463	https://cdn2.wadiz.kr/2024/04/11/e7f62062-2ae6-4702-ba1a-8fddcabfbddb.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/qt0a4qgm	24900	0	5000원	앱 첫결제 5천원 즉시할인		자연백계 국내산 닭다리살 맵싹닭갈비 500g 3팩				N
 테크·가전	생활가전	8253	https://cdn2.wadiz.kr/2024/04/30/b3ea4934-00e0-4bdb-ba0b-08d52fcbb7bf.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/hwazgadl	59800	3500	5000원	앱 첫결제 5천원 즉시할인		크루아르 2in1 스팀다리미				N
 홈·리빙	인테리어	8254	https://cdn2.wadiz.kr/2024/04/30/c2572972-35f7-406c-9ef3-062de674646d.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/wvx2a08u	184000	9000	5000원	앱 첫결제 5천원 즉시할인		라운드비 높이조절 데스크				N
+스포츠·아웃도어	헬스	8255	https://cdn2.wadiz.kr/2024/04/30/dfc75278-5ae5-4701-85b2-7e9debef0769.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/eywvrvm2	28800	5000	5000원	앱 첫결제 5천원 즉시할인		오시스 허리보호대				N
 스포츠·아웃도어	헬스	8256	https://cdn2.wadiz.kr/2024/04/30/a433caa0-30ac-4d99-b9e1-06a9c9a3dad2.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/tesb9zen	13600	3500	5000원	앱 첫결제 5천원 즉시할인		오시스 손목보호대				N
 뷰티	메이크업	8261	https://cdn2.wadiz.kr/2024/04/30/67c03bc2-13ab-496d-8916-d08f38cfcb4e.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/oxl212cl	31900	3500	5000원	앱 첫결제 5천원 즉시할인		엔모먼트 올인원 비비스틱				N
 반려동물	강아지	6175	https://d1ruwxjthziwe4.cloudfront.net/marketing/6175.jpg	https://link.wadiz.kr/BeYz/9wfw0f22	25900	3000	5000원	앱 첫결제 5천원 즉시할인		건강하개 먹개 과일믹스 반려견 자연간식			18.0	N
