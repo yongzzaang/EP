@@ -1639,7 +1639,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 패션	의류	5868	https://cdn2.wadiz.kr/2024/01/15/f0dee0f3-666c-4d73-a189-737be98e4fcb.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/xm64a2j8	39000	3000	5000원	앱 첫결제 5천원 즉시할인		오프그리드 얼티메이트 코듀라 패커블 자켓			18.0	N
 홈·리빙	DIY	5412	https://d1ruwxjthziwe4.cloudfront.net/marketing/5412.jpg	https://link.wadiz.kr/BeYz/g7y3de7u	44000	3000	5000원	앱 첫결제 5천원 즉시할인		필슨 자동차 겸용 소화기 본체 1대+거치대			43.0	N
 테크·가전	엔터테인먼트가전	5711	https://d1ruwxjthziwe4.cloudfront.net/marketing/5711.jpg	https://link.wadiz.kr/BeYz/43rxail9	14900	3000	5000원	앱 첫결제 5천원 즉시할인		베이식스 메탈 카드리더기 SD+microSD동시인식			44.0	N
-테크·가전	주변기기	4861	https://cdn2.wadiz.kr/2023/07/14/a6ade345-f6b3-4672-9f55-b99f210c480f.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/49gkjzf3	69800	0	5000원	앱 첫결제 5천원 즉시할인		밸류엠 100W 초고속 메탈 보조배터리 20			28.0	N
 테크·가전	생활가전	5797	https://d1ruwxjthziwe4.cloudfront.net/marketing/5797.jpg	https://link.wadiz.kr/BeYz/xcemskik	439000	0	5000원	앱 첫결제 5천원 즉시할인		카카오프렌즈 미니건조기 5KG 빨래 의류 수건 소형 건조기			15.0	N
 홈·리빙	인테리어	5863	https://cdn2.wadiz.kr/2024/01/15/d2a354e0-9886-4880-9bc9-fc4ab946e7f9.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/vuqyg1fw	69000	0	5000원	앱 첫결제 5천원 즉시할인		스틸아트 시스템행거 튼튼한 조립식 스테인리스 행거 5단			10.0	N
 패션	가방	5666	https://cdn2.wadiz.kr/2023/12/26/efb9d149-bae3-40b2-9720-7017f4b193cc.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/frbdl9a0	49000	0	5000원	앱 첫결제 5천원 즉시할인		모라도해 솜사탕백 구름백 솜사탕 가방 4색			17.0	N
