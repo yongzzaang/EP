@@ -1196,7 +1196,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 테크·가전	주변기기	4939	https://d1ruwxjthziwe4.cloudfront.net/marketing/4939.jpg	https://link.wadiz.kr/BeYz/tnqcyhiw	33800	3000	5000원	앱 첫결제 5천원 즉시할인		베이식스 C타입 6in1 멀티 허브 HDMI 랜카드 Dex			42.0	N
 홈·리빙	청소·세탁	4918	https://cdn2.wadiz.kr/2023/07/25/ab0e5d00-969f-4ac6-8d10-274b6cd9fd63.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/v6syerpb	9900	3000	5000원	앱 첫결제 5천원 즉시할인		필터스크린 음식물 쓰레기 거름망 화이트 거치대 세트			13.0	N
 홈·리빙	인테리어	4842	https://d1ruwxjthziwe4.cloudfront.net/marketing/4842.jpg	https://link.wadiz.kr/BeYz/3jdydsjd	328000	0	5000원	앱 첫결제 5천원 즉시할인		BMKC 미라클 비엠코리아 풀메쉬 사무 서재 의자 스위치 조작 슬라이드		미라클|메쉬의자|회의실의자|회전의자|컴퓨터의자추천|허리디스크의자|자세교정의자|등받이의자|편한의자|미라클풀메쉬의자	16.0	N
-홈·리빙	주방	4943	https://cdn2.wadiz.kr/2023/08/01/a25ca335-fc34-4688-abe8-f4c8941daa9c.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/4manrx4w	59000	0	5000원	앱 첫결제 5천원 즉시할인		오브제팜 모던스퀘어 식기건조대			65.0	N
 반려동물	고양이	4505	https://cdn2.wadiz.kr/2023/05/10/c3fd954e-0bff-472d-8242-ade84434563a.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/xc7clz26	33900	0	5000원	앱 첫결제 5천원 즉시할인		고양이 모래 에이스 벤토나이트 사하라 935kg			30.0	N
 홈·리빙	인센스·방향제	4577	https://d1ruwxjthziwe4.cloudfront.net/marketing/4577.jpg	https://link.wadiz.kr/BeYz/j79kq1pg	42000	3000	5000원	앱 첫결제 5천원 즉시할인		바닷 인센스 윈도우 한 개의 바다			25.0	N
 테크·가전	생활가전	4909	https://d1ruwxjthziwe4.cloudfront.net/marketing/4909.jpg	https://link.wadiz.kr/BeYz/yy314ibl	24800	3000	5000원	앱 첫결제 5천원 즉시할인		베이식스 휴대용 냉각 핸디 선풍기 단품			169.0	N
