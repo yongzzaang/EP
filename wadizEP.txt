@@ -122,7 +122,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 패션	주얼리	1044	https://d1ruwxjthziwe4.cloudfront.net/marketing/1044.jpg	https://link.wadiz.kr/BeYz/btd91jmy	40000	3000	5000원	앱 첫결제 5천원 즉시할인		프레스티지제이 크리스탈 보석 6종 반지 아르모니아 이터니티			58.0	N
 테크·가전		914	https://d1ruwxjthziwe4.cloudfront.net/marketing/914.jpg	https://link.wadiz.kr/BeYz/za2x0qn9	23900	2500	5000원	앱 첫결제 5천원 즉시할인		헬로우미스터리 셀프미 케어 칫솔 살균기			71.0	N
 푸드		1258	https://d1ruwxjthziwe4.cloudfront.net/marketing/1258.jpg	https://link.wadiz.kr/BeYz/hc2rcmpv	33000	4000	5000원	앱 첫결제 5천원 즉시할인		오땡 항공수입 양고기 제비추리 양티본 숄더랙 시즈닝 4종			255.0	N
-푸드		1252	https://d1ruwxjthziwe4.cloudfront.net/marketing/1252.jpg	https://link.wadiz.kr/BeYz/a8lsag5s	45000	0	5000원	앱 첫결제 5천원 즉시할인		텍사스 바베큐 오크우드 12시간 훈제 부채살 스모크 스테이크			47.0	N
 패션		1283	https://d1ruwxjthziwe4.cloudfront.net/marketing/1283.jpg	https://link.wadiz.kr/BeYz/p4w2jkvo	29900	3000	5000원	앱 첫결제 5천원 즉시할인		210에디트 사방스판 데일리 자켓			40.0	N
 패션		1233	https://d1ruwxjthziwe4.cloudfront.net/marketing/1233.jpg	https://link.wadiz.kr/BeYz/f56n7699	78000	3000	5000원	앱 첫결제 5천원 즉시할인		써밋라이프 리버서블 써멀후리스 플리스 뽀글이 자켓 유니섹스			22.0	N
 스포츠·아웃도어	헬스	697	https://d1ruwxjthziwe4.cloudfront.net/marketing/697.jpg	https://link.wadiz.kr/BeYz/c8fmw6ec	26500	3000	5000원	앱 첫결제 5천원 즉시할인		지몬 자석 지압 손목보호대 테니스 아대 임산부 산모 밴드			72.0	N
