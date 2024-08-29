@@ -778,6 +778,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 푸드		3957	https://d1ruwxjthziwe4.cloudfront.net/marketing/3957.jpg	https://link.wadiz.kr/BeYz/02qavaud	14800	4500	5000원	앱 첫결제 5천원 즉시할인		제주완벽한돈백질 제주흑돈소세지 저먼스탠다드 오리엔탈소이소스 그린칠리 핫스파이시 5팩			248.0	N
 푸드	디저트·간식	3976	https://d1ruwxjthziwe4.cloudfront.net/marketing/3976.jpg	https://link.wadiz.kr/BeYz/jdhpqxdb	45600	4000	5000원	앱 첫결제 5천원 즉시할인		마야니 이탈리아 대표 잔두야 초콜릿 182g			116.0	N
 테크·가전	엔터테인먼트가전	3943	https://d1ruwxjthziwe4.cloudfront.net/marketing/3943.jpg	https://link.wadiz.kr/BeYz/8utnola6	569000	0	5000원	앱 첫결제 5천원 즉시할인		제우스 미니 빔프로젝터 A900			21.0	N
+홈·리빙	주방	3977	https://d1ruwxjthziwe4.cloudfront.net/marketing/3977.jpg	https://link.wadiz.kr/BeYz/i8dre9rb	94000	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	리빙크리에이터 실리콘 푸드백 지켜백 세트 비비드 뉴트럴 5종 10종			107.0	N
 테크·가전	생활가전	3972	https://d1ruwxjthziwe4.cloudfront.net/marketing/3972.jpg	https://link.wadiz.kr/BeYz/6mvd26ly	279000	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	홈세라 에어로데이지 미니 건조기 화이트 HMD300HCG			19.0	N
 홈·리빙		3996	https://d1ruwxjthziwe4.cloudfront.net/marketing/3996.jpg	https://link.wadiz.kr/BeYz/td3ewshk	23900	3000	5000원	앱 첫결제 5천원 즉시할인		올품락 다용도 스텐 심플 물결 바트 소형 중형 대형			18.0	N
 뷰티	클렌징	4005	https://cdn2.wadiz.kr/2023/01/16/aec768c6-f696-46e3-bfb5-e1cdb7488c2e.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/8ugq2l6k	35000	3000	5000원	앱 첫결제 5천원 즉시할인		미다 쏙쌀폼 쌀겨스크럽폼 천연성분 저자극 클렌저 150ml			56.0	N
@@ -896,6 +897,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 스포츠·아웃도어		4134	https://d1ruwxjthziwe4.cloudfront.net/marketing/4134.jpg	https://link.wadiz.kr/BeYz/atzemnjw	21900	3000	5000원	앱 첫결제 5천원 즉시할인		어라운드 윷놀이 윷+플라스틱 자석 윷말+패브릭 말판 세트			30.0	N
 테크·가전	주변기기	4245	https://cdn2.wadiz.kr/2023/03/16/e189f727-ce23-4c6b-a783-3ef1ddeb96ba.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/2pci3sqz	4900	3000	5000원	앱 첫결제 5천원 즉시할인		에카엑스 3in1 마우스 패드 기본형 와이드형			60.0	N
 홈·리빙	욕실	4204	https://d1ruwxjthziwe4.cloudfront.net/marketing/4204.jpg	https://link.wadiz.kr/BeYz/7odmat6u	34000	0	5000원	앱 첫결제 5천원 즉시할인		이온폴리스 얼수플러스 세면대 아기 비데+필터 6개월			22.0	N
+홈·리빙	주방	4222	https://d1ruwxjthziwe4.cloudfront.net/marketing/4222.jpg	https://link.wadiz.kr/BeYz/pj9bxauo	46900	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	리빙크리에이터 푸쉬락 지켜락 400ml 4개 세트			153.0	N
 스포츠·아웃도어	캠핑	4225	https://d1ruwxjthziwe4.cloudfront.net/marketing/4225.jpg	https://link.wadiz.kr/BeYz/gsp8ncu9	144000	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	벨락 컬러 9L 코펠 라지사이즈			71.0	N
 뷰티	바디케어	4205	https://d1ruwxjthziwe4.cloudfront.net/marketing/4205.jpg	https://link.wadiz.kr/BeYz/wsrurxcg	24750	3000	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	에이플로 식이유황 스파 바디바 비건비누 125g			100.0	N
 테크·가전	생활가전	1225	https://d1ruwxjthziwe4.cloudfront.net/marketing/1225.jpg	https://link.wadiz.kr/BeYz/sdrtempc	178000	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	시리어스 LED 벨트 프로			127.0	N
