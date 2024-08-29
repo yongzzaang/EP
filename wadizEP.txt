@@ -2188,7 +2188,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 스포츠·아웃도어	자전거	7428	https://d1ruwxjthziwe4.cloudfront.net/marketing/7428.jpg	https://link.wadiz.kr/BeYz/mu58fwqt	999000	0	5000원	앱 첫결제 5천원 즉시할인		벤틀러스 LT7 미니벨로 전기자전거			1.0	N
 홈·리빙	주방	1960	https://cdn2.wadiz.kr/2021/12/21/76c9fc4a-a381-45cf-8539-5107c5811c29.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/a3up310w	139300	4000	5000원	앱 첫결제 5천원 즉시할인		루아르테크 316 스텐 프레시볼 3종세트 202428사이즈			27.0	N
 홈·리빙	인테리어	7224	https://cdn2.wadiz.kr/2024/03/28/23e5fa12-3ed3-4055-a15a-eea10c25d648.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/x6deuo37	19900	3000	5000원	앱 첫결제 5천원 즉시할인		메이플빈 행운의 액막이 북어 원목공예 미니			1.0	N
-패션	주얼리	7395	https://cdn2.wadiz.kr/2024/04/08/5b362c31-d166-435f-8aab-872d0c057785.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/tlho7b8m	28000	3000	5000원	앱 첫결제 5천원 즉시할인		오키키몰 나비 니팅링 손가락 보호반지			1.0	N
+패션	주얼리	7395	https://cdn2.wadiz.kr/2024/04/08/5b362c31-d166-435f-8aab-872d0c057785.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/tlho7b8m	28000	0	5000원	앱 첫결제 5천원 즉시할인		오키키몰 나비 니팅링 손가락 보호반지			1.0	N
 푸드	간편식	6923	https://d1ruwxjthziwe4.cloudfront.net/marketing/6923.jpg	https://link.wadiz.kr/BeYz/khj1qgmh	42000	0	5000원	앱 첫결제 5천원 즉시할인		토마토비프 마녀스프 베이직 스프+피타브레드			2.0	N
 푸드	디저트·간식	6910	https://cdn2.wadiz.kr/2024/03/20/41763d5d-330c-4a2a-b06e-6fc908a86868.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/vop7598q	36000	0	5000원	앱 첫결제 5천원 즉시할인		그린픽 호두정과 호두강정 130g 190g 2통 4통			2.0	N
 뷰티		7168	https://d1ruwxjthziwe4.cloudfront.net/marketing/7168.jpg	https://link.wadiz.kr/BeYz/iilkd461	21600	0	5000원	앱 첫결제 5천원 즉시할인		아로마블리스 천연 비건 아로마 마사지 쿨온 바디 롤러볼			22.0	N
