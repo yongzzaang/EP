@@ -142,7 +142,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 패션	아이웨어	1268	https://d1ruwxjthziwe4.cloudfront.net/marketing/1268.jpg	https://link.wadiz.kr/BeYz/x6x2atp2	98000	3000	5000원	앱 첫결제 5천원 즉시할인		소월 클립안경 SW3 4649 사이즈 3컬러			13.0	N
 패션		1375	https://d1ruwxjthziwe4.cloudfront.net/marketing/1375.jpg	https://link.wadiz.kr/BeYz/jnti0vfa	98000	3000	5000원	앱 첫결제 5천원 즉시할인		소월 클립안경 SW1 4649 사이즈 3컬러			29.0	N
 아트		674	https://d1ruwxjthziwe4.cloudfront.net/marketing/674.jpg	https://link.wadiz.kr/BeYz/k5hco9uo	299000	0	5000원	앱 첫결제 5천원 즉시할인		벤티볼리오 하이엔드 기타 제뉴인 1112lvc			11.0	N
-패션		1293	https://d1ruwxjthziwe4.cloudfront.net/marketing/1293.jpg	https://link.wadiz.kr/BeYz/2nb8t050	38800	3500	5000원	앱 첫결제 5천원 즉시할인		리코브 남성 여성 오늘팬츠 면팬츠 스판 바지 5컬러			139.0	N
+패션		1293	https://d1ruwxjthziwe4.cloudfront.net/marketing/1293.jpg	https://link.wadiz.kr/BeYz/2nb8t050	39800	3500	5000원	앱 첫결제 5천원 즉시할인		리코브 남성 여성 오늘팬츠 면팬츠 스판 바지 5컬러			139.0	N
 테크·가전		1448	https://d1ruwxjthziwe4.cloudfront.net/marketing/1448.jpg	https://link.wadiz.kr/BeYz/dr9gyhk8	20900	3000	5000원	앱 첫결제 5천원 즉시할인		MOFT 모프트 슬림 리무버블 노트북 스탠드 거치대			167.0	N
 패션		1404	https://cdn2.wadiz.kr/2021/10/14/96abf1c9-79e4-457f-a371-29c566ceca36.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/tt9j1gty	18900	2500	5000원	앱 첫결제 5천원 즉시할인		발데블랑코 브이언택트 vuntact 3D 분리형 전자파차단 실리콘밴드 남성드로즈 6컬러			23.0	N
 홈·리빙		1341	https://cdn2.wadiz.kr/2021/10/12/ba922e8b-14e9-4af7-967e-015e50b10c6d.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/nd7xouxv	9000	2500	5000원	앱 첫결제 5천원 즉시할인		닥터치카 1450ppm 고불소 치약 치과의사가 만든 충치예방 치아 탈회 부식 예방			84.0	N
@@ -644,7 +644,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 홈·리빙	주방	3216	https://cdn2.wadiz.kr/2022/07/28/ab2fd6bf-aa55-43b6-8f3e-af55293f5193.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/blqrlozu	44900	3000	5000원	앱 첫결제 5천원 즉시할인		아소부 텀블러 미니시피 빨대텀블러 파스텔 컬렉션 360ml 420ml 460ml			100.0	N
 스포츠·아웃도어	캠핑	3661	https://cdn2.wadiz.kr/2022/11/08/08c4b516-9527-4bb0-b147-d917ca1dee05.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/78hxy0oa	99800	3000	5000원	앱 첫결제 5천원 즉시할인		로긴 로핑 스텐 멀티 캠핑팟 78L 10L			14.0	N
 패션		1472	https://d1ruwxjthziwe4.cloudfront.net/marketing/1472.jpg	https://link.wadiz.kr/BeYz/814r3k01	14900	0	5000원	앱 첫결제 5천원 즉시할인		SOTD 수피마 양말 프레시핏 5족 10족 20족			144.0	N
-푸드	음료·커피	3670	https://d1ruwxjthziwe4.cloudfront.net/marketing/3670.jpg	https://link.wadiz.kr/BeYz/u6n2j48u	36000	0	5000원	앱 첫결제 5천원 즉시할인		밀크티항공 나라별 밀크티 베이스 250ml 750ml			29.0	N
 스포츠·아웃도어	헬스	3673	https://cdn2.wadiz.kr/2022/11/09/bc54bfb0-7ac5-4458-a11c-ed49cefb9bfa.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/ncrxwhsx	45000	0	5000원	앱 첫결제 5천원 즉시할인		GD 트위스트 그립 홈트 전완근 손목 근력 강화 소다민트			46.0	N
 패션	신발	3669	https://cdn2.wadiz.kr/2022/11/08/283ac84c-ebcf-4ca7-ab3c-f7fbb839346d.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/yx814hs5	258000	0	5000원	앱 첫결제 5천원 즉시할인		마리오미나르디 킹스맨 옥스포드화 블랙			27.0	N
 패션	신발	2105	https://d1ruwxjthziwe4.cloudfront.net/marketing/2105.jpg	https://link.wadiz.kr/BeYz/l9ycu52w	188000	0	5000원	앱 첫결제 5천원 즉시할인		마리오미나르디 데일리 남자 가죽 더비 블랙			25.0	N
@@ -1553,7 +1552,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 홈·리빙	주방	5624	https://d1ruwxjthziwe4.cloudfront.net/marketing/5624.jpg	https://link.wadiz.kr/BeYz/atqnzvgl	19900	3000	5000원	앱 첫결제 5천원 즉시할인		영인정공 이중진공 대용량 스텐 머그 텀블러 720ml 1L			16.0	N
 홈·리빙		5659	https://cdn2.wadiz.kr/2023/12/26/def6095e-4bb1-4e24-8ced-47aedbce46b9.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/33h511vk	29800	3000	5000원	앱 첫결제 5천원 즉시할인		영인정공 공간활용 문걸이 스텐 4단			15.0	N
 스포츠·아웃도어	등산	5649	https://d1ruwxjthziwe4.cloudfront.net/marketing/5649.jpg	https://link.wadiz.kr/BeYz/5q9hv8sw	99900	3000	5000원	앱 첫결제 5천원 즉시할인		블랙야크 제로 고어텍스 트래킹화 343 GTX S			10.0	N
-푸드	산지직송	5687	https://d1ruwxjthziwe4.cloudfront.net/marketing/5687.jpg	https://link.wadiz.kr/BeYz/an4pi6h1	19000	4000	5000원	앱 첫결제 5천원 즉시할인		금빛한우 1+ 꽃등심 차돌박이 불고기 200g 300g 500g			32.0	N
 홈·리빙	청소·세탁	5470	https://d1ruwxjthziwe4.cloudfront.net/marketing/5470.jpg	https://link.wadiz.kr/BeYz/g75241cs	24100	0	5000원	앱 첫결제 5천원 즉시할인		지엔디 살균 소독 위칙 세탁 섬유유연제 본품 2L 리필 17L			91.0	N
 홈·리빙		5677	https://cdn2.wadiz.kr/2023/12/27/9ae3b39d-40be-406d-816e-ff8d50279f71.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/l049jsjn	72900	3000	5000원	앱 첫결제 5천원 즉시할인		플레이파우치 브릭스 걸로우 레고 블럭 프린팅 파우치 장난감파우치			11.0	N
 뷰티	바디케어	5501	https://d1ruwxjthziwe4.cloudfront.net/marketing/5501.jpg	https://link.wadiz.kr/BeYz/7f29vx4l	159000	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	나우모먼트 6in1 고주파 바디 마사지기			20.0	N
@@ -1785,7 +1783,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 테크·가전	주방가전	5768	https://cdn2.wadiz.kr/2024/01/08/7f3d98ea-0ba6-453c-a9e8-0c4ea3c542ef.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/evpdntla	205000	0	5000원	앱 첫결제 5천원 즉시할인		테라브루 가정용 수제맥주 제조기 1대+맥주원료키트 브루팩 8L 15종 중 택1			25.0	N
 푸드	디저트·간식	6159	https://cdn2.wadiz.kr/2024/02/06/da8cb3cf-2b7b-4768-a037-234808bc058f.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/2puifvd2	31000	3000	5000원	앱 첫결제 5천원 즉시할인		차밍차미 개구리참외 스틱 젤리 15개입			11.0	N
 뷰티	스킨케어	6182	https://cdn2.wadiz.kr/2024/02/12/a5f4b12e-3407-4611-bf07-b4c66b11983b.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/c2t72kmf	24000	3000	5000원	앱 첫결제 5천원 즉시할인		에이율 물망초 수분 세럼 30ml 크림 100ml			3.0	N
-푸드	산지직송	6189	https://cdn2.wadiz.kr/2024/02/13/6e1bfc2e-8b27-4a71-950a-0da3a579aa77.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/rlrck84h	20800	4000	5000원	앱 첫결제 5천원 즉시할인		금빛한우 1++ 꽃등심 채끝 안심 채끝살 불고기 차돌박이 150g 200g 300g 400g 500g 1kg		금빛한우|금빛한우꽃등심|금빛한우채끝살|금빛한우안심|금빛한우불고기|금빛한우차돌박이|금빛한우세트|금빛한우부채살|금빛한우포장|금빛한우고기|금빛한우고기포장|금빛한우포장세트|한우포장세트|금빛투플한우|투쁠한우불고기|투쁠한우안심|투쁠한우꽃등심	22.0	N
 홈·리빙	주방	6108	https://cdn2.wadiz.kr/2024/01/30/fc48c3ca-1282-4809-ba5c-3de6bf043f12.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/hkxmhxf7	11900	4000	5000원	앱 첫결제 5천원 즉시할인		룩앳미 밀폐 주류 병마개 3P			16.0	N
 테크·가전		6207	https://cdn2.wadiz.kr/2024/02/14/fcfa3456-7432-4644-9d25-1f565df50179.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/fx9552hb	119000	0	5000원	앱 첫결제 5천원 즉시할인		벤틀러스 초고압세차기 VTR300 더블패키지			13.0	N
 홈·리빙	인센스·방향제	5716	https://cdn2.wadiz.kr/2024/02/13/e8e23a52-af19-4132-8f62-f8273b85761e.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/3bw5daoj	50000	0	5000원	앱 첫결제 5천원 즉시할인		카리보 허그베어 차량용 방향제 2개 세트			31.0	N
