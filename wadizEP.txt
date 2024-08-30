@@ -2531,7 +2531,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 푸드	산지직송	7601	https://cdn2.wadiz.kr/2024/04/16/118c6343-6972-4526-805a-83ee54ea05f8.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/ytx103j8	46000	0	5000원	앱 첫결제 5천원 즉시할인		아워그래놀라 아워넛츠 프리미엄 시즈닝 견과 3가지 맛 1세트			29.0	N
 푸드	헬스·이너뷰티	8144	https://d1ruwxjthziwe4.cloudfront.net/marketing/8144.jpg	https://link.wadiz.kr/BeYz/6dtu985z	14900	0	5000원	앱 첫결제 5천원 즉시할인		이롭 퓨어 밀크씨슬 500mg 2개월분 멀티비타민 1병			13.0	N
 푸드	헬스·이너뷰티	7735	https://d1ruwxjthziwe4.cloudfront.net/marketing/7735.jpg	https://link.wadiz.kr/BeYz/5g17tchu	16900	0	5000원	앱 첫결제 5천원 즉시할인		계림농장 무항생제 반숙란 애너지란 30구				N
-푸드	간편식	7736	https://cdn2.wadiz.kr/2024/04/19/bf20bdb9-c72e-448f-91b2-ecd1fbba5f8f.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/v70obffa	11900	0	5000원	앱 첫결제 5천원 즉시할인		햇시루 리얼 딸기우유 크림 딸기모찌 찹쌀떡 40g 8입 1박스				N
+푸드	간편식	7736	https://cdn2.wadiz.kr/2024/04/19/bf20bdb9-c72e-448f-91b2-ecd1fbba5f8f.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/v70obffa	17800	0	5000원	앱 첫결제 5천원 즉시할인		햇시루 리얼 딸기우유 크림 딸기모찌 찹쌀떡 40g 8입 1박스				N
 푸드	헬스·이너뷰티	7948	https://cdn2.wadiz.kr/2024/04/22/800ccb96-5263-4fe2-ab0a-6a25fb23a7ea.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/jvhgnvwv	24500	3000	5000원	앱 첫결제 5천원 즉시할인		피버타임 부스터 리커버리 2종 택1 운동 전후 보충제 14포			9.0	N
 푸드	간편식	7465	https://cdn2.wadiz.kr/2024/04/11/a4bc2e63-0e24-4e58-a213-e377cdd6b5ea.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/ibhi2xdx	18900	0	5000원	앱 첫결제 5천원 즉시할인		자연백계 저온숙성 돼지목살왕구이 600g 2팩				N
 푸드	헬스·이너뷰티	6855	https://cdn2.wadiz.kr/2024/03/19/fb44298d-1346-46c3-b990-8d515e9a76cd.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/6796imwe	49500	0	5000원	앱 첫결제 5천원 즉시할인		싱컴바인 단백질러 커피맛 20입			5.0	N
@@ -2863,7 +2863,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 홈·리빙	인테리어	8493	https://d1ruwxjthziwe4.cloudfront.net/marketing/8493.jpg	https://link.wadiz.kr/BeYz/280grloe	99000	0	5000원	앱 첫결제 5천원 즉시할인		퍼백 메쉬 의자 사무용 공부용 컴퓨터 책상 학생용 기능성 숨쉬는의자 PBS1000			10.0	N
 홈·리빙	주방	7031	https://d1ruwxjthziwe4.cloudfront.net/marketing/7031.jpg	https://link.wadiz.kr/BeYz/vj7usljx	596400	4000	5000원	앱 첫결제 5천원 즉시할인		한일프리머스 철통오중스텐 후라이팬 샤프웍 와이드웍 아이언코어2 블랙 24 26 28 세트			32.0	N
 테크·가전	주변기기	8414	https://d1ruwxjthziwe4.cloudfront.net/marketing/8414.jpg	https://link.wadiz.kr/BeYz/udj566mf	47900	0	5000원	앱 첫결제 5천원 즉시할인		엠텍 4000W 멀티탭 GaN 2 PD 65W 접지 멀티충전기			2.0	N
-푸드	로컬맛집	8131	https://d1ruwxjthziwe4.cloudfront.net/marketing/8131.jpg	https://link.wadiz.kr/BeYz/d68dccmn	25800	0	5000원	앱 첫결제 5천원 즉시할인		부경식품 한우 등심 양념불고기 300g 2팩				N
+푸드	로컬맛집	8131	https://d1ruwxjthziwe4.cloudfront.net/marketing/8131.jpg	https://link.wadiz.kr/BeYz/d68dccmn	39800	0	5000원	앱 첫결제 5천원 즉시할인		부경식품 한우 등심 양념불고기 300g 2팩				N
 푸드		8116	https://d1ruwxjthziwe4.cloudfront.net/marketing/8116.jpg	https://link.wadiz.kr/BeYz/rd96243b	52100	0	5000원	앱 첫결제 5천원 즉시할인		페를로 펭귄화덕피자 4종 1세트			45.0	N
 푸드	간편식	7585	https://d1ruwxjthziwe4.cloudfront.net/marketing/7585.jpg	https://link.wadiz.kr/BeYz/etjt4yxs	9000	3000	5000원	앱 첫결제 5천원 즉시할인		건어물아지매 국내가공 백진미 진미채 300g				N
 푸드	간편식	7581	https://cdn2.wadiz.kr/2024/04/16/fa6328e8-ff36-4926-a2b6-bdc90b05831f.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/poo0gkgv	17800	3000	5000원	앱 첫결제 5천원 즉시할인		건어물아지매 맥반석구이 오징어 200g+200g 세트				N
