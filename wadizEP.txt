@@ -1354,7 +1354,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 스포츠·아웃도어	골프	5229	https://d1ruwxjthziwe4.cloudfront.net/marketing/5229.jpg	https://link.wadiz.kr/BeYz/969o16er	29500	3000	5000원	앱 첫결제 5천원 즉시할인		빙그레 바나나맛우유 딸기맛우유 골프티꽂이 세트			44.0	N
 홈·리빙	주방	5156	https://d1ruwxjthziwe4.cloudfront.net/marketing/5156.jpg	https://link.wadiz.kr/BeYz/ualal93z	17900	3000	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	빈아미고 스텐인리스 캔맥주 칠러 355ml			75.0	N
 여행	여행용품	5197	https://d1ruwxjthziwe4.cloudfront.net/marketing/5197.jpg	https://link.wadiz.kr/BeYz/bso5m97j	199000	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	디시아 루밍캐리어 기내용 20인치 캐리어			55.0	N
-테크·가전		5223	https://d1ruwxjthziwe4.cloudfront.net/marketing/5223.jpg	https://link.wadiz.kr/BeYz/kql1y4jj	78900	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	그루퍼 GP01 USB 온열침낭			35.0	N
 뷰티	바디케어	5184	https://cdn2.wadiz.kr/2023/10/14/80d48832-1929-4ca7-8dce-11dd75f908a2.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/uvchpajt	21000	3000	5000원	앱 첫결제 5천원 즉시할인		하이디 리프레시롤온 아로마롤온 아로마오일 10ml			17.0	N
 뷰티	헤어케어	5210	https://d1ruwxjthziwe4.cloudfront.net/marketing/5210.jpg	https://link.wadiz.kr/BeYz/tyc2gr0e	24000	0	5000원	앱 첫결제 5천원 즉시할인		내주 Nejoo 돈워시트리트먼트 버블트리트먼트 01호 네롤리			212.0	N
 테크·가전	DIY	5266	https://d1ruwxjthziwe4.cloudfront.net/marketing/5266.jpg	https://link.wadiz.kr/BeYz/b3smzzbn	2389000	0	5000원	앱 첫결제 5천원 즉시할인		대량각인 듀얼레이징 레이저각인기 레이저패커4 베이직		레이저패커4|레이저패커|레이저패커2|레이저각인기|각인기계|레이저조각기|레이저인쇄|레이저마킹|레이져각인기|레이저날인기|레이저마킹기|금속레이저각인기|레이저기계|레이저컷팅|레이져컷팅|레이저커팅기|셀릭	4.0	N
@@ -2021,6 +2020,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 뷰티	헤어케어	7092	https://d1ruwxjthziwe4.cloudfront.net/marketing/7092.jpg	https://link.wadiz.kr/BeYz/emnmdr6y	33000	0	5000원	앱 첫결제 5천원 즉시할인		두피스케일러 샴푸 브러쉬			6.0	N
 홈·리빙		7056	https://cdn2.wadiz.kr/2024/03/26/13672d41-bc9c-4f94-bbe2-70d9ad4c8bc0.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/zzhvo42s	84000	3000	5000원	앱 첫결제 5천원 즉시할인		FELTUS 펠터스 통슬리퍼			16.0	N
 홈·리빙	인센스·방향제	7118	https://cdn2.wadiz.kr/2024/03/26/375d28f8-d8a4-4bc7-ba16-d334ee212ba3.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/hr189936	34000	3000	5000원	앱 첫결제 5천원 즉시할인		앳네이처 필로우미스트 디어마이슬립 100ml			9.0	N
+스포츠·아웃도어	캠핑	7015	https://d1ruwxjthziwe4.cloudfront.net/marketing/7015.jpg	https://link.wadiz.kr/BeYz/xvke9bgo	72000	4000	5000원	앱 첫결제 5천원 즉시할인		HOTO 캠핑 자충 에어 소파 매트리스 캠핑매트			15.0	N
 패션		7178	https://d1ruwxjthziwe4.cloudfront.net/marketing/7178.jpg	https://link.wadiz.kr/BeYz/if1ri7h9	55000	0	5000원	앱 첫결제 5천원 즉시할인		아이겐하임 뮤라백 플러스 숄더백 초경량 친환경 가방			3.0	N
 패션	의류	4616	https://d1ruwxjthziwe4.cloudfront.net/marketing/4616.jpg	https://link.wadiz.kr/BeYz/q8r2jvuh	25000	3000	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	밸롭 뉴 무지 좋은 티셔츠 S2			90.0	N
 패션	의류	3155	https://d1ruwxjthziwe4.cloudfront.net/marketing/3155.jpg	https://link.wadiz.kr/BeYz/j8m8w5bn	25000	3000	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	밸롭 남녀공용 무지좋은 무지티 반팔티셔츠 6컬러			175.0	N
@@ -2094,7 +2094,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 패션	아이웨어	7239	https://cdn2.wadiz.kr/2024/03/28/abe49180-fff7-4245-b14d-4feec1222386.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/lgmtxqpp	39800	3000	5000원	앱 첫결제 5천원 즉시할인		ONE UP 꾸안꾸 선글라스 라운드원브릿지			3.0	N
 패션	아이웨어	7249	https://cdn2.wadiz.kr/2024/03/29/4f5886fd-c8e3-49cd-81e8-997b2ec2655d.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/xi9yr5b8	72800	3000	5000원	앱 첫결제 5천원 즉시할인		ONE UP 꾸안꾸 데일리 무지카 패션선글라스 아이웨어			3.0	N
 패션	언더웨어	6938	https://d1ruwxjthziwe4.cloudfront.net/marketing/6938.jpg	https://link.wadiz.kr/BeYz/pra7i1t6	52000	0	5000원	앱 첫결제 5천원 즉시할인		에어디움 드로즈 언더웨어 4종 1세트			13.0	N
-패션	의류	7013	https://cdn2.wadiz.kr/2024/03/25/bacfbde5-38ee-4d76-bd16-8591a2f0b1ba.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/90yt96ap	99000	0	5000원	앱 첫결제 5천원 즉시할인		TM3 곤룡포 수면가운 네이비 와인 블랙 롱 숏 사이즈			35.0	N
 스포츠·아웃도어	골프	6206	https://d1ruwxjthziwe4.cloudfront.net/marketing/6206.jpg	https://link.wadiz.kr/BeYz/lot0e5ft	24800	0	5000원	앱 첫결제 5천원 즉시할인		스마트핏 손목보호대 헬스 골프 테니스 아대			14.0	N
 테크·가전	웨어러블	7199	https://d1ruwxjthziwe4.cloudfront.net/marketing/7199.jpg	https://link.wadiz.kr/BeYz/rvmfxic1	728000	0	5000원	앱 첫결제 5천원 즉시할인		와이젠핏 남성용 EMS슈트			14.0	N
 푸드	전통주	7120	https://cdn2.wadiz.kr/2024/03/26/4cad9edc-be66-447b-820e-62c8d1f07b8c.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/mwjop9si	32000	4000	5000원	앱 첫결제 5천원 즉시할인		대한민국주류대상 냥이탁주 화이트 막걸리 전통주 500ml 2병			5.0	N
