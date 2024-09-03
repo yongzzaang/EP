@@ -2015,6 +2015,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 뷰티	헤어케어	7092	https://d1ruwxjthziwe4.cloudfront.net/marketing/7092.jpg	https://link.wadiz.kr/BeYz/emnmdr6y	33000	0	5000원	앱 첫결제 5천원 즉시할인		두피스케일러 샴푸 브러쉬			6.0	N
 홈·리빙		7056	https://cdn2.wadiz.kr/2024/03/26/13672d41-bc9c-4f94-bbe2-70d9ad4c8bc0.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/zzhvo42s	84000	3000	5000원	앱 첫결제 5천원 즉시할인		FELTUS 펠터스 통슬리퍼			16.0	N
 홈·리빙	인센스·방향제	7118	https://cdn2.wadiz.kr/2024/03/26/375d28f8-d8a4-4bc7-ba16-d334ee212ba3.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/hr189936	34000	3000	5000원	앱 첫결제 5천원 즉시할인		앳네이처 필로우미스트 디어마이슬립 100ml			9.0	N
+스포츠·아웃도어	캠핑	7015	https://d1ruwxjthziwe4.cloudfront.net/marketing/7015.jpg	https://link.wadiz.kr/BeYz/z0mkxh3d	72000	4000	5000원	앱 첫결제 5천원 즉시할인		HOTO 캠핑 자충 에어 소파 매트리스 캠핑매트			15.0	N
 패션		7178	https://d1ruwxjthziwe4.cloudfront.net/marketing/7178.jpg	https://link.wadiz.kr/BeYz/if1ri7h9	55000	0	5000원	앱 첫결제 5천원 즉시할인		아이겐하임 뮤라백 플러스 숄더백 초경량 친환경 가방			3.0	N
 패션	의류	4616	https://d1ruwxjthziwe4.cloudfront.net/marketing/4616.jpg	https://link.wadiz.kr/BeYz/q8r2jvuh	25000	3000	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	밸롭 뉴 무지 좋은 티셔츠 S2			90.0	N
 패션	의류	3155	https://d1ruwxjthziwe4.cloudfront.net/marketing/3155.jpg	https://link.wadiz.kr/BeYz/j8m8w5bn	25000	3000	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	밸롭 남녀공용 무지좋은 무지티 반팔티셔츠 6컬러			175.0	N
