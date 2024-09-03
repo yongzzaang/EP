@@ -1274,7 +1274,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 패션	의류	5070	https://d1ruwxjthziwe4.cloudfront.net/marketing/5070.jpg	https://link.wadiz.kr/BeYz/sxen64jz	139000	0	5000원	앱 첫결제 5천원 즉시할인		창의 타이셔츠 단벌			43.0	N
 테크·가전		5062	https://d1ruwxjthziwe4.cloudfront.net/marketing/5062.jpg	https://link.wadiz.kr/BeYz/rcq4eny1	129000	0	5000원	앱 첫결제 5천원 즉시할인		하루미담 파라핀용해기 파라핀베스 HMP1000W			23.0	N
 테크·가전	주변기기	5063	https://d1ruwxjthziwe4.cloudfront.net/marketing/5063.jpg	https://link.wadiz.kr/BeYz/2ib8mp5c	66900	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	유그린 GaN2 고속충전기 멀티큐브 멀티탭			172.0	N
-테크·가전	주변기기	5069	https://cdn2.wadiz.kr/2023/11/27/cff6ad3b-0a25-4f8d-8c4e-69a8dd9746b2.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/tb9lsty8	34800	3000	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	스태틱 맥플러스원 그립 무선충전기 맥세이프 보조배터리 5			314.0	N
 테크·가전		5045	https://d1ruwxjthziwe4.cloudfront.net/marketing/5045.jpg	https://link.wadiz.kr/BeYz/ypgicyjh	78900	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	우블록 지구본 우드 블록 DIY+기어파츠 프리미엄 패키지			66.0	N
 푸드	소스·조미료	5029	https://d1ruwxjthziwe4.cloudfront.net/marketing/5029.jpg	https://link.wadiz.kr/BeYz/mwa00rzg	90000	0	5000원	앱 첫결제 5천원 즉시할인		만년보금 회금 블랙솔트 건강한 짠맛 하루 2알 1병 120정			19.0	N
 푸드	음료·커피	5114	https://d1ruwxjthziwe4.cloudfront.net/marketing/5114.jpg	https://link.wadiz.kr/BeYz/28clxa26	29800	3000	5000원	앱 첫결제 5천원 즉시할인		잇츠버튼 서리태 콩물 어울림 두유 건강관리 싱글팩 190ml			40.0	N
