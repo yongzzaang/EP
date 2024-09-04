@@ -497,7 +497,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 홈·리빙	주방	3054	https://cdn2.wadiz.kr/2022/06/17/d6586a7f-4a37-4d48-b6cc-0e2cd246aa90.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/oiidvnvz	23500	2500	5000원	앱 첫결제 5천원 즉시할인		데일리 셰프 아이스크림 스쿱 블랙 올리브그린 브라운			81.0	N
 홈·리빙	주방	3221	https://d1ruwxjthziwe4.cloudfront.net/marketing/3221.jpg	https://link.wadiz.kr/BeYz/y94nqzu5	13800	3000	5000원	앱 첫결제 5천원 즉시할인		시크리스 그립홀더 M L 사이즈			38.0	N
 푸드	헬스·이너뷰티	3147	https://d1ruwxjthziwe4.cloudfront.net/marketing/3147.jpg	https://link.wadiz.kr/BeYz/eyea3t5i	32000	0	5000원	앱 첫결제 5천원 즉시할인		더리틀스 카테바나 카테킨 바나나잎 함유 슈가컷부스터 800mg 60정 1박스			62.0	N
-패션		748	https://d1ruwxjthziwe4.cloudfront.net/marketing/748.jpg	https://link.wadiz.kr/BeYz/du768ose	237000	0	5000원	앱 첫결제 5천원 즉시할인		테시 한글 자음 명조체 목걸이 14K 실버+펜던트			32.0	N
 뷰티	헤어케어	2356	https://d1ruwxjthziwe4.cloudfront.net/marketing/2356.jpg	https://link.wadiz.kr/BeYz/76iljts4	27300	0	5000원	앱 첫결제 5천원 즉시할인		곰푸샴푸 탈모완화 천연샴푸 300ml			222.0	N
 푸드	소스·조미료	3025	https://cdn2.wadiz.kr/2022/06/13/c65cb1df-9398-4dc6-b48f-9f75e69ff561.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/cqwrsqdf	57000	0	5000원	앱 첫결제 5천원 즉시할인		대한제일미 국산 참깨 들깨 HACCP 인증 저온 압착유 참기름 들기름 연한참기름			102.0	N
 테크·가전		3106	https://cdn2.wadiz.kr/2022/06/29/0ee73408-e670-42c5-921c-ed6bffdc0f49.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/sus0dthc	129000	0	5000원	앱 첫결제 5천원 즉시할인		엘레센스 모니터 라이트바 싱글 E1129			30.0	N
@@ -2158,7 +2157,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 스포츠·아웃도어	등산	5953	https://d1ruwxjthziwe4.cloudfront.net/marketing/5953.jpg	https://link.wadiz.kr/BeYz/8aodqzw0	19500	0	5000원	앱 첫결제 5천원 즉시할인		퍼힙 1988 하이커 울 스포츠양말 하이킹삭스 스몰 미디움			24.0	N
 테크·가전	엔터테인먼트가전	7286	https://d1ruwxjthziwe4.cloudfront.net/marketing/7286.jpg	https://link.wadiz.kr/BeYz/xqucs9uv	46400	3000	5000원	앱 첫결제 5천원 즉시할인		위씨 친환경 알루미늄 무전력 무선 스피커			5.0	N
 홈·리빙	DIY	3210	https://cdn2.wadiz.kr/2024/04/09/ab2711cf-92a4-42b2-9758-789f9a0af795.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/klc5kuor	48000	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	맥파이 1초 측정 미니 레이저 줄자			67.0	N
-홈·리빙	청소·세탁	7080	https://d1ruwxjthziwe4.cloudfront.net/marketing/7080.jpg	https://link.wadiz.kr/BeYz/jzr8jgdj	39800	0	5000원	앱 첫결제 5천원 즉시할인		소셜빈 르메이드 스테인레스 음식물 쓰레기통 대용량 2L 3L 화이트 스텐			35.0	N
 여행	여행용품	7305	https://d1ruwxjthziwe4.cloudfront.net/marketing/7305.jpg	https://link.wadiz.kr/BeYz/sq34erds	899000	0	5000원	와디즈 스토어에서 51,000.0원 즉시 쿠폰할인!	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	에어휠 스마트 전동캐리어 기내용 여행용 자동캐리어			9.0	N
 아트		7229	https://cdn2.wadiz.kr/2024/03/28/3a0b1bae-776f-42b8-8dbc-be36b7d79789.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/0bl6rz8e	2000000	100000	5000원	앱 첫결제 5천원 즉시할인		김창열 화백 회귀 1 리미티드 에디션 판화 20호			1.0	N
 스포츠·아웃도어	골프	7254	https://d1ruwxjthziwe4.cloudfront.net/marketing/7254.jpg	https://link.wadiz.kr/BeYz/0ums3evg	70200	0	5000원	와디즈 스토어에서 11,300.0원 즉시 쿠폰할인!	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	투딘 인터벌 마그네틱 트레이너 골프스윙연습기 미들타입 800mm 롱타입 910mm 일반그립			43.0	N
