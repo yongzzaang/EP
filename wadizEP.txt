@@ -787,7 +787,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 반려동물	고양이	1738	https://d1ruwxjthziwe4.cloudfront.net/marketing/1738.jpg	https://link.wadiz.kr/BeYz/vsl4u09w	33900	3000	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	에이스 벤토나이트 고양이 모래 25번의 먼지제거 공정 1팩 2팩			110.0	N
 반려동물	고양이	3649	https://d1ruwxjthziwe4.cloudfront.net/marketing/3649.jpg	https://link.wadiz.kr/BeYz/ubllfpyc	49900	3000	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	마이베프 마이슐랭 고양이 습식사료 주식캔 파테 80g 24개입			47.0	N
 테크·가전	생활가전	3381	https://cdn2.wadiz.kr/2022/09/08/d11ba400-bc04-44ee-899e-ec4af5aab1d3.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/4hs5hjp7	93900	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	시리어스 LED 넥 근적외선 경추 목마시지기			105.0	N
-뷰티	헤어케어	3965	https://cdn2.wadiz.kr/2023/01/09/0da2e1f3-8e38-4c6b-8747-33f9ba0e738f.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/7s392rba	5000	3000	5000원	앱 첫결제 5천원 즉시할인		두스 헤어 트리트먼트 오리지널 200ml			45.0	N
+뷰티	헤어케어	3965	https://cdn2.wadiz.kr/2023/01/09/0da2e1f3-8e38-4c6b-8747-33f9ba0e738f.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/7s392rba	3000	3000	5000원	앱 첫결제 5천원 즉시할인		두스 헤어 트리트먼트 오리지널 200ml			45.0	N
 뷰티	클렌징	3918	https://d1ruwxjthziwe4.cloudfront.net/marketing/3918.jpg	https://link.wadiz.kr/BeYz/nbuv19um	19000	3000	5000원	앱 첫결제 5천원 즉시할인		프레스티지 올인원 비누			30.0	N
 패션	주얼리	3019	https://d1ruwxjthziwe4.cloudfront.net/marketing/3019.jpg	https://link.wadiz.kr/BeYz/oxun5c1l	158000	3000	5000원	앱 첫결제 5천원 즉시할인		천연 블루 다이아몬드 팅커벨 실버 14K 18K 목걸이 귀걸이			14.0	N
 스포츠·아웃도어	캠핑	3557	https://cdn2.wadiz.kr/2022/10/19/f6791847-9331-4b79-9a59-6447c65f043c.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/qku0ea3p	290000	0	5000원	앱 첫결제 5천원 즉시할인		소년과나무 로잔 캠핑테이블+수납가방 세트			15.0	N
@@ -1421,6 +1421,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 스포츠·아웃도어	홈트레이닝	5357	https://d1ruwxjthziwe4.cloudfront.net/marketing/5357.jpg	https://link.wadiz.kr/BeYz/9r57u4r1	277000	0	5000원	앱 첫결제 5천원 즉시할인		손목 자동운동 NSD 스피너 손목재활 골프 테니스 엘보 재활 태엽식 자이로볼			20.0	N
 홈·리빙		1254	https://cdn2.wadiz.kr/2021/10/03/78dff81d-3c39-4ba2-8b0c-786f32d93ea5.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/74uz8dbl	18000	3000	5000원	앱 첫결제 5천원 즉시할인		클리핏 만능클립 블랙			63.0	N
 홈·리빙		3618	https://d1ruwxjthziwe4.cloudfront.net/marketing/3618.jpg	https://link.wadiz.kr/BeYz/aj8cj7l4	22000	3000	5000원	앱 첫결제 5천원 즉시할인		클리핏 만능클립20 본체			48.0	N
+자동차	전자기기	5380	https://d1ruwxjthziwe4.cloudfront.net/marketing/5380.jpg	https://link.wadiz.kr/BeYz/w38mb00j	104000	0	5000원	앱 첫결제 5천원 즉시할인		모비디안 드라이브7 안드로이드오토 카플레이 DRIVE7 차량용 무선 모니터			16.0	N
 키즈	교구·문구	4570	https://d1ruwxjthziwe4.cloudfront.net/marketing/4570.jpg	https://link.wadiz.kr/BeYz/6be6t2im	32200	3000	5000원	앱 첫결제 5천원 즉시할인		예술놀이터 브레이닝 스피드 칠교 칠교놀이 보드게임			10.0	N
 패션	패션소품	5349	https://d1ruwxjthziwe4.cloudfront.net/marketing/5349.jpg	https://link.wadiz.kr/BeYz/gmqwrjo8	319000	0	5000원	앱 첫결제 5천원 즉시할인		로만손 아트락스 스켈레톤 워치			65.0	N
 홈·리빙	주방	5331	https://d1ruwxjthziwe4.cloudfront.net/marketing/5331.jpg	https://link.wadiz.kr/BeYz/jdba507s	218000	3000	5000원	와디즈 스토어에서 65,000.0원 즉시 쿠폰할인!	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	쿠자 316 캠핑그리들 34cm 40cm				N
