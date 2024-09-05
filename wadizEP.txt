@@ -1026,7 +1026,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 패션	아이웨어	4575	https://cdn2.wadiz.kr/2023/05/23/45784314-0316-4420-b79e-68581bd2d9c4.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/hb1vl02f	10900	3000	5000원	앱 첫결제 5천원 즉시할인		안경애 마스크걸이 안경 귀고무 블랙 반투명			24.0	N
 패션	가방	4551	https://cdn2.wadiz.kr/2023/05/17/fdb1c5f8-fa60-4f68-a869-e0bbfbe9da37.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/pk1jjhpo	109000	0	5000원	앱 첫결제 5천원 즉시할인		넛지백 노트북가방 M L 사이즈			27.0	N
 테크·가전		4558	https://d1ruwxjthziwe4.cloudfront.net/marketing/4558.jpg	https://link.wadiz.kr/BeYz/b8n995qn	1130000	0	5000원	앱 첫결제 5천원 즉시할인		샌드박스 원두 로스터 스마트 R1+C1 세트			7.0	N
-홈·리빙	침실	4567	https://d1ruwxjthziwe4.cloudfront.net/marketing/4567.jpg	https://link.wadiz.kr/BeYz/9on7sm34	339000	0	5000원	앱 첫결제 5천원 즉시할인		소노시즌 뉴베이직 비스코 메모리폼 매트리스 슈퍼싱글 퀸 베개		뉴베이직비스코메모리폼매트리스|메모리폼매트리스|뉴베이직메모리폼매트리스|메모리폼|소노시즌|그래피놀베개|침대메트리스|매트리스싱글|슈퍼싱글메트리스|매트리스추천	15.0	N
 홈·리빙	인테리어	4581	https://d1ruwxjthziwe4.cloudfront.net/marketing/4581.jpg	https://link.wadiz.kr/BeYz/o6e486as	19800	3000	5000원	앱 첫결제 5천원 즉시할인		에르고미 비건 레더 데스크 책상 매트 마우스패드			46.0	N
 뷰티	향수	4486	https://d1ruwxjthziwe4.cloudfront.net/marketing/4486.jpg	https://link.wadiz.kr/BeYz/7wrplpar	28000	3000	5000원	앱 첫결제 5천원 즉시할인		먼슬리 Monthly121 하이엔드 오드 빠르펭 10ml 6가지 향			69.0	N
 푸드	헬스·이너뷰티	4357	https://d1ruwxjthziwe4.cloudfront.net/marketing/4357.jpg	https://link.wadiz.kr/BeYz/e1dhb9ql	33600	0	5000원	앱 첫결제 5천원 즉시할인		담을수록 아르기닌 흑마늘 블랙마카 맥스 1990 1박스			19.0	N
