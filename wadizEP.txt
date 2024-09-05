@@ -184,7 +184,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 패션		930	https://d1ruwxjthziwe4.cloudfront.net/marketing/930.jpg	https://link.wadiz.kr/BeYz/5639hbmv	89900	3000	5000원	앱 첫결제 5천원 즉시할인		블루팩토리 BLUE FACTORY BFT10 베타티타늄 안경			30.0	N
 패션		765	https://d1ruwxjthziwe4.cloudfront.net/marketing/765.jpg	https://link.wadiz.kr/BeYz/p41zujts	45000	3500	5000원	앱 첫결제 5천원 즉시할인		세상없던 기분 좋은 목도리 에다가 10컬러			32.0	N
 테크·가전		941	https://cdn2.wadiz.kr/2021/09/15/b5d1a5c3-7ad2-47d3-b78f-da31eb1cd88a.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/3wungbax	38000	0	5000원	앱 첫결제 5천원 즉시할인		솔라카우 밀크 보조배터리+LED조명			12.0	N
-테크·가전		1218	https://d1ruwxjthziwe4.cloudfront.net/marketing/1218.jpg	https://link.wadiz.kr/BeYz/3s5ei9lg	60000	3000	5000원	앱 첫결제 5천원 즉시할인		슬라이스차지3 5in1 아이폰 애플워치 에어팟 동시 무선 충전기			26.0	N
 패션	가방	991	https://d1ruwxjthziwe4.cloudfront.net/marketing/991.jpg	https://link.wadiz.kr/BeYz/jnvc1ox9	13500	3000	5000원	앱 첫결제 5천원 즉시할인		퀄팩 캠핑용 일상용 물티슈캡 파우치 기본형			94.0	N
 패션	가방	95	https://d1ruwxjthziwe4.cloudfront.net/marketing/95.jpg	https://link.wadiz.kr/BeYz/506tezi8	19000	3000	5000원	앱 첫결제 5천원 즉시할인		퀄팩 캠핑용 일상용 물티슈캡 파우치 확장형			87.0	N
 스포츠·아웃도어	헬스	1673	https://cdn2.wadiz.kr/2021/11/10/3a8ad957-7904-4205-a0a6-98d31e54df1a.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/uml23126	25600	3000	5000원	앱 첫결제 5천원 즉시할인		지몬 굿럭 경량 통기성 손목보호대 055mm			77.0	N
@@ -1956,7 +1955,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 푸드	음료·커피	6964	https://cdn2.wadiz.kr/2024/03/25/d8bea5e1-e651-4b48-8b6a-d529e29517bc.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/3c8rxdoq	29000	3500	5000원	앱 첫결제 5천원 즉시할인		아코 쑥쓰 스틱 9g 6포 1세트			2.0	N
 스포츠·아웃도어		7004	https://cdn2.wadiz.kr/2024/03/25/0b38e6d0-a499-464b-a3e3-8a7a1316814b.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/p2y4im7n	29500	3000	5000원	앱 첫결제 5천원 즉시할인		에버그라운드 기능성 압박장갑 A03			20.0	N
 홈·리빙	욕실	6960	https://d1ruwxjthziwe4.cloudfront.net/marketing/6960.jpg	https://link.wadiz.kr/BeYz/i6letr6w	17600	0	5000원	앱 첫결제 5천원 즉시할인		퓨어레인 바디스크럽 크림 2개			84.0	N
-테크·가전		4264	https://d1ruwxjthziwe4.cloudfront.net/marketing/4264.jpg	https://link.wadiz.kr/BeYz/ep9mlezf	250900	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	시저코리아 샤인울트라 비파괴 북스캐너		북스캐너|더무제|시저샤인울트라스캐너|샤인울트라스캐너|샤인울트라북스캐너|북스캔|책스캔|책PDF스캔|스캐너|문제집스캔|책스캔피용|스캔PDF|책PDF변환|셀프북스캔|셀프스캔|사진스캔|고속스캐너|문서스캔	96.0	N
 테크·가전	엔터테인먼트가전	6908	https://d1ruwxjthziwe4.cloudfront.net/marketing/6908.jpg	https://link.wadiz.kr/BeYz/siltdq1y	274000	0	5000원	앱 첫결제 5천원 즉시할인		iStreams SR05D 액티브 북셀프 블루투스 스피커 1세트			6.0	N
 테크·가전	주변기기	7130	https://cdn2.wadiz.kr/2024/03/26/cdb01226-a672-43c2-bceb-134e3267ec73.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/5wie3hhb	56000	0	5000원	앱 첫결제 5천원 즉시할인		반디스탠드 자유 각도 조절 기본 거치대			14.0	N
 패션	의류	6343	https://d1ruwxjthziwe4.cloudfront.net/marketing/6343.jpg	https://link.wadiz.kr/BeYz/kf22m80k	18900	3000	5000원	앱 첫결제 5천원 즉시할인		삭스리버 천연 모시 매직 아이스 덧신 기본 패키지 5켤레 세트			90.0	N
