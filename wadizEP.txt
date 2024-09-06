@@ -56,6 +56,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 패션	신발	756	https://d1ruwxjthziwe4.cloudfront.net/marketing/756.jpg	https://link.wadiz.kr/BeYz/n4v7rkwj	109000	0	5000원	앱 첫결제 5천원 즉시할인		크리미 이태리 독일군 스니커즈			33.0	N
 테크·가전		607	https://d1ruwxjthziwe4.cloudfront.net/marketing/607.jpg	https://link.wadiz.kr/BeYz/l5d69wf1	189000	0	5000원	앱 첫결제 5천원 즉시할인		렉스웜 캠핑 차박용 온열매트 전기장판 온열방석			30.0	N
 뷰티		841	https://d1ruwxjthziwe4.cloudfront.net/marketing/841.jpg	https://link.wadiz.kr/BeYz/eaunfoz3	42000	0	5000원	앱 첫결제 5천원 즉시할인		땡큐파머 선 프로젝트 실키 카밍 강력 선스틱 2개			91.0	N
+홈·리빙	인테리어	437	https://cdn2.wadiz.kr/2021/09/06/a3f9b46a-a12f-4147-a4eb-d3bec0793135.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/yp4iugob	46800	4000	5000원	앱 첫결제 5천원 즉시할인		카티야 공중부양 스파이더윙 빨래건조대			61.0	N
 패션	가방	581	https://d1ruwxjthziwe4.cloudfront.net/marketing/581.jpg	https://link.wadiz.kr/BeYz/8dtun3e5	79200	0	5000원	앱 첫결제 5천원 즉시할인		할리케이 세미 크로스바디백 7가지컬러 한지가죽			17.0	N
 홈·리빙		705	https://cdn2.wadiz.kr/2021/09/09/a1c0895d-90be-4f13-87b8-13e15a482af4.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/v0ejc50d	17000	2500	5000원	앱 첫결제 5천원 즉시할인		일레븐 그랩 스마트폰 삼각대			334.0	N
 테크·가전		563	https://d1ruwxjthziwe4.cloudfront.net/marketing/563.jpg	https://link.wadiz.kr/BeYz/l5dz3087	248000	0	5000원	앱 첫결제 5천원 즉시할인		작스제로 XAX0 무선 청소기 풀패키지			27.0	N
@@ -346,7 +347,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 홈·리빙		486	https://cdn2.wadiz.kr/2023/08/01/ef69b8ab-32b8-4e15-abb3-2a33106a1d0a.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/zp0k5jt6	9900	0	5000원	앱 첫결제 5천원 즉시할인		비투윈랩 머그메이트 다목적 컵받침 실리콘 뚜껑			55.0	N
 홈·리빙	주방	1827	https://cdn2.wadiz.kr/2021/12/01/163351bb-b605-48a3-b658-f04866fafd2d.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/or1z312s	69000	3000	5000원	앱 첫결제 5천원 즉시할인		티쉐프 스테이크 전용 직화 프라이팬 스테이크팬+유리뚜껑 세트			8.0	N
 홈·리빙	욕실	2309	https://d1ruwxjthziwe4.cloudfront.net/marketing/2309.jpg	https://link.wadiz.kr/BeYz/1lu61n0t	119000	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	프렐 딥클렌징 마이크로버블 뷰티 샤워기 세트			92.0	N
-뷰티	클렌징	626	https://d1ruwxjthziwe4.cloudfront.net/marketing/626.jpg	https://link.wadiz.kr/BeYz/skkaojgd	21000	3000	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	포이유이 올인원 블랙헤드 스틱 무압출 15g			554.0	N
 뷰티	헤어케어	2372	https://d1ruwxjthziwe4.cloudfront.net/marketing/2372.jpg	https://link.wadiz.kr/BeYz/b0l0jj4g	17000	3000	5000원	앱 첫결제 5천원 즉시할인		미누따미누 시트러스 모닝 맥주효모 탈모 샴푸 300ml			161.0	N
 소셜	캠페인	2467	https://cdn2.wadiz.kr/2022/03/24/ddfe6fe8-305b-450f-a4ca-1ee3bf7b271e.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/wy5avqwf	4300	3000	5000원	앱 첫결제 5천원 즉시할인		리앤에코 설거지 비누 워싱바 친환경 천연재료 자연건조 150g			43.0	N
 홈·리빙		2621	https://d1ruwxjthziwe4.cloudfront.net/marketing/2621.jpg	https://link.wadiz.kr/BeYz/cxxn20l9	39800	0	5000원	앱 첫결제 5천원 즉시할인		로벤트 금속메탈 고급 스위스 방향제 로벤트불			24.0	N
@@ -1798,7 +1798,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 홈·리빙		6157	https://d1ruwxjthziwe4.cloudfront.net/marketing/6157.jpg	https://link.wadiz.kr/BeYz/j594257s	59800	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	도시샤 모슈 풀스테인레스 이중 진공 테이블팟 주전자 티포트				N
 테크·가전	주변기기	6144	https://cdn2.wadiz.kr/2024/02/05/69ba5744-c6fe-425d-bf3b-5052ed1576af.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/qqwopv0y	49900	3500	5000원	앱 첫결제 5천원 즉시할인		펠로우즈 브레이타 발 받침대			9.0	N
 스포츠·아웃도어	캠핑	6236	https://cdn2.wadiz.kr/2024/02/16/fcb1d199-8e12-4331-b425-9e6bc656a83c.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/a6uylfd6	58000	0	5000원	앱 첫결제 5천원 즉시할인		우주를줄게 천체망원경 여행가방 입문용 90mm망원경전용가방 캠핑브랜드 HELLOS 콜라보				N
-테크·가전	엔터테인먼트가전	5998	https://cdn2.wadiz.kr/2024/01/22/465399b3-72cb-4408-ad75-9b97503f67ce.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/ocnkxhaz	120000	0	5000원	앱 첫결제 5천원 즉시할인		캔디 골전도 음성증폭기 BE22			8.0	N
 푸드	헬스·이너뷰티	5902	https://d1ruwxjthziwe4.cloudfront.net/marketing/5902.jpg	https://link.wadiz.kr/BeYz/6n03qq5x	58900	0	5000원	앱 첫결제 5천원 즉시할인		비엘 헬스케어 새로날씬 멀티비타민 4박스 2개월분			7.0	N
 패션	의류	6194	https://d1ruwxjthziwe4.cloudfront.net/marketing/6194.jpg	https://link.wadiz.kr/BeYz/o014lnbo	14900	3000	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	밸롭 무지좋은 긴팔티 6컬러			122.0	N
 테크·가전	웨어러블	6200	https://d1ruwxjthziwe4.cloudfront.net/marketing/6200.jpg	https://link.wadiz.kr/BeYz/ltabi2ze	171900	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	MONDO 몬도 오바이어 무선헤드폰			90.0	N
