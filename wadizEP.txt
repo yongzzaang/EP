@@ -693,7 +693,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 게임	보드게임	3297	https://d1ruwxjthziwe4.cloudfront.net/marketing/3297.jpg	https://link.wadiz.kr/BeYz/j0sy4dkp	22900	3300	5000원	앱 첫결제 5천원 즉시할인		이색 화투 꽃들의전쟁 만월 장화투 맞고 고스톱		144.0	N
 테크·가전	주변기기	3828	https://d1ruwxjthziwe4.cloudfront.net/marketing/3828.jpg	https://link.wadiz.kr/BeYz/pazgl517	29900	3000	5000원	앱 첫결제 5천원 즉시할인		MOFT 모프트 쿨링 랩탑 스탠드 부착형 노트북 거치대 그래핀 냉각 버전		68.0	N
 스포츠·아웃도어	캠핑	2804	https://d1ruwxjthziwe4.cloudfront.net/marketing/2804.jpg	https://link.wadiz.kr/BeYz/lzpjxyec	190770	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	스테이심플 어반힐 수납력 좋은 원터치 2층 캠핑 웨건 포레스트블랙 SSW01		102.0	N
-뷰티	헤어케어	3613	https://d1ruwxjthziwe4.cloudfront.net/marketing/3613.jpg	https://link.wadiz.kr/BeYz/dglevjrr	55000	0	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	루토닉스 코어 에센스 단백질 극손상모 헤어팩 200ml 3개		350.0	N
 테크·가전	스마트가전	3851	https://d1ruwxjthziwe4.cloudfront.net/marketing/3851.jpg	https://link.wadiz.kr/BeYz/ao5ge4yw	32700	3000	5000원	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	스마트홈 미니빅 푸시 미니+IoT 허브 기기 원격제어		261.0	N
 홈·리빙	화훼·원예	3787	https://d1ruwxjthziwe4.cloudfront.net/marketing/3787.jpg	https://link.wadiz.kr/BeYz/58s5nf71	35000	0	5000원	앱 첫결제 5천원 즉시할인		반려식물 지양 하월시아 1번 (하월시아	지양럭키박스|지양|지양하월시아|하월시아|반려식물|크리스마스하월시아|다육이	369.0	N
 테크·가전		3311	https://d1ruwxjthziwe4.cloudfront.net/marketing/3311.jpg	https://link.wadiz.kr/BeYz/fjq5w5vo	298000	0	5000원	앱 첫결제 5천원 즉시할인		어라운드엑스 와이젠핏 여성용 EMS 레깅스		17.0	N
