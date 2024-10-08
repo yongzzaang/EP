@@ -637,7 +637,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 패션	의류	3671	https://cdn2.wadiz.kr/2022/11/09/ca43ce8b-d64c-4ebf-bbc7-ad09934f9650.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/84sh8ot0	50000	3000	5000원	앱 첫결제 5천원 즉시할인		마이콥 스트링 테이퍼드 허리 밴딩 남성 남자 슬랙스		67.0	N
 테크·가전		3610	https://d1ruwxjthziwe4.cloudfront.net/marketing/3610.jpg	https://link.wadiz.kr/BeYz/snkj800v	75000	0	5000원	앱 첫결제 5천원 즉시할인		아웃도어용 휴대용 급수 펌프 워터맨		81.0	N
 홈·리빙		2908	https://d1ruwxjthziwe4.cloudfront.net/marketing/2908.jpg	https://link.wadiz.kr/BeYz/yvlshvuw	39900	3000	5000원	앱 첫결제 5천원 즉시할인		FITWALK 핏워크 의료용 압박스타킹 종아리 압박밴드 붓기 감소 하지정맥 다리 라인 관리 삭스형 7컬러 10사이즈 택 1		107.0	N
-스포츠·아웃도어	캠핑	3563	https://d1ruwxjthziwe4.cloudfront.net/marketing/3563.jpg	https://link.wadiz.kr/BeYz/2qct0lcr	225000	4000	5000원	앱 첫결제 5천원 즉시할인		캠빌 하드레버 웨건 캠핑웨건 캠핑의자 그늘막		26.0	N
 홈·리빙	주방	3698	https://d1ruwxjthziwe4.cloudfront.net/marketing/3698.jpg	https://link.wadiz.kr/BeYz/3jaeu1n9	41900	0	5000원	앱 첫결제 5천원 즉시할인		블랜더보틀 스트라다 트위스트 단백질 쉐이커 헬스 물통 물병 24oz		17.0	N
 패션		2110	https://d1ruwxjthziwe4.cloudfront.net/marketing/2110.jpg	https://link.wadiz.kr/BeYz/1rl4512e	189000	0	5000원	앱 첫결제 5천원 즉시할인		석와치스 시아르고 펜넬 fennel 컬렉션 SG010 사각 실버 프레임 블랙밴드 라지+서브스트랩		13.0	N
 테크·가전		3714	https://d1ruwxjthziwe4.cloudfront.net/marketing/3714.jpg	https://link.wadiz.kr/BeYz/hi1rf34q	149000	3000	5000원	앱 첫결제 5천원 즉시할인		포토패스트 PhotoFast 4k gamer+		25.0	N
