@@ -1865,7 +1865,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 반려동물		6913	https://cdn2.wadiz.kr/2024/03/20/d607a115-5a0b-405b-8d75-46eaaf8041a9.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/ll4glr42	29900	0	5000원	앱 첫결제 5천원 즉시할인		펫투데이 강아지 휴대용 사료통 슬라이드 댕시락		14.0	N
 홈·리빙	인테리어	5182	https://d1ruwxjthziwe4.cloudfront.net/marketing/5182.jpg	https://link.wadiz.kr/BeYz/sob3sl2l	159000	0	5000원	앱 첫결제 5천원 즉시할인		피치 스마트 세레니티 S300 메쉬 사무용 의자		46.0	N
 테크·가전	생활가전	6230	https://d1ruwxjthziwe4.cloudfront.net/marketing/6230.jpg	https://link.wadiz.kr/BeYz/k6fzji8i	99000	0	5000원	앱 첫결제 5천원 즉시할인		윈텍 윈세프 BLDC 헤어드라이어 비거에어+거치대		23.0	N
-홈·리빙	인테리어	565	https://cdn2.wadiz.kr/2021/09/08/9eae10af-51a6-43ae-9011-e4c0b4511350.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/xnejziuh	502000	0	5000원	앱 첫결제 5천원 즉시할인		원세프 무소음 레트로 냉장고 8컬러		20.0	N
+홈·리빙	인테리어	565	https://cdn2.wadiz.kr/2021/09/08/9eae10af-51a6-43ae-9011-e4c0b4511350.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/xnejziuh	498000	0	5000원	앱 첫결제 5천원 즉시할인		원세프 무소음 레트로 냉장고 8컬러		20.0	N
 패션	가방	6039	https://cdn2.wadiz.kr/2024/03/11/e6d0c9b7-4182-4fde-817e-993fde3fc937.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/5pezzc6h	115000	3000	5000원	앱 첫결제 5천원 즉시할인		캐시랑 달항아리 프리미엄 자개 토트백		10.0	N
 테크·가전	DIY	6939	https://d1ruwxjthziwe4.cloudfront.net/marketing/6939.jpg	https://link.wadiz.kr/BeYz/s0ztv42v	82600	0	5000원	앱 첫결제 5천원 즉시할인		폭스아이디어 스피너 드라이브 스탠다드 에디션		3.0	N
 푸드	산지직송	6928	https://d1ruwxjthziwe4.cloudfront.net/marketing/6928.jpg	https://link.wadiz.kr/BeYz/x2kcz9yq	30000	0	5000원	앱 첫결제 5천원 즉시할인		식품델꼬 해남 당도 46brix 꿀고구마 5kg 10kg		35.0	N
