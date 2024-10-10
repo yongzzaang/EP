@@ -2570,7 +2570,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	coupon	event_
 푸드	산지직송	7526	https://d1ruwxjthziwe4.cloudfront.net/marketing/7526.jpg	https://link.wadiz.kr/BeYz/hv6jati0	14100	0	5000원	앱 첫결제 5천원 즉시할인		쭌키친 국내산 블루베리 중과 14mm 이상 100g			N
 뷰티	바디케어	7039	https://cdn2.wadiz.kr/2024/03/25/43d3a647-da2b-4f0b-a00f-042805035cbd.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/kdvkiw1i	13000	3000	5000원	앱 첫결제 5천원 즉시할인		푸르미스 슬라임 버블 배쓰밤 RELAX 주황 파랑		9.0	N
 푸드	산지직송	7458	https://cdn2.wadiz.kr/2024/04/18/736f9556-35e4-463e-acf2-7adb9549bd8a.JPG/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/jzd93hvv	36000	4000	5000원	앱 첫결제 5천원 즉시할인		농장760 순수 우리 농산물 국산 잡곡 6종 선물세트 1세트			N
-푸드	산지직송	7459	https://cdn2.wadiz.kr/2024/04/11/ac40b41b-d27f-4f2c-bc80-87dde4acd650.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/ybuqglfc	13500	4000	5000원	앱 첫결제 5천원 즉시할인		농장760 국산 서리태 속청 검은콩 1kg			N
 홈·리빙	인센스·방향제	7340	https://cdn2.wadiz.kr/2024/04/03/1bbc3ced-b26a-4794-948a-a9a8f23522e2.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/f77vgktn	40000	0	5000원	앱 첫결제 5천원 즉시할인		erest 멀티 오브제 스프레이 50ml 세트		4.0	N
 패션	가방	7914	https://d1ruwxjthziwe4.cloudfront.net/marketing/7914.jpg	https://link.wadiz.kr/BeYz/rz5lz5am	109000	0	5000원	앱 첫결제 5천원 즉시할인		뮤토 보니타 캐리어 20인치		5.0	N
 패션	주얼리	7165	https://cdn2.wadiz.kr/2024/03/27/9fcb2278-21e3-4cfc-9872-988e152b5cae.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/34y9hcrq	64800	3000	5000원	앱 첫결제 5천원 즉시할인		페리도트 오로라 반지 2종 1세트		14.0	N
