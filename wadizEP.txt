@@ -1396,7 +1396,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 패션	패션소품	5366	https://d1ruwxjthziwe4.cloudfront.net/marketing/5366.jpg	https://link.wadiz.kr/BeYz/13yp93ga	33000	3000	앱 첫결제 5천원 즉시할인		제이디오 바게뜨 머플러			N
 패션	의류	5224	https://d1ruwxjthziwe4.cloudfront.net/marketing/5224.jpg	https://link.wadiz.kr/BeYz/ao1inhdp	130000	0	앱 첫결제 5천원 즉시할인		제이디오 창의 생활한복 트위드 가디건			N
 뷰티	스킨케어	5369	https://d1ruwxjthziwe4.cloudfront.net/marketing/5369.jpg	https://link.wadiz.kr/BeYz/5aehlp4b	49000	0	앱 첫결제 5천원 즉시할인		이프이너스 리추얼 포어 피콜라겐 모공 앰플 (51ml)		133.0	N
-자동차	실내용품	4958	https://d1ruwxjthziwe4.cloudfront.net/marketing/4958.jpg	https://link.wadiz.kr/BeYz/9mg60uul	30000	3000	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	코지암 서포트 핸들 오리지널		54.0	N
 테크·가전	생활가전	5272	https://d1ruwxjthziwe4.cloudfront.net/marketing/5272.jpg	https://link.wadiz.kr/BeYz/zeea5qjc	45500	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	피스너스 홀로그램 오로라 선셋 무드등		65.0	N
 테크·가전	스마트가전	5388	https://d1ruwxjthziwe4.cloudfront.net/marketing/5388.jpg	https://link.wadiz.kr/BeYz/dqkptdfw	249000	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	피보 맥스 360 ai 자동 얼굴 추적 인식 회전 카메라 촬영 PVPM 본체		20.0	N
 패션	신발	5293	https://d1ruwxjthziwe4.cloudfront.net/marketing/5293.jpg	https://link.wadiz.kr/BeYz/ktc232n4	55900	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	언니구두 만보 삭스부츠 블랙 베이지 스퀘어 3.5cm 5cm		56.0	N
