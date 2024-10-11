@@ -569,7 +569,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 패션	의류	3333	https://d1ruwxjthziwe4.cloudfront.net/marketing/3333.jpg	https://link.wadiz.kr/BeYz/2gv5binm	252000	0	앱 첫결제 5천원 즉시할인		제이디오 대창의 트렌치코트 롱	대창의|대창의트렌치코트|남자코트|남자트렌치코트|여성트렌치코트|계량한복|퓨전한복|대창의코트|제이디오|핸드메이드코트	58.0	N
 홈·리빙	청소·세탁	3441	https://cdn2.wadiz.kr/2022/09/29/1602f75d-b81e-4fbb-9914-f78578e4154d.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/q72xtf7l	18000	0	앱 첫결제 5천원 즉시할인		장바이오텍 배클 다목적세정제 찌든때 곰팡이 기름때 제거 500ml 3개		122.0	N
 패션	가방	3322	https://d1ruwxjthziwe4.cloudfront.net/marketing/3322.jpg	https://link.wadiz.kr/BeYz/gyxzlogb	52000	3500	앱 첫결제 5천원 즉시할인		크라프트 노트북파우치 더블포켓+보조파우치		26.0	N
-뷰티	클렌징	3492	https://d1ruwxjthziwe4.cloudfront.net/marketing/3492.jpg	https://link.wadiz.kr/BeYz/q08fdkh7	29800	3000	앱 첫결제 5천원 즉시할인		낙안고 천연수제비누 블랙헤드 제거 모공 지우개 100g		11.0	N
+뷰티	클렌징	3492	https://d1ruwxjthziwe4.cloudfront.net/marketing/3492.jpg	https://link.wadiz.kr/BeYz/q08fdkh7	50000	3000	앱 첫결제 5천원 즉시할인		낙안고 천연수제비누 블랙헤드 제거 모공 지우개 100g		11.0	N
 홈·리빙	청소·세탁	3512	https://d1ruwxjthziwe4.cloudfront.net/marketing/3512.jpg	https://link.wadiz.kr/BeYz/pxj3ccxd	25000	0	앱 첫결제 5천원 즉시할인		바이오제트플러스 하수구 변기 싱크대 배수구 클리너 악취 해결 음식물 분해제 VioZ+4개		19.0	N
 패션		3501	https://d1ruwxjthziwe4.cloudfront.net/marketing/3501.jpg	https://link.wadiz.kr/BeYz/wsqse80r	569000	0	앱 첫결제 5천원 즉시할인		벌브 클래식 해리스트위드 자켓		12.0	N
 홈·리빙		3487	https://d1ruwxjthziwe4.cloudfront.net/marketing/3487.jpg	https://link.wadiz.kr/BeYz/kejqzter	185000	0	앱 첫결제 5천원 즉시할인		테라원 에너부스터 EMS 마사지기 마사지젤		29.0	N
@@ -1416,7 +1416,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 테크·가전	생활가전	5430	https://d1ruwxjthziwe4.cloudfront.net/marketing/5430.jpg	https://link.wadiz.kr/BeYz/xqitj6zv	36300	0	앱 첫결제 5천원 즉시할인		트루비온 TN3000 티나인 만랩 보풀제거기		20.0	N
 패션		5413	https://d1ruwxjthziwe4.cloudfront.net/marketing/5413.jpg	https://link.wadiz.kr/BeYz/3n8egsfk	73900	0	앱 첫결제 5천원 즉시할인		킹스로드 캐시미어 블렌디드 머플러		28.0	N
 패션	패션소품	4009	https://d1ruwxjthziwe4.cloudfront.net/marketing/4009.jpg	https://link.wadiz.kr/BeYz/5x4btf8w	42000	0	앱 첫결제 5천원 즉시할인		라씰 천연소가죽 뉴컴팩트 카드 지갑		91.0	N
-테크·가전	생활가전	5475	https://d1ruwxjthziwe4.cloudfront.net/marketing/5475.jpg	https://link.wadiz.kr/BeYz/uusy41n3	200000	0	앱 첫결제 5천원 즉시할인		원테크 프리미엄 카본매트 전기매트 슈퍼싱글사이즈		15.0	N
 테크·가전	주변기기	5367	https://d1ruwxjthziwe4.cloudfront.net/marketing/5367.jpg	https://link.wadiz.kr/BeYz/js08i549	48500	3000	앱 첫결제 5천원 즉시할인		이쏘코리아 회전접이식 3in1 맥세이프 무선충전기		50.0	N
 테크·가전	생활가전	5481	https://d1ruwxjthziwe4.cloudfront.net/marketing/5481.jpg	https://link.wadiz.kr/BeYz/semz9ghc	118000	0	앱 첫결제 5천원 즉시할인		인프라텍 마블 토네이도 BLDC 핸디 무선 청소기		24.0	N
 테크·가전	생활가전	5478	https://cdn2.wadiz.kr/2023/12/07/491c182f-d39a-4ebd-8db4-a6b571ddc755.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/cnosbfr6	189000	0	앱 첫결제 5천원 즉시할인		레가토 미니 휴대용 물광봉고데기		18.0	N
@@ -3223,3 +3222,4 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 뷰티	클렌징	9405	https://cdn2.wadiz.kr/2024/09/10/5d9d78b1-d99d-4ad0-aefe-135e5b70b15a.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/76pkt83v	28900	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	코스메쉐프 녹당고 세안팩 자연유래 녹색 영양소 피부진정 튜브형	녹당고|코스메쉐프녹당고|녹당고세안팩|짜서쓰는녹당고|엽록소진정60초세안팩|짜쓰녹|녹당고엽록소진정60초세안팩|녹당고60초마사지고체팩|녹색영양세안팩|세안팩		N
 도서·전자책	자기계발	9023	https://d1ruwxjthziwe4.cloudfront.net/marketing/9023.jpg	https://link.wadiz.kr/BeYz/f6hu65g0	129000	0	앱 첫결제 5천원 즉시할인		이상수 수성일기 먹고 싶은 거 다 45kg 유지하는 비결		314.0	N
 푸드	산지직송	7728	https://d1ruwxjthziwe4.cloudfront.net/marketing/7728.jpg	https://link.wadiz.kr/BeYz/lcrmh0w7	27800	0	앱 첫결제 5천원 즉시할인		프리팜 GAP인증 간편 세척 사과 2.5kg 3kg			N
+푸드	산지직송	8682	https://cdn2.wadiz.kr/2024/06/12/0d47a4ff-1bb2-4419-8e7a-9a904bcaf0a0.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/2edtiwa0	44500	0	앱 첫결제 5천원 즉시할인		세라미트 삼파육 삼겹살 120g 5팩			N
