@@ -2699,7 +2699,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 뷰티	메이크업	8482	https://cdn2.wadiz.kr/2024/05/20/9792e9b4-8fa7-4f97-9e81-883c98a8261e.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/584wsxvl	20250	0	앱 첫결제 5천원 즉시할인		씨라클 비타민C 10 립 페어스 립밤틴트립스틱 3in1		3.0	N
 홈·리빙	침실	8404	https://cdn2.wadiz.kr/2024/05/13/9ee75818-f1f6-44b6-9192-2e708dedbb0f.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/zblv9hsz	104000	0	앱 첫결제 5천원 즉시할인		의식주의 실크 한복 린넨 밴딩 베개커버 S L 2세트		31.0	N
 푸드	소스·조미료	8466	https://cdn2.wadiz.kr/2024/05/17/faee98b4-29fc-4ba7-bff3-578ed6de3370.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/ecmuri4j	13200	3500	앱 첫결제 5천원 즉시할인		닥다마켓 달고맵고 김치 핫소스 베이지		56.0	N
-푸드	소스·조미료	7441	https://d1ruwxjthziwe4.cloudfront.net/marketing/7441.jpg	https://link.wadiz.kr/BeYz/hb6lkuef	27900	0	앱 첫결제 5천원 즉시할인		홀썸위크 루꼴라 페스토 허니 발사믹 세트		13.0	N
+푸드	소스·조미료	7441	https://d1ruwxjthziwe4.cloudfront.net/marketing/7441.jpg	https://link.wadiz.kr/BeYz/hb6lkuef	28900	0	앱 첫결제 5천원 즉시할인		홀썸위크 루꼴라 페스토 허니 발사믹 세트		13.0	N
 푸드	디저트·간식	8262	https://cdn2.wadiz.kr/2024/04/29/78b26806-98f0-4b83-8845-8139ee2b51cb.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/yxtyzxdz	4500	3000	앱 첫결제 5천원 즉시할인		우앙딩 수제 카라멜 블루베리 라즈베리 딸기 패션후르츠 말차 커피 초코 푸딩 80g		12.0	N
 홈·리빙	인테리어	8459	https://cdn2.wadiz.kr/2024/05/16/7adcf755-15d1-4975-9ca3-f03fafc1baac.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/77htrekc	57000	0	앱 첫결제 5천원 즉시할인		마고디까사 논슬립 혁명 러그 A타입 75cm 150cm 170cm 200cm		7.0	N
 뷰티	스킨케어	5786	https://d1ruwxjthziwe4.cloudfront.net/marketing/5786.jpg	https://link.wadiz.kr/BeYz/a8zjxjmq	49800	0	앱 첫결제 5천원 즉시할인		햄프리 햄프밤 멀티밤 싱글팩		27.0	N
