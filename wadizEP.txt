@@ -898,6 +898,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 테크·가전	주변기기	1100	https://d1ruwxjthziwe4.cloudfront.net/marketing/1100.jpg	https://link.wadiz.kr/BeYz/bfmbwhmc	86800	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	유그린 Xkit html 멀티허브 내장 노트북 맥북 거치대 도킹스테이션		93.0	N
 테크·가전	엔터테인먼트가전	2819	https://d1ruwxjthziwe4.cloudfront.net/marketing/2819.jpg	https://link.wadiz.kr/BeYz/k3e9jto6	129000	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	펀디안 1Mii E600Pro 하이브리드 노이즈캔슬링 블루투스 헤드폰 헤드셋 원미 ANC		121.0	N
 패션	의류	4263	https://d1ruwxjthziwe4.cloudfront.net/marketing/4263.jpg	https://link.wadiz.kr/BeYz/39sylr0q	82600	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	프리드네임 스판 올라운드 슬랙스 일반기장		99.0	N
+자동차	전자기기	4224	https://d1ruwxjthziwe4.cloudfront.net/marketing/4224.jpg	https://link.wadiz.kr/BeYz/njvaf8gm	179000	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	씨더코퍼레이션 쉘 올인원 점프스타터 AC001JP 보조배터리 에어펌프 손전등		126.0	N
 테크·가전	생활가전	4239	https://d1ruwxjthziwe4.cloudfront.net/marketing/4239.jpg	https://link.wadiz.kr/BeYz/i8txj6zc	99000	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	모피리처드 스팀 무선 다리미 360 블랙에디션		45.0	N
 테크·가전		4267	https://d1ruwxjthziwe4.cloudfront.net/marketing/4267.jpg	https://link.wadiz.kr/BeYz/ur32wua2	120000	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	라이피 파워 멀티건 진동벨트 마사지건 세트		42.0	N
 스포츠·아웃도어	캠핑	3067	https://d1ruwxjthziwe4.cloudfront.net/marketing/3067.jpg	https://link.wadiz.kr/BeYz/jsc985zr	398000	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	조선캠핑 아웃도어 이동형 에어컨(본품+배수 호수 +베기덕트 +덕트브라켓 2개)		47.0	N
@@ -1941,7 +1942,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 키즈	출산·육아용품	7032	https://d1ruwxjthziwe4.cloudfront.net/marketing/7032.jpg	https://link.wadiz.kr/BeYz/zpoteacz	43800	0	앱 첫결제 5천원 즉시할인		메르슈 순면100 프리미엄 친환경 코튼티슈		11.0	N
 홈·리빙	인센스·방향제	2916	https://d1ruwxjthziwe4.cloudfront.net/marketing/2916.jpg	https://link.wadiz.kr/BeYz/gl7oa5mh	22000	0	앱 첫결제 5천원 즉시할인		오니리코 퍼퓸 소이캔들		74.0	N
 스포츠·아웃도어	캠핑	6992	https://d1ruwxjthziwe4.cloudfront.net/marketing/6992.jpg	https://link.wadiz.kr/BeYz/ek3b2ikp	38900	4000	앱 첫결제 5천원 즉시할인		무유 9in1 멀티툴 화로대 9가지 기능 미니화로대		16.0	N
-홈·리빙	인테리어	7026	https://d1ruwxjthziwe4.cloudfront.net/marketing/7026.jpg	https://link.wadiz.kr/BeYz/z8vzk6z7	19900	0	앱 첫결제 5천원 즉시할인		통통 LED 펭귄 실리콘 무드등 알람 시계		11.0	N
 뷰티	스킨케어	7096	https://cdn2.wadiz.kr/2024/03/26/cd0dfc5d-e700-49fd-99a2-850aacffc0bb.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/kmpgosw7	46400	3000	앱 첫결제 5천원 즉시할인		마이토온 셀 리쥬버네이션 10% 나이아신아마이드 부스팅 앰플 50ml 인텐시브크림 50g		1.0	N
 홈·리빙	주방	7022	https://cdn2.wadiz.kr/2024/03/25/edc816ac-ac28-42b3-a194-f504cad54ee5.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/v4vgyn7l	132000	0	앱 첫결제 5천원 즉시할인		리톤 Liiton 글라스4 위스키5 잔 세트		6.0	N
 키즈	장난감	6959	https://cdn2.wadiz.kr/2024/03/22/1f806238-643d-49b5-a31d-7175fd710a8c.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/jwct6zj3	39900	3000	앱 첫결제 5천원 즉시할인		브랜드엘 프리미엄 메탈 매직요요 V3 스타 풀패키지 1세트		6.0	N
@@ -2780,7 +2780,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 푸드	산지직송	8633	https://cdn2.wadiz.kr/2024/06/05/38bf6287-4500-4fa8-8705-187ddedf61cf.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/9pqod5tj	13900	3000	앱 첫결제 5천원 즉시할인		부자고기 순살 양갈비살로 만든 대왕 양꼬치 280g			N
 푸드	산지직송	8612	https://d1ruwxjthziwe4.cloudfront.net/marketing/8612.jpg	https://link.wadiz.kr/BeYz/6lon8s1q	23900	0	앱 첫결제 5천원 즉시할인		부여농부의 햇또롱 대추방울토마토즙 120ml 30개			N
 푸드	산지직송	8617	https://d1ruwxjthziwe4.cloudfront.net/marketing/8617.jpg	https://link.wadiz.kr/BeYz/eqjsb8hp	19500	0	앱 첫결제 5천원 즉시할인		광천순이네 자연숙성 광천토굴 새우젓 육젓 오젓 추젓 어리굴젓 갈치속젓 창란젓 낙지젓 500g 1kg			N
-푸드	산지직송	8621	https://d1ruwxjthziwe4.cloudfront.net/marketing/8621.jpg	https://link.wadiz.kr/BeYz/9ogj3kh3	22900	3000	앱 첫결제 5천원 즉시할인		동해 강릉 자연산 손질 국산 고등어 300g 2미 6미 8미 10미			N
 푸드	산지직송	8619	https://cdn2.wadiz.kr/2024/06/05/30fe3b74-268b-419a-9315-cca674ecf625.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/lnex5mfc	14500	4000	앱 첫결제 5천원 즉시할인		한우지애 무항생제 한우 이유식 냉장 다짐육 꽃등심 등심 양지 국거리 사태 장조림 잡채 산적 불고기 1등급 2등급			N
 푸드	산지직송	8623	https://d1ruwxjthziwe4.cloudfront.net/marketing/8623.jpg	https://link.wadiz.kr/BeYz/ybu2p4o6	19900	0	앱 첫결제 5천원 즉시할인		해남 산지직송 유기농 생 레드비트 2kg 3kg 5kg 10kg			N
 푸드	산지직송	8606	https://cdn2.wadiz.kr/2024/06/04/95c557f2-7129-44df-a2d9-e7d71714e113.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/w6xfvrs8	9500	0	앱 첫결제 5천원 즉시할인		파머레시피 청년농부직송 GAP 인증 햇양파 중 3kg			N
