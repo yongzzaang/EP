@@ -258,7 +258,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 패션	패션소품	1945	https://d1ruwxjthziwe4.cloudfront.net/marketing/1945.jpg	https://link.wadiz.kr/BeYz/brp6m9c0	7900	3000	앱 첫결제 5천원 즉시할인		핸디핸드 핸디포켓 강력 자석 아이폰 맥세이프 케이스		293.0	N
 뷰티	스킨케어	2121	https://d1ruwxjthziwe4.cloudfront.net/marketing/2121.jpg	https://link.wadiz.kr/BeYz/pt4lnlj7	200000	0	앱 첫결제 5천원 즉시할인		이데넬 알텀 펩타이드 솔루션 크림 20ml		141.0	N
 스포츠·아웃도어		1938	https://d1ruwxjthziwe4.cloudfront.net/marketing/1938.jpg	https://link.wadiz.kr/BeYz/w5jsc98s	35000	0	앱 첫결제 5천원 즉시할인		포항 야외방탈출 게임 꺼지지 않는 불빛 호미곶 그곳 체험		8.0	N
-홈·리빙		1377	https://d1ruwxjthziwe4.cloudfront.net/marketing/1377.jpg	https://link.wadiz.kr/BeYz/15ts16kd	20000	3500	앱 첫결제 5천원 즉시할인		러버스 모과글 폐렴균 충치균 제거 모과향 가글액 300ml		160.0	N
+홈·리빙		1377	https://d1ruwxjthziwe4.cloudfront.net/marketing/1377.jpg	https://link.wadiz.kr/BeYz/15ts16kd	14900	3500	앱 첫결제 5천원 즉시할인		러버스 모과글 폐렴균 충치균 제거 모과향 가글액 300ml		160.0	N
 반려동물		2126	https://d1ruwxjthziwe4.cloudfront.net/marketing/2126.jpg	https://link.wadiz.kr/BeYz/07o2uddg	116820	0	앱 첫결제 5천원 즉시할인		펫인뷰티 강아지 고양이 천연 라텍스 조각 쫀쫀방석 퀼팅		9.0	N
 반려동물		2127	https://d1ruwxjthziwe4.cloudfront.net/marketing/2127.jpg	https://link.wadiz.kr/BeYz/q120jltd	22800	3000	앱 첫결제 5천원 즉시할인		펫인뷰티 강아지 고양이 반려동물 고탄력 면니트 생활 방수 제로 넥카라		73.0	N
 패션		2163	https://d1ruwxjthziwe4.cloudfront.net/marketing/2163.jpg	https://link.wadiz.kr/BeYz/78mf92v9	208000	0	앱 첫결제 5천원 즉시할인		어바웃엠브로 실사고증 정조항공점퍼 4종 자수 점퍼		15.0	N
@@ -452,7 +452,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 테크·가전	엔터테인먼트가전	3101	https://d1ruwxjthziwe4.cloudfront.net/marketing/3101.jpg	https://link.wadiz.kr/BeYz/sv76zzcf	169000	0	앱 첫결제 5천원 즉시할인		뮤젠 사이버큐브 IPX5 방수 등급 손전등 기능 캠핑 야외용 미니 블루투스 스피커 프리미엄		117.0	N
 테크·가전		3082	https://d1ruwxjthziwe4.cloudfront.net/marketing/3082.jpg	https://link.wadiz.kr/BeYz/b4fauuvq	39900	3000	앱 첫결제 5천원 즉시할인		제이스틴 랄라 무선 전동 텀블러 핑크 화이트 1세트		68.0	N
 푸드	간편식	2981	https://d1ruwxjthziwe4.cloudfront.net/marketing/2981.jpg	https://link.wadiz.kr/BeYz/rmgzq98y	24000	3000	앱 첫결제 5천원 즉시할인		재미네 부엌 간편하게 먹는 양송이 크림카레 230g 100% 국내산 재료 5개입 (5인분)		37.0	N
-뷰티	구강용품	2637	https://d1ruwxjthziwe4.cloudfront.net/marketing/2637.jpg	https://link.wadiz.kr/BeYz/d6613k4p	18900	3500	앱 첫결제 5천원 즉시할인		터치프로젝트 러버스 입냄새 제거 모과 치약 100g+칫솔 세트		80.0	N
+뷰티	구강용품	2637	https://d1ruwxjthziwe4.cloudfront.net/marketing/2637.jpg	https://link.wadiz.kr/BeYz/d6613k4p	9900	3500	앱 첫결제 5천원 즉시할인		터치프로젝트 러버스 입냄새 제거 모과 치약 100g+칫솔 세트		80.0	N
 푸드	소스·조미료	3120	https://d1ruwxjthziwe4.cloudfront.net/marketing/3120.jpg	https://link.wadiz.kr/BeYz/gujrvtr8	13000	3000	앱 첫결제 5천원 즉시할인		제로밤 무설탕 제로슈가 칵테일 하이볼 블렌드 믹스 멜론사워 블루레모네이드 피치크러시 밀키소다 12개입 1박스		42.0	N
 푸드	간편식	3102	https://d1ruwxjthziwe4.cloudfront.net/marketing/3102.jpg	https://link.wadiz.kr/BeYz/xzm906oq	21900	3000	앱 첫결제 5천원 즉시할인		광주 무등산식당 돼지갈비 묵은지 김치찜 떡갈비 양념돼지갈비		185.0	N
 테크·가전		2999	https://d1ruwxjthziwe4.cloudfront.net/marketing/2999.jpg	https://link.wadiz.kr/BeYz/tuj27hnw	30800	3000	앱 첫결제 5천원 즉시할인		쇼마젠시 SHOMA 윙고 미니 냉풍기		32.0	N
@@ -587,7 +587,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 홈·리빙		3515	https://d1ruwxjthziwe4.cloudfront.net/marketing/3515.jpg	https://link.wadiz.kr/BeYz/hgynycae	18900	3000	앱 첫결제 5천원 즉시할인		베베풋 글라스 유리 발뒤꿈치 발각질 제거기 시즌6		72.0	N
 뷰티		3524	https://cdn2.wadiz.kr/2022/10/14/142baa4a-2fdb-4a1b-bd4a-9d4084470955.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/fewm5xk2	89000	3000	앱 첫결제 5천원 즉시할인		로꾸미 백본 케틀벨 괄사 셀프마사지 도자기 마사지기		49.0	N
 패션	신발	3511	https://cdn2.wadiz.kr/2022/10/13/578a592d-fd89-428e-a0b3-61a6f908b956.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/4qodofai	62900	0	앱 첫결제 5천원 즉시할인		에이든 아치서포트 워킹화 데이워크 A365 블랙 크림 그레이		27.0	N
-푸드	소스·조미료	3099	https://d1ruwxjthziwe4.cloudfront.net/marketing/3099.jpg	https://link.wadiz.kr/BeYz/wea2204l	45000	4500	앱 첫결제 5천원 즉시할인		빼빼채식짜장 200g 5팩		38.0	N
 홈·리빙	침실	3549	https://d1ruwxjthziwe4.cloudfront.net/marketing/3549.jpg	https://link.wadiz.kr/BeYz/b4anjgbn	198000	0	앱 첫결제 5천원 즉시할인		베드메이트유 핏넥2.0 기능성 숙면 경추 베개 프리미엄 와이드		45.0	N
 홈·리빙	인테리어	1728	https://d1ruwxjthziwe4.cloudfront.net/marketing/1728.jpg	https://link.wadiz.kr/BeYz/3gjzump6	35000	4000	앱 첫결제 5천원 즉시할인		3D 에어핏쿠션 체압분산 쿠션		42.0	N
 뷰티	스킨케어	3561	https://d1ruwxjthziwe4.cloudfront.net/marketing/3561.jpg	https://link.wadiz.kr/BeYz/0dkg8sea	24000	3000	앱 첫결제 5천원 즉시할인		키톡스 시카 캐모마일 토너 250ml		17.0	N
@@ -686,7 +685,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 테크·가전	생활가전	3795	https://cdn2.wadiz.kr/2022/12/13/585a3427-c39e-4322-a82c-aa727ace0019.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/kzs14c47	2950000	0	앱 첫결제 5천원 즉시할인		샌드박스 R2 스마트 로스터 APP 연동 로스팅기		7.0	N
 테크·가전	생활가전	3804	https://d1ruwxjthziwe4.cloudfront.net/marketing/3804.jpg	https://link.wadiz.kr/BeYz/x4qa3s9x	139000	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	루토닉스 두피마사지기 볼륨부스터 괄사 홈케어 뿌리볼륨증가 +루트팜 에너지 볼륨 앰플35ml		33.0	N
 패션	의류	3127	https://d1ruwxjthziwe4.cloudfront.net/marketing/3127.jpg	https://link.wadiz.kr/BeYz/l3xhcwgd	45000	3500	앱 첫결제 5천원 즉시할인		더로브스토리 호캉스 무드 감성 로브가운 M		24.0	N
-홈·리빙	욕실	3138	https://d1ruwxjthziwe4.cloudfront.net/marketing/3138.jpg	https://link.wadiz.kr/BeYz/jx9qepvv	32000	3500	앱 첫결제 5천원 즉시할인		잠숲공 프리미엄 대나무 원사 뱀부타올 백설기 수건		23.0	N
+홈·리빙	욕실	3138	https://d1ruwxjthziwe4.cloudfront.net/marketing/3138.jpg	https://link.wadiz.kr/BeYz/jx9qepvv	40000	0	앱 첫결제 5천원 즉시할인		잠숲공 프리미엄 대나무 원사 뱀부타올 백설기 수건		23.0	N
 테크·가전	엔터테인먼트가전	3800	https://d1ruwxjthziwe4.cloudfront.net/marketing/3800.jpg	https://link.wadiz.kr/BeYz/y0czt3g9	149000	3300	앱 첫결제 5천원 즉시할인		드림 골전도 이어폰 D10		28.0	N
 홈·리빙		3811	https://d1ruwxjthziwe4.cloudfront.net/marketing/3811.jpg	https://link.wadiz.kr/BeYz/8tr9kapj	18000	3500	앱 첫결제 5천원 즉시할인		채소키우기 콩나물 숙주 재배기 코아두 1단 2단		73.0	N
 패션	의류	3815	https://d1ruwxjthziwe4.cloudfront.net/marketing/3815.jpg	https://link.wadiz.kr/BeYz/22mr63t5	156000	0	앱 첫결제 5천원 즉시할인		건곤감리 기모데님 셔링 감 항공점퍼		19.0	N
@@ -725,7 +724,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 테크·가전	DIY	3622	https://d1ruwxjthziwe4.cloudfront.net/marketing/3622.jpg	https://link.wadiz.kr/BeYz/8im2yjx1	35900	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	피넛 초경량 휴대용 미니 방수 라벨 프린터기 화이트		96.0	N
 스포츠·아웃도어	헬스	3632	https://d1ruwxjthziwe4.cloudfront.net/marketing/3632.jpg	https://link.wadiz.kr/BeYz/l4sc7znz	99000	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	GD 머슬펌프 오토 상체운동 홈트 헬스기구 일반용		95.0	N
 패션	언더웨어	1948	https://d1ruwxjthziwe4.cloudfront.net/marketing/1948.jpg	https://link.wadiz.kr/BeYz/tsl6zjgp	14500	2500	앱 첫결제 5천원 즉시할인		마른파이브 히트터치 발열 이너 내복 내의 겨울 노브라티		224.0	N
-홈·리빙	욕실	3938	https://d1ruwxjthziwe4.cloudfront.net/marketing/3938.jpg	https://link.wadiz.kr/BeYz/4w3ynnoo	32000	3500	앱 첫결제 5천원 즉시할인		잠숲공 프리미엄 백설기수건 고급 뱀부사 대나무 원사 수건 뱀부타올 1세트 4장		49.0	N
+홈·리빙	욕실	3938	https://d1ruwxjthziwe4.cloudfront.net/marketing/3938.jpg	https://link.wadiz.kr/BeYz/4w3ynnoo	40000	3500	앱 첫결제 5천원 즉시할인		잠숲공 프리미엄 백설기수건 고급 뱀부사 대나무 원사 수건 뱀부타올 1세트 4장		49.0	N
 뷰티	메이크업	3806	https://cdn2.wadiz.kr/2023/01/11/8b666f38-725c-4711-8651-eb0950e75c96.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/dqd933cz	13900	3000	앱 첫결제 5천원 즉시할인		라뉴에 올인원 멀티 스틱 비건 제주 애월립밤 시즌1		109.0	N
 패션		3936	https://d1ruwxjthziwe4.cloudfront.net/marketing/3936.jpg	https://link.wadiz.kr/BeYz/lxfq4qpw	690000	0	앱 첫결제 5천원 즉시할인		벌브 이태리 온리프랭크 램스킨 블랙시티 가죽자켓		21.0	N
 패션	의류	3934	https://d1ruwxjthziwe4.cloudfront.net/marketing/3934.jpg	https://link.wadiz.kr/BeYz/sqhes9pz	690000	0	앱 첫결제 5천원 즉시할인		벌브 영국 오리지널 벤타일 프리미엄 코튼 맥코트		15.0	N
@@ -1123,7 +1122,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 패션	아이웨어	4883	https://d1ruwxjthziwe4.cloudfront.net/marketing/4883.jpg	https://link.wadiz.kr/BeYz/bhi09533	59000	0	앱 첫결제 5천원 즉시할인		리에티 쓱글라스 변색 안경 선글라스		79.0	N
 뷰티	메이크업	4489	https://cdn2.wadiz.kr/2023/05/08/a99580bf-b7bf-404a-94b7-4cfa41eca948.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/7p3gcwca	49900	2500	앱 첫결제 5천원 즉시할인		라뉴에 올인원 멀티 스틱 비건 제주 애월립밤 시즌2		39.0	N
 홈·리빙		1459	https://d1ruwxjthziwe4.cloudfront.net/marketing/1459.jpg	https://link.wadiz.kr/BeYz/qc59n4u8	19000	2500	앱 첫결제 5천원 즉시할인		태원트레이딩 정장걸이 9개		43.0	N
-뷰티	헤어케어	4862	https://d1ruwxjthziwe4.cloudfront.net/marketing/4862.jpg	https://link.wadiz.kr/BeYz/t89f0zru	36000	3000	앱 첫결제 5천원 즉시할인		케이맥스 천연 케라틴 풍성젤 익스트림 소프트 왁스 스타일링 젤		21.0	N
 테크·가전	주방가전	4828	https://d1ruwxjthziwe4.cloudfront.net/marketing/4828.jpg	https://link.wadiz.kr/BeYz/5g6cqfaf	99000	0	앱 첫결제 5천원 즉시할인		파뷔에 도자기 티포트 세트 전기포트		34.0	N
 디자인	공예	3383	https://d1ruwxjthziwe4.cloudfront.net/marketing/3383.jpg	https://link.wadiz.kr/BeYz/a1acm5cn	59000	3000	앱 첫결제 5천원 즉시할인		소품연구소 행운 선물 세트 소코뚜레 문종+명주실 명태		63.0	N
 자동차	관리·세차용품	4701	https://d1ruwxjthziwe4.cloudfront.net/marketing/4701.jpg	https://link.wadiz.kr/BeYz/287c7eor	31900	3000	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	디테일가이 티타늄 매직 코팅제 +소분통		53.0	N
@@ -2557,7 +2555,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 푸드	산지직송	7532	https://cdn2.wadiz.kr/2024/04/24/751789c0-ccb3-42e2-a6d5-e58c9f23ef20.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/qwr7f6tn	28400	0	앱 첫결제 5천원 즉시할인		쭌키친 경남 함안 의령 국내산 고당도 하우스 꿀수박 3kg 4kg 5kg			N
 푸드	산지직송	7527	https://cdn2.wadiz.kr/2024/04/24/a93a33ba-61da-43f9-a0ea-5d54fce94479.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/h9txruec	52700	0	앱 첫결제 5천원 즉시할인		쭌키친 국내산 고당도 머스크 프리미엄 세지 멜론 중대과 2수			N
 푸드	산지직송	7526	https://d1ruwxjthziwe4.cloudfront.net/marketing/7526.jpg	https://link.wadiz.kr/BeYz/hv6jati0	14100	0	앱 첫결제 5천원 즉시할인		쭌키친 국내산 블루베리 중과 14mm 이상 100g			N
-뷰티	바디케어	7039	https://cdn2.wadiz.kr/2024/03/25/43d3a647-da2b-4f0b-a00f-042805035cbd.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/kdvkiw1i	18500	3000	앱 첫결제 5천원 즉시할인		푸르미스 슬라임 버블 배쓰밤 RELAX 주황 파랑		9.0	N
 푸드	산지직송	7458	https://cdn2.wadiz.kr/2024/04/18/736f9556-35e4-463e-acf2-7adb9549bd8a.JPG/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/jzd93hvv	36000	4000	앱 첫결제 5천원 즉시할인		농장760 순수 우리 농산물 국산 잡곡 6종 선물세트 1세트			N
 홈·리빙	인센스·방향제	7340	https://d1ruwxjthziwe4.cloudfront.net/marketing/7340.jpg	https://link.wadiz.kr/BeYz/f77vgktn	40000	0	앱 첫결제 5천원 즉시할인		erest 멀티 오브제 스프레이 50ml 세트		4.0	N
 패션	가방	7914	https://d1ruwxjthziwe4.cloudfront.net/marketing/7914.jpg	https://link.wadiz.kr/BeYz/rz5lz5am	109000	0	앱 첫결제 5천원 즉시할인		뮤토 보니타 캐리어 20인치		5.0	N
@@ -3205,7 +3202,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 패션	주얼리	9143	https://d1ruwxjthziwe4.cloudfront.net/marketing/9143.jpg	https://link.wadiz.kr/BeYz/3x0vpwme	98000	0	앱 첫결제 5천원 즉시할인		어피스 남아프리카의 포도 최상급 프레나이트 레몬쿼츠 천연원석 주얼리 목걸이		6.0	N
 뷰티	스킨케어	7316	https://cdn2.wadiz.kr/2024/04/02/e86bef66-577a-4b20-a114-4933fe21e072.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/vm1h290u	43800	0	앱 첫결제 5천원 즉시할인		브리스노우 포인원 리바이탈라이징 블루탄지 오일밤 스킨앤바디 50g		4.0	N
 홈·리빙	DIY	9387	https://d1ruwxjthziwe4.cloudfront.net/marketing/9387.jpg	https://link.wadiz.kr/BeYz/w10y8s50	25900	3000	앱 첫결제 5천원 즉시할인		조이팍 44in1 정밀 드라이버 키트		6.0	N
-자동차	관리·세차용품	9146	https://d1ruwxjthziwe4.cloudfront.net/marketing/9146.jpg	https://link.wadiz.kr/BeYz/bnvj46ji	35000	3000	앱 첫결제 5천원 즉시할인		벨루온 하이무브 플러스 엔진코팅제 300ml		14.0	N
+자동차	관리·세차용품	9146	https://d1ruwxjthziwe4.cloudfront.net/marketing/9146.jpg	https://link.wadiz.kr/BeYz/bnvj46ji	30000	3000	앱 첫결제 5천원 즉시할인		벨루온 하이무브 플러스 엔진코팅제 300ml		14.0	N
 패션	가방	9507	https://cdn2.wadiz.kr/2024/09/24/7cd5f641-f941-408c-924c-ee7316d8d7e6.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/pzph8svz	99000	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	플러스포트 발레코어 보부상 가방 320g 초경량 발레리백		8.0	N
 홈·리빙	인테리어	9306	https://d1ruwxjthziwe4.cloudfront.net/marketing/9306.jpg	https://link.wadiz.kr/BeYz/sz0jc2og	99000	3000	앱 첫결제 5천원 즉시할인		스마일웍스 젤리곰 무드등		4.0	N
 홈·리빙	DIY	9513	https://d1ruwxjthziwe4.cloudfront.net/marketing/9513.jpg	https://link.wadiz.kr/BeYz/spnl6uru	59800	3000	앱 첫결제 5천원 즉시할인		스타스랩 DIY우드퍼즐 북엔드 셰익스피어의시 한여름밤의꿈 명작 세트		5.0	N
@@ -3232,9 +3229,9 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 푸드	간편식	9576	https://cdn2.wadiz.kr/2024/10/08/9118b690-41de-4fd6-b239-f77c5c5d7760.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/s633q8sq	19900	3000	앱 첫결제 5천원 즉시할인		아임셰프 궁중요리 오색 구절판 2인분			N
 푸드	헬스·이너뷰티	9525	https://cdn2.wadiz.kr/2024/09/26/927b53be-8e7b-4cc6-bc00-422f43756842.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/xapp4viy	31500	0	앱 첫결제 5천원 즉시할인		필라멘토 데이터픽 직장인 올인원 영양제 한포 멀티팩		20.0	N
 푸드	헬스·이너뷰티	9407	https://cdn2.wadiz.kr/2024/08/29/7aa640ad-cbef-4185-b568-52ef8bb0e547.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/6xj64g1i	178000	0	앱 첫결제 5천원 즉시할인		온자담 산삼침향원 왕의 기운을 한 알에 8년근 산삼 침향 녹용		4.0	N
-뷰티	클렌징	9403	https://cdn2.wadiz.kr/2024/08/28/be3c0968-b1d8-4806-8c97-339133a7fc1d.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/i7es32c6	38000	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	코스메쉐프 흑당고 세안팩 피부 트러블 구원 60초 모공청소 튜브형	흑당고|코스메쉐프흑당고|모공세안팩|짜서쓰는흑당고|모공클렌저|흑당고마사지세안팩|흑당고세안팩|마시지세안팩|흑당고진액영양에센스|흑당고진액영양주름밤|세안팩|흑당고진액영양탄력크림	219.0	N
-뷰티	클렌징	9404	https://d1ruwxjthziwe4.cloudfront.net/marketing/9404.jpg	https://link.wadiz.kr/BeYz/5mnakvqa	38000	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	코스메쉐프 백당고 세안팩 튜브형 막걸리 블렌딩 60초 광채 지게미	백당고|코스메쉐프백당고|백당고세안팩|짜서쓰는백당고|진액팩|60초세안팩|짜쓰팩|백당고막걸리광채세안팩|백당고막걸리광채60초세안팩|백당고막걸리고운걸에센스|백당고막걸리백옥빛크림|세안팩|백당고지게미팩케익	46.0	N
-뷰티	클렌징	9405	https://d1ruwxjthziwe4.cloudfront.net/marketing/9405.jpg	https://link.wadiz.kr/BeYz/76pkt83v	38000	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	코스메쉐프 녹당고 세안팩 자연유래 녹색 영양소 피부진정 튜브형	녹당고|코스메쉐프녹당고|녹당고세안팩|짜서쓰는녹당고|엽록소진정60초세안팩|짜쓰녹|녹당고엽록소진정60초세안팩|녹당고60초마사지고체팩|녹색영양세안팩|세안팩		N
+뷰티	클렌징	9403	https://cdn2.wadiz.kr/2024/08/28/be3c0968-b1d8-4806-8c97-339133a7fc1d.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/i7es32c6	34000	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	코스메쉐프 흑당고 세안팩 피부 트러블 구원 60초 모공청소 튜브형	흑당고|코스메쉐프흑당고|모공세안팩|짜서쓰는흑당고|모공클렌저|흑당고마사지세안팩|흑당고세안팩|마시지세안팩|흑당고진액영양에센스|흑당고진액영양주름밤|세안팩|흑당고진액영양탄력크림	219.0	N
+뷰티	클렌징	9404	https://d1ruwxjthziwe4.cloudfront.net/marketing/9404.jpg	https://link.wadiz.kr/BeYz/5mnakvqa	34000	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	코스메쉐프 백당고 세안팩 튜브형 막걸리 블렌딩 60초 광채 지게미	백당고|코스메쉐프백당고|백당고세안팩|짜서쓰는백당고|진액팩|60초세안팩|짜쓰팩|백당고막걸리광채세안팩|백당고막걸리광채60초세안팩|백당고막걸리고운걸에센스|백당고막걸리백옥빛크림|세안팩|백당고지게미팩케익	46.0	N
+뷰티	클렌징	9405	https://d1ruwxjthziwe4.cloudfront.net/marketing/9405.jpg	https://link.wadiz.kr/BeYz/76pkt83v	34000	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	코스메쉐프 녹당고 세안팩 자연유래 녹색 영양소 피부진정 튜브형	녹당고|코스메쉐프녹당고|녹당고세안팩|짜서쓰는녹당고|엽록소진정60초세안팩|짜쓰녹|녹당고엽록소진정60초세안팩|녹당고60초마사지고체팩|녹색영양세안팩|세안팩		N
 도서·전자책	자기계발	9023	https://d1ruwxjthziwe4.cloudfront.net/marketing/9023.jpg	https://link.wadiz.kr/BeYz/f6hu65g0	129000	0	앱 첫결제 5천원 즉시할인		이상수 수성일기 먹고 싶은 거 다 45kg 유지하는 비결		314.0	N
 푸드	산지직송	9542	https://cdn2.wadiz.kr/2024/10/07/3056c953-fd18-430c-b676-a92d88317655.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/0y0it2yn	53600	0	앱 첫결제 5천원 즉시할인		그린스프레드 당일 수확 산지직송 컬러 방울토마토 1kg			N
 푸드	산지직송	7728	https://d1ruwxjthziwe4.cloudfront.net/marketing/7728.jpg	https://link.wadiz.kr/BeYz/lcrmh0w7	48800	0	앱 첫결제 5천원 즉시할인		프리팜 GAP인증 간편 세척 사과 2.5kg 3kg			N
