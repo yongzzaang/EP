@@ -2036,7 +2036,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 키즈		6460	https://d1ruwxjthziwe4.cloudfront.net/marketing/6460.jpg	https://link.wadiz.kr/BeYz/30pkoxvr	128000	0	앱 첫결제 5천원 즉시할인		조이제이 유모차 전용 공기청정살균기 먼슬리 필터		8.0	N
 패션	언더웨어	7302	https://cdn2.wadiz.kr/2024/04/02/ddde9abe-63da-4b6e-bf02-99b61f822a1e.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/z3byhv8g	20000	0	앱 첫결제 5천원 즉시할인		가드맨 남성 속옷 드로즈 팬티 와이즈핏 멀티컬러 3입 세트		20.0	N
 테크·가전	주변기기	6419	https://d1ruwxjthziwe4.cloudfront.net/marketing/6419.jpg	https://link.wadiz.kr/BeYz/hgyvij1h	46500	3000	앱 첫결제 5천원 즉시할인		이쏘코리아 갤럭시워치용 회전 접이식 3IN1 맥세이프 무선충전기		34.0	N
-테크·가전	주방가전	6060	https://d1ruwxjthziwe4.cloudfront.net/marketing/6060.jpg	https://link.wadiz.kr/BeYz/64pwvrc3	330000	0	앱 첫결제 5천원 즉시할인		PN풍년 시그니처 진공블렌더 이지뷰 분리형 챔버 화이트 민트 베이지		8.0	N
+테크·가전	주방가전	6060	https://d1ruwxjthziwe4.cloudfront.net/marketing/6060.jpg	https://link.wadiz.kr/BeYz/64pwvrc3	389000	0	앱 첫결제 5천원 즉시할인		PN풍년 시그니처 진공블렌더 이지뷰 분리형 챔버 화이트 민트 베이지		8.0	N
 테크·가전	생활가전	7263	https://d1ruwxjthziwe4.cloudfront.net/marketing/7263.jpg	https://link.wadiz.kr/BeYz/2z566qs7	69000	0	앱 첫결제 5천원 즉시할인		랜드크래프트 CF1 선풍기+전용하드케이스		30.0	N
 패션	아이웨어	7232	https://d1ruwxjthziwe4.cloudfront.net/marketing/7232.jpg	https://link.wadiz.kr/BeYz/m7aa7fs5	150000	0	앱 첫결제 5천원 즉시할인		마일즈 MILSE 54 빅사이즈 티타늄 안경테		2.0	N
 홈·리빙	침실	7292	https://d1ruwxjthziwe4.cloudfront.net/marketing/7292.jpg	https://link.wadiz.kr/BeYz/knture2l	139000	0	앱 첫결제 5천원 즉시할인		푹잠 3단 접이식 매트리스 슈퍼싱글 퀸		4.0	N
