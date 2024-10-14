@@ -1325,7 +1325,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 뷰티	헤어케어	5169	https://d1ruwxjthziwe4.cloudfront.net/marketing/5169.jpg	https://link.wadiz.kr/BeYz/rtxng91k	35000	2500	앱 첫결제 5천원 즉시할인		OKO101 헤어 데오 리프레셔 코지코튼 그레시레몬		24.0	N
 테크·가전	주변기기	5238	https://d1ruwxjthziwe4.cloudfront.net/marketing/5238.jpg	https://link.wadiz.kr/BeYz/rzqek7hr	35900	3000	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	쿨린 22.5W 대용량 고속충전 보조배터리			N
 테크·가전	주변기기	5237	https://d1ruwxjthziwe4.cloudfront.net/marketing/5237.jpg	https://link.wadiz.kr/BeYz/sov44by2	25900	3000	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	보바 쿨린 흡착 무선 고속충전 보조배터리 10000mAh SMODO300			N
-테크·가전		5242	https://d1ruwxjthziwe4.cloudfront.net/marketing/5242.jpg	https://link.wadiz.kr/BeYz/4e0rebb3	64900	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	쿨린 스마트 무선 에어펌프			N
 스포츠·아웃도어		5243	https://cdn2.wadiz.kr/2023/11/02/e12ae6e4-086a-438d-96e6-cefdf540c777.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/rzoftcob	29900	3000	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	쿨린 점핏 스마트줄넘기			N
 테크·가전	생활가전	1598	https://d1ruwxjthziwe4.cloudfront.net/marketing/1598.jpg	https://link.wadiz.kr/BeYz/zroduxga	105000	0	앱 첫결제 5천원 즉시할인		베스트로닉 비지니스 온열조끼+발열패드+배터리		33.0	N
 뷰티	스킨케어	4708	https://d1ruwxjthziwe4.cloudfront.net/marketing/4708.jpg	https://link.wadiz.kr/BeYz/a2wep30i	35000	0	앱 첫결제 5천원 즉시할인		르끌랭나인 엘라 에센스 페넬라겐 포뮬라 210ml		170.0	N
@@ -1968,15 +1967,15 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 아트	그림	6681	https://d1ruwxjthziwe4.cloudfront.net/marketing/6681.jpg	https://link.wadiz.kr/BeYz/ooyq79xc	77000	6000	앱 첫결제 5천원 즉시할인		Sylvia 작가 그림 Just Yellow 50X70 사이즈 아트포스터			N
 아트	그림	6697	https://d1ruwxjthziwe4.cloudfront.net/marketing/6697.jpg	https://link.wadiz.kr/BeYz/8cz0fcmc	77000	6000	앱 첫결제 5천원 즉시할인		Das Rotes Rabbit 작가 그림 Egg Poetry 30X40 사이즈 아트포스터			N
 아트	그림	6462	https://d1ruwxjthziwe4.cloudfront.net/marketing/6462.jpg	https://link.wadiz.kr/BeYz/scu8dwdc	77000	6000	앱 첫결제 5천원 즉시할인		제이니 작가 그림 Mr Muchacho 30X40 사이즈 아트포스터			N
-아트	그림	6463	https://cdn2.wadiz.kr/2024/03/21/Jeney-002.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/b97bs3d0	77000	6000	앱 첫결제 5천원 즉시할인		제이니 작가 그림+알루미늄 액자 Jeney 30X40 사이즈 아트포스터			N
+아트	그림	6463	https://d1ruwxjthziwe4.cloudfront.net/marketing/6463.jpg	https://link.wadiz.kr/BeYz/b97bs3d0	77000	6000	앱 첫결제 5천원 즉시할인		제이니 작가 그림+알루미늄 액자 Jeney 30X40 사이즈 아트포스터			N
 아트	그림	6727	https://d1ruwxjthziwe4.cloudfront.net/marketing/6727.jpg	https://link.wadiz.kr/BeYz/m3t9jryk	77000	6000	앱 첫결제 5천원 즉시할인		Zoe Wodarz 작가 그림 Amsterdam 50X70 사이즈 아트포스터			N
-아트	그림	6475	https://cdn2.wadiz.kr/2024/03/21/P0000BHV_002.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/aemdzma7	77000	6000	앱 첫결제 5천원 즉시할인		규하나 작가 그림+알루미늄 액자 엄마 꽃 70X100 사이즈 아트포스터			N
+아트	그림	6475	https://d1ruwxjthziwe4.cloudfront.net/marketing/6475.jpg	https://link.wadiz.kr/BeYz/aemdzma7	77000	6000	앱 첫결제 5천원 즉시할인		규하나 작가 그림+알루미늄 액자 엄마 꽃 70X100 사이즈 아트포스터			N
 아트	그림	6480	https://d1ruwxjthziwe4.cloudfront.net/marketing/6480.jpg	https://link.wadiz.kr/BeYz/h8l0n5ya	77000	6000	앱 첫결제 5천원 즉시할인		규하나 작가 그림 네가 부는 작은 바람에도 나는 크게 흔들린다 30X40 사이즈 아트포스터			N
 아트	그림	6493	https://d1ruwxjthziwe4.cloudfront.net/marketing/6493.jpg	https://link.wadiz.kr/BeYz/tgetcc30	77000	6000	앱 첫결제 5천원 즉시할인		규하나 작가 그림 Lets Go 30X40 사이즈 아트포스터			N
-아트	그림	6495	https://cdn2.wadiz.kr/2024/03/21/P0000BGY_002.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/ie2bl12m	77000	6000	앱 첫결제 5천원 즉시할인		규하나 작가 그림+액자 Plants and people 50X70 사이즈 아트포스터			N
+아트	그림	6495	https://d1ruwxjthziwe4.cloudfront.net/marketing/6495.jpg	https://link.wadiz.kr/BeYz/ie2bl12m	77000	6000	앱 첫결제 5천원 즉시할인		규하나 작가 그림+액자 Plants and people 50X70 사이즈 아트포스터			N
 아트	그림	6524	https://d1ruwxjthziwe4.cloudfront.net/marketing/6524.jpg	https://link.wadiz.kr/BeYz/6x2cycqh	77000	6000	앱 첫결제 5천원 즉시할인		Eniko Eged 작가 그림 Strawberry Garden 50X70 사이즈 아트포스터			N
 아트	그림	6561	https://d1ruwxjthziwe4.cloudfront.net/marketing/6561.jpg	https://link.wadiz.kr/BeYz/z4cbr0lh	77000	6000	앱 첫결제 5천원 즉시할인		PSTR스튜디오 그림+액자 Classic Porsche 917 30X40 사이즈 아트포스터			N
-아트	그림	6570	https://cdn2.wadiz.kr/2024/03/21/P0000BDO_002.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/qhuapake	77000	6000	앱 첫결제 5천원 즉시할인		PSTR스튜디오 그림+액자 Classic Ferrari GT 250 30X40 사이즈 아트포스터			N
+아트	그림	6570	https://d1ruwxjthziwe4.cloudfront.net/marketing/6570.jpg	https://link.wadiz.kr/BeYz/qhuapake	77000	6000	앱 첫결제 5천원 즉시할인		PSTR스튜디오 그림+액자 Classic Ferrari GT 250 30X40 사이즈 아트포스터			N
 테크·가전		6994	https://d1ruwxjthziwe4.cloudfront.net/marketing/6994.jpg	https://link.wadiz.kr/BeYz/cjmjsse4	46000	0	앱 첫결제 5천원 즉시할인		kiuda 키우다 친환경 스마트 화분 2구 1세트		1.0	N
 테크·가전	주방가전	6428	https://d1ruwxjthziwe4.cloudfront.net/marketing/6428.jpg	https://link.wadiz.kr/BeYz/qtne2f4c	129000	0	앱 첫결제 5천원 즉시할인		끌리오 투명 얼음 제빙기		5.0	N
 패션	주얼리	6898	https://d1ruwxjthziwe4.cloudfront.net/marketing/6898.jpg	https://link.wadiz.kr/BeYz/w65pkpsp	479000	0	앱 첫결제 5천원 즉시할인		가치온 블라썸 캐럿 14K 18K 골드 모이사나이트 목걸이 귀걸이 반지		6.0	N
@@ -2378,7 +2377,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 홈·리빙	주방	7684	https://cdn2.wadiz.kr/2024/04/29/ab974a87-6523-4335-86ca-1625ec0d8b32.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/td8erafm	21000	0	앱 첫결제 5천원 즉시할인		PN풍년 브리에 버디멀티팬IH 20cm 그레이 화이트			N
 홈·리빙	주방	7690	https://d1ruwxjthziwe4.cloudfront.net/marketing/7690.jpg	https://link.wadiz.kr/BeYz/k1d6p1bo	49000	0	앱 첫결제 5천원 즉시할인		PN풍년 통주물 세라믹코팅 포시아 포르테 IH 22C 24C 26CL 28CH 32CL			N
 홈·리빙	청소·세탁	7859	https://d1ruwxjthziwe4.cloudfront.net/marketing/7859.jpg	https://link.wadiz.kr/BeYz/dkau7bcx	11000	3000	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	마더케이 라이프 세탁조 클리너 150g 4개입 1세트			N
-뷰티	클렌징	6457	https://cdn2.wadiz.kr/2024/03/17/9095bfbe-f001-45e6-9aa7-872277781adb.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/hj13wdfd	33600	3000	앱 첫결제 5천원 즉시할인		허히즈 부들결 효소 클렌징 파우더		12.0	N
+뷰티	클렌징	6457	https://d1ruwxjthziwe4.cloudfront.net/marketing/6457.jpg	https://link.wadiz.kr/BeYz/hj13wdfd	33600	3000	앱 첫결제 5천원 즉시할인		허히즈 부들결 효소 클렌징 파우더		12.0	N
 홈·리빙	청소·세탁	7833	https://d1ruwxjthziwe4.cloudfront.net/marketing/7833.jpg	https://link.wadiz.kr/BeYz/lxfqx8my	18300	3000	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	마더케이 무형광 세탁망 원형 3종 1세트			N
 홈·리빙	청소·세탁	7834	https://d1ruwxjthziwe4.cloudfront.net/marketing/7834.jpg	https://link.wadiz.kr/BeYz/ot0n9nvi	17000	3000	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	마더케이 무형광 세탁망 사각 3종 1세트			N
 홈·리빙	청소·세탁	7835	https://cdn2.wadiz.kr/2024/04/25/d338298d-395c-4ac9-b8ab-0d1bb1d2a83e.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/zt0t95uh	25800	3000	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	마더케이 무형광세탁망 사각 4종 1세트			N
@@ -2570,7 +2569,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 패션	신발	8270	https://d1ruwxjthziwe4.cloudfront.net/marketing/8270.jpg	https://link.wadiz.kr/BeYz/jnd29j5h	114000	3000	앱 첫결제 5천원 즉시할인		씨마이너 샤카 스니커즈		1.0	N
 테크·가전	주변기기	7876	https://cdn2.wadiz.kr/2024/04/18/44590108-fda2-43f2-9820-e6f35ffeb46c.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/k7qbpvaz	35900	0	앱 첫결제 5천원 즉시할인		엠텍 5IN1 고속 무선충전기 아이폰 갤럭시 무선충전		7.0	N
 패션	패션소품	7965	https://d1ruwxjthziwe4.cloudfront.net/marketing/7965.jpg	https://link.wadiz.kr/BeYz/acpv012h	33900	3000	앱 첫결제 5천원 즉시할인		웨이브어페럴 W2.0 CAP 초경량 방수 아웃도어캡		7.0	N
-뷰티	헤어케어	8354	https://d1ruwxjthziwe4.cloudfront.net/marketing/8354.jpg	https://link.wadiz.kr/BeYz/1iej2zu0	28500	0	앱 첫결제 5천원 즉시할인		청담남자 Dr.BIOS+ 스켈프 탈모케어 샴푸	지성용샴푸|두피케어샴푸|청담남자|스캘프케어샴푸|양면샴푸브러쉬|샴푸브러쉬|닥터비오스|탈모샴푸|탈모샴푸추천|정수리탈모|원형탈모|탈모예방|탈모관리|탈모방지샴푸|남성탈모|약산성샴푸|탈모예방샴푸|닥터비오스스캘프케어샴푸	51.0	N
 패션	의류	7966	https://d1ruwxjthziwe4.cloudfront.net/marketing/7966.jpg	https://link.wadiz.kr/BeYz/e9t1njqf	98000	3000	앱 첫결제 5천원 즉시할인		파이스트웨이브 Thermal MTM W2.O 재킷초경량 아우터		3.0	N
 푸드	음료·커피	7289	https://cdn2.wadiz.kr/2024/04/01/0c1cfc47-4303-4f60-8f6c-b25cd8adff55.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/me40bg2z	36000	0	앱 첫결제 5천원 즉시할인		테라에판 유기농 오트밀 드링크 1L 6개+휴대용 실리콘 컵 1세트		5.0	N
 홈·리빙	욕실	5769	https://cdn2.wadiz.kr/2024/03/20/20ab7c1a-be02-4bcb-af76-ecd3f3e6efe5.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/irrsp11o	28900	0	앱 첫결제 5천원 즉시할인		만능세척솔 청소해듀오 세제일체형 스펀지솔+실리콘솔		12.0	N
@@ -3204,6 +3202,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 자동차	관리·세차용품	9146	https://d1ruwxjthziwe4.cloudfront.net/marketing/9146.jpg	https://link.wadiz.kr/BeYz/lwi3jjp7	30000	3000	앱 첫결제 5천원 즉시할인		벨루온 하이무브 플러스 엔진코팅제 300ml		14.0	N
 패션	가방	9507	https://cdn2.wadiz.kr/2024/09/24/7cd5f641-f941-408c-924c-ee7316d8d7e6.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/q7e2ggfl	99000	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	플러스포트 발레코어 보부상 가방 320g 초경량 발레리백		8.0	N
 홈·리빙	인테리어	9306	https://d1ruwxjthziwe4.cloudfront.net/marketing/9306.jpg	https://link.wadiz.kr/BeYz/0353hox2	99000	3000	앱 첫결제 5천원 즉시할인		스마일웍스 젤리곰 무드등		4.0	N
+뷰티	바디케어	9508	https://cdn2.wadiz.kr/2024/09/24/d544d109-6038-4336-9cfd-c4721d5d15fa.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/wr3twmh9	55100	0	앱 첫결제 5천원 즉시할인		메드라인 야니아 루벤스 셀룰라이트 바디크림 밉살 퉁살 제거 프랑스 특허 임상완료		18.0	N
 홈·리빙	DIY	9513	https://d1ruwxjthziwe4.cloudfront.net/marketing/9513.jpg	https://link.wadiz.kr/BeYz/k0etd1k3	59800	3000	앱 첫결제 5천원 즉시할인		스타스랩 DIY우드퍼즐 북엔드 셰익스피어의시 한여름밤의꿈 명작 세트		5.0	N
 푸드	산지직송	9539	https://cdn2.wadiz.kr/2024/09/27/4e553dd0-3829-4161-b4b0-8493e984c2fc.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/iptnzjgl	41800	3000	앱 첫결제 5천원 즉시할인		과일마이스터 대추 GAP인증 당구공 크기 역대급 천황사과대추 1kg 2kg		15.0	N
 푸드	디저트·간식	9389	https://d1ruwxjthziwe4.cloudfront.net/marketing/9389.jpg	https://link.wadiz.kr/BeYz/9n520oug	20900	0	앱 첫결제 5천원 즉시할인		올라파파 적셔먹는 쿠키 올라과 15개		2.0	N
@@ -3238,5 +3237,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 뷰티	스킨케어	9466	https://cdn2.wadiz.kr/2024/09/09/11c84cd9-0b29-43ce-b7db-4f4d5ab13b06.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/ku7xnisg	28000	3000	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	케어드 핸드쉴드 안티에이징 핸드크림 2개		27.0	N
 패션	패션소품	8372	https://d1ruwxjthziwe4.cloudfront.net/marketing/8372.jpg	https://link.wadiz.kr/BeYz/0ax4rp2w	399000	0	앱 첫결제 5천원 즉시할인		석스 석와치스 남성 메탈시계 스피노 다이버300 SW208		11.0	N
 푸드	산지직송	8682	https://d1ruwxjthziwe4.cloudfront.net/marketing/8682.jpg	https://link.wadiz.kr/BeYz/dy13dqzp	44500	0	앱 첫결제 5천원 즉시할인		세라미트 삼파육 삼겹살 120g 5팩		3.0	N
+뷰티	스킨케어	7063	https://cdn2.wadiz.kr/2024/03/26/8190c67f-975b-4823-80b3-57e828e918c9.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/qvyjkdw7	22900	3000	앱 첫결제 5천원 즉시할인		베리페 비건 콜라겐 순수 앰플 10000ppm 속광 쫀쫀함까지		5.0	N
 푸드	디저트·간식	9500	https://cdn2.wadiz.kr/2024/09/23/6f8d45d2-29b6-4fc6-8029-b9f2179c2709.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/iqlgap2f	26535	0	앱 첫결제 5천원 즉시할인		뷔에르 두바이초콜릿 피스타치오 헤이즐넛 로투스 페이스트		234.0	N
 푸드	헬스·이너뷰티	9524	https://cdn2.wadiz.kr/2024/09/25/090b49dc-703c-4b2a-aa52-0d8e8d9fc5fd.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/jn64m4qv	42350	0	앱 첫결제 5천원 즉시할인		해피어트 마이크로바이옴 단백질 쉐이크 곡물맛 장내 환경 개선		49.0	N
