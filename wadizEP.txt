@@ -2846,7 +2846,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 테크·가전	주변기기	8555	https://cdn2.wadiz.kr/2024/05/29/d8653760-4742-4886-b33f-5fce0bc170f7.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/1np9gs8c	39000	3000	앱 첫결제 5천원 즉시할인		비코어 스튜어 몬스터 파우치 V2		36.0	N
 패션	가방	8543	https://cdn2.wadiz.kr/2024/05/29/19d1db52-a860-4fee-99e1-89434fc28984.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/q6qlrteh	148000	4000	앱 첫결제 5천원 즉시할인		알리제 커버링 숄더백 미니백 크로스백		33.0	N
 푸드	산지직송	8755	https://d1ruwxjthziwe4.cloudfront.net/marketing/8755.jpg	https://link.wadiz.kr/BeYz/vm95xmt8	38900	0	앱 첫결제 5천원 즉시할인		라라 블랙 프리미엄 미국산 고당도 생체리 1kg		5.0	N
-홈·리빙	욕실	8643	https://d1ruwxjthziwe4.cloudfront.net/marketing/8643.jpg	https://link.wadiz.kr/BeYz/x17x1v57	32000	3000	앱 첫결제 5천원 즉시할인		가비오타 시그니처 돌체 항균타월 항균 99.9% 똑띠수건		13.0	N
+홈·리빙	욕실	8643	https://d1ruwxjthziwe4.cloudfront.net/marketing/8643.jpg	https://link.wadiz.kr/BeYz/x17x1v57	30000	3000	앱 첫결제 5천원 즉시할인		가비오타 시그니처 돌체 항균타월 항균 99.9% 똑띠수건		13.0	N
 여행	여행용품	8756	https://cdn2.wadiz.kr/2024/06/17/e47aaa46-828b-4f8c-a379-26b4309420d8.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/pd3vnmsb	39000	3000	앱 첫결제 5천원 즉시할인		비코어 폴딩 토트백 가방		7.0	N
 패션		8789	https://d1ruwxjthziwe4.cloudfront.net/marketing/8789.jpg	https://link.wadiz.kr/BeYz/0n1q37hk	45000	3000	앱 첫결제 5천원 즉시할인		비코어 듀얼 울트라씬 슬림 양면 지갑 반지갑		16.0	N
 홈·리빙		8793	https://d1ruwxjthziwe4.cloudfront.net/marketing/8793.jpg	https://link.wadiz.kr/BeYz/yloudjq7	45000	0	앱 첫결제 5천원 즉시할인		쉬운 스케칭을 위한 황금비스케칭 툴 파이룰러 파이눈금자		12.0	N
