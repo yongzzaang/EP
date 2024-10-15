@@ -134,8 +134,8 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 패션	가방	379	https://d1ruwxjthziwe4.cloudfront.net/marketing/379.jpg	https://link.wadiz.kr/BeYz/6d9yq18n	19900	3000	앱 첫결제 5천원 즉시할인		플레이언 컴팩터 노트북 태블릿 가방 S L		236.0	N
 홈·리빙		1067	https://d1ruwxjthziwe4.cloudfront.net/marketing/1067.jpg	https://link.wadiz.kr/BeYz/9o14qpr0	5300	3000	앱 첫결제 5천원 즉시할인		버티고 박스 고정 홀더 클립 고정장치 친환경 테이프		154.0	N
 테크·가전		1343	https://d1ruwxjthziwe4.cloudfront.net/marketing/1343.jpg	https://link.wadiz.kr/BeYz/i3zmu9ql	18900	0	앱 첫결제 5천원 즉시할인		펀디안 파워베슬 노트북 스탠드 프리미엄 메탈		34.0	N
-패션	아이웨어	1268	https://d1ruwxjthziwe4.cloudfront.net/marketing/1268.jpg	https://link.wadiz.kr/BeYz/8x7i6h7f	58000	3000	앱 첫결제 5천원 즉시할인		소월 클립안경 SW3 46/49 사이즈 3컬러		13.0	N
-패션		1375	https://d1ruwxjthziwe4.cloudfront.net/marketing/1375.jpg	https://link.wadiz.kr/BeYz/wnbhoc16	58000	3000	앱 첫결제 5천원 즉시할인		소월 클립안경 SW1 46/49 사이즈 3컬러		29.0	N
+패션	아이웨어	1268	https://d1ruwxjthziwe4.cloudfront.net/marketing/1268.jpg	https://link.wadiz.kr/BeYz/8x7i6h7f	68000	3000	앱 첫결제 5천원 즉시할인		소월 클립안경 SW3 46/49 사이즈 3컬러		13.0	N
+패션		1375	https://d1ruwxjthziwe4.cloudfront.net/marketing/1375.jpg	https://link.wadiz.kr/BeYz/wnbhoc16	68000	3000	앱 첫결제 5천원 즉시할인		소월 클립안경 SW1 46/49 사이즈 3컬러		29.0	N
 아트		674	https://d1ruwxjthziwe4.cloudfront.net/marketing/674.jpg	https://link.wadiz.kr/BeYz/3ud7pokv	299000	0	앱 첫결제 5천원 즉시할인		벤티볼리오 하이엔드 기타 제뉴인 1112lvc	벤티볼리오|벤티볼리오제뉴인|통기타|벤티볼리오통기타|어쿠스틱기타|벤티볼리오기타|벤티볼리오어쿠스틱기타	11.0	N
 패션		1293	https://d1ruwxjthziwe4.cloudfront.net/marketing/1293.jpg	https://link.wadiz.kr/BeYz/6g0ch8z4	39800	3500	앱 첫결제 5천원 즉시할인		리코브 남성 여성 오늘팬츠 면팬츠 스판 바지 5컬러		140.0	N
 테크·가전		1448	https://d1ruwxjthziwe4.cloudfront.net/marketing/1448.jpg	https://link.wadiz.kr/BeYz/t08j7yoh	20900	3000	앱 첫결제 5천원 즉시할인		MOFT 모프트 슬림 리무버블 노트북 스탠드 거치대		167.0	N
@@ -2006,6 +2006,7 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 뷰티	클렌징	7275	https://cdn2.wadiz.kr/2024/03/29/c4c64dae-c71f-412c-9c40-2d279f39d602.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/m3jlbrto	25000	3000	앱 첫결제 5천원 즉시할인		바다팩솝 72솝 블랙바 클렌징		10.0	N
 뷰티		7110	https://d1ruwxjthziwe4.cloudfront.net/marketing/7110.jpg	https://link.wadiz.kr/BeYz/evox6jja	98000	3000	앱 첫결제 5천원 즉시할인		케틀벨 유광 화이트 도자기 괄사 마사지기		22.0	N
 스포츠·아웃도어		7234	https://d1ruwxjthziwe4.cloudfront.net/marketing/7234.jpg	https://link.wadiz.kr/BeYz/godhnv1r	127000	0	앱 첫결제 5천원 즉시할인		스마트포크 클래시 캠핑키트 풀구성 1세트		13.0	N
+푸드	음료·커피	7191	https://cdn2.wadiz.kr/2024/03/27/f667f170-ded9-43da-b666-33b4916f4291.png/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/ebsmqhk6	13900	3000	앱 첫결제 5천원 즉시할인		모스트 블렌딩 티백 3종+엽서3종 1세트		5.0	N
 패션	가방	7278	https://d1ruwxjthziwe4.cloudfront.net/marketing/7278.jpg	https://link.wadiz.kr/BeYz/r0nhsx19	62000	3000	앱 첫결제 5천원 즉시할인		SHINY LIKE DIAMONDS SLIM BAG		2.0	N
 여행	여행용품	7266	https://cdn2.wadiz.kr/2024/03/29/ae56d2ff-a3bb-4c75-a2a4-f4ca74f2a8a7.jpeg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/1fikt6bp	12900	3000	앱 첫결제 5천원 즉시할인		RJ컨셉스토어 에카엑스 캐리 스트랩		52.0	N
 홈·리빙	욕실	7274	https://cdn2.wadiz.kr/2024/03/29/47e53c97-02d4-4742-a3da-c841b7884bca.jpg/wadiz/resizecrop/500x500/format/jpg	https://link.wadiz.kr/BeYz/87wfet7j	14000	3000	앱 첫결제 5천원 즉시할인		브랜드엘 면도날클리너 레이저테크		5.0	N
