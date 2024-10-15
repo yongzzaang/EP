@@ -893,7 +893,6 @@ category_name1	category_name2	id	image_link	link	price_pc	shipping	event_words	s
 패션		3117	https://d1ruwxjthziwe4.cloudfront.net/marketing/3117.jpg	https://link.wadiz.kr/BeYz/6of3ju1p	52000	3000	앱 첫결제 5천원 즉시할인		송하맹호도 태블릿 노트북 파우치		44.0	N
 패션	의류	4314	https://d1ruwxjthziwe4.cloudfront.net/marketing/4314.jpg	https://link.wadiz.kr/BeYz/vpjb8tcy	56000	3000	앱 첫결제 5천원 즉시할인		오프그리드 얼티메이트 코듀라 스트레이트 진 데님 팬츠		94.0	N
 패션	의류	3156	https://d1ruwxjthziwe4.cloudfront.net/marketing/3156.jpg	https://link.wadiz.kr/BeYz/l1ks14ax	30900	4000	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	머신워셔블 쿨 얼음니트 남성용		169.0	N
-테크·가전	주변기기	1100	https://d1ruwxjthziwe4.cloudfront.net/marketing/1100.jpg	https://link.wadiz.kr/BeYz/776yo7j7	86800	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	유그린 Xkit html 멀티허브 내장 노트북 맥북 거치대 도킹스테이션		93.0	N
 테크·가전	엔터테인먼트가전	2819	https://d1ruwxjthziwe4.cloudfront.net/marketing/2819.jpg	https://link.wadiz.kr/BeYz/l3ioq6si	129000	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	펀디안 1Mii E600Pro 하이브리드 노이즈캔슬링 블루투스 헤드폰 헤드셋 원미 ANC		121.0	N
 패션	의류	4263	https://d1ruwxjthziwe4.cloudfront.net/marketing/4263.jpg	https://link.wadiz.kr/BeYz/fljhd8oj	82600	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	프리드네임 스판 올라운드 슬랙스 일반기장		99.0	N
 자동차	전자기기	4224	https://d1ruwxjthziwe4.cloudfront.net/marketing/4224.jpg	https://link.wadiz.kr/BeYz/phnmmf53	179000	0	앱 첫결제 5천원 즉시할인	오늘출발^16:00^택배^한진택배^null^null^3000^3000^null^2^토요일|일요일|공휴일^	씨더코퍼레이션 쉘 올인원 점프스타터 AC001JP 보조배터리 에어펌프 손전등		126.0	N
