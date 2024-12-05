@@ -2573,7 +2573,6 @@ category_name1	category_name2	id	image_link	link	shipping	shipping_settings	cond
 푸드	전통주	8706	https://d1ruwxjthziwe4.cloudfront.net/marketing/8706.jpg	https://link.wadiz.kr/BeYz/7tt76m06	5000				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	Y	8000			시트러스 미상25 25도 350ml 제주감귤증류주
 푸드	전통주	8680	https://d1ruwxjthziwe4.cloudfront.net/marketing/8680.jpg	https://link.wadiz.kr/BeYz/p57h9pks	2500				12	4.58	와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	Y	27000			술아원 환상주 몽상주 상상주
 푸드	전통주	8719	https://d1ruwxjthziwe4.cloudfront.net/marketing/8719.jpg	https://link.wadiz.kr/BeYz/dlryd41x	4000				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	Y	21000			한통술 전통주 심마니 소주 윌리엄 22도 산삼 꿀술 375ml 1병
-푸드	전통주	8747	https://d1ruwxjthziwe4.cloudfront.net/marketing/8747.jpg	https://link.wadiz.kr/BeYz/7h7z14j0	3000			호감|호랑이가사랑한단감|스파클링와인|단감와인|호감전통주|배상면주가호감|와인|배상면주|호감술|과실주|배상면주가술|주류마켓|저렴한와인|금이산농원복숭아와인|1950와인|주가|산막와이너리	0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	Y	13000			술마켓 배상면주가 호랑이가 사랑한 단감 호감 6도 370ml 5병
 푸드	전통주	8701	https://d1ruwxjthziwe4.cloudfront.net/marketing/8701.jpg	https://link.wadiz.kr/BeYz/edrer3s6	3000				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	Y	22200			술별닷컴 과천도가 관악산생막걸리+과천미주+경기백주 3종 1세트
 푸드	전통주	8685	https://d1ruwxjthziwe4.cloudfront.net/marketing/8685.jpg	https://link.wadiz.kr/BeYz/5kcyl2np	3000				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	Y	7000			술별닷컴 과천도가 경기백주 500ml 전통주
 푸드	전통주	8720	https://d1ruwxjthziwe4.cloudfront.net/marketing/8720.jpg	https://link.wadiz.kr/BeYz/nss5l467	4000				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	Y	44000			한통술 과하주 Hip힙 윌리엄+스칼렛 한라봉+포도 전통주 1세트
