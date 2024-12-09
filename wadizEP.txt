@@ -2535,6 +2535,7 @@ category_name1	category_name2	id	image_link	link	shipping	shipping_settings	cond
 푸드	산지직송	8612	https://d1ruwxjthziwe4.cloudfront.net/marketing/8612.jpg	https://link.wadiz.kr/BeYz/s79ti4s2	0				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	18900			부여농부의 햇또롱 대추방울토마토즙 120ml 30개
 푸드	산지직송	8617	https://d1ruwxjthziwe4.cloudfront.net/marketing/8617.jpg	https://link.wadiz.kr/BeYz/ickeyl8k	0				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	14500			광천순이네 자연숙성 광천토굴 새우젓 육젓 오젓 추젓 어리굴젓 갈치속젓 창란젓 낙지젓 500g 1kg
 푸드	산지직송	8619	https://d1ruwxjthziwe4.cloudfront.net/marketing/8619.jpg	https://link.wadiz.kr/BeYz/j1jvzoyu	4000				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	9500			한우지애 무항생제 한우 이유식 냉장 다짐육 꽃등심 등심 양지 국거리 사태 장조림 다짐육 잡채 산적 불고기 1등급 2등급
+푸드	산지직송	8623	https://d1ruwxjthziwe4.cloudfront.net/marketing/8623.jpg	https://link.wadiz.kr/BeYz/7ioocqbh	0				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	12900			해남 산지직송 유기농 생 레드비트 2kg 3kg 5kg 10kg
 푸드	산지직송	8606	https://d1ruwxjthziwe4.cloudfront.net/marketing/8606.jpg	https://link.wadiz.kr/BeYz/o95hlpnh	0				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	9500			파머레시피 청년농부직송 GAP 인증 햇양파 중 3kg
 푸드	산지직송	8640	https://d1ruwxjthziwe4.cloudfront.net/marketing/8640.jpg	https://link.wadiz.kr/BeYz/d9zw9da8	0				1		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	52000			허니스윗팜 목포 제일수산 국산 홍어 삭힌 참홍어 1kg
 푸드	산지직송	8609	https://d1ruwxjthziwe4.cloudfront.net/marketing/8609.jpg	https://link.wadiz.kr/BeYz/ynj1drit	3000				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	13500			파머레시피 크기혼합 햇 통마늘 3kg 5kg
