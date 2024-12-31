@@ -2414,7 +2414,6 @@ category_name1	category_name2	id	image_link	link	shipping	shipping_settings	cond
 스포츠·아웃도어	등산	8550	https://d1ruwxjthziwe4.cloudfront.net/marketing/8550.jpg	https://link.wadiz.kr/BeYz/0szgziam	0				49	4.37	와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	135600			몬츄라 10가지수납 등산가방 제피로스 백팩
 스포츠·아웃도어	캠핑	7242	https://d1ruwxjthziwe4.cloudfront.net/marketing/7242.jpg	https://link.wadiz.kr/BeYz/8kdvmzsz	3000			살로몬양말|울양말|등산양말세트|아웃도어등산양말|핏어스|등산울양말|노스페이스양말|메리노삭스|FITUS핏어스울|살로몬러닝양말|아웃도어양말|아웃도어삭스|살로몬삭스|FITUS|등산울양말세	21	4.19	와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	23400			핏어스 메리노 울 아웃도어 전용 삭스 브라이트 1세트
 스포츠·아웃도어	등산	8548	https://d1ruwxjthziwe4.cloudfront.net/marketing/8548.jpg	https://link.wadiz.kr/BeYz/aklgrng4	3000				5	5.0	와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	6800			산로 사계절 메리노울 쿠션 등산양말
-스포츠·아웃도어	등산	8546	https://d1ruwxjthziwe4.cloudfront.net/marketing/8546.jpg	https://link.wadiz.kr/BeYz/dd7tbzz0	3000				4	4.33	와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	29800			산로 햇빛가리개 탈부착 등산모자 캠프캡
 뷰티	클렌징	7237	https://d1ruwxjthziwe4.cloudfront.net/marketing/7237.jpg	https://link.wadiz.kr/BeYz/g928zgl1	0				5	4.8	와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	24000			마더메이드 차콜 클레이 엔자임 파우더 비건 클렌저 70g
 뷰티	헤어케어	7925	https://d1ruwxjthziwe4.cloudfront.net/marketing/7925.jpg	https://link.wadiz.kr/BeYz/xnwmyxot	3000				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	21900		루토닉스	루토닉스 로즈마리 비오틴 스칼프 토닉 100ml
 뷰티	헤어케어	7926	https://d1ruwxjthziwe4.cloudfront.net/marketing/7926.jpg	https://link.wadiz.kr/BeYz/008498lf	3000				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	22000		루토닉스	루토닉스 프레쉬 히말라야 솔트 두피스케일러 200ml
