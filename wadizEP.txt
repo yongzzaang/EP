@@ -2494,7 +2494,6 @@ category_name1	category_name2	id	image_link	link	shipping	shipping_settings	cond
 푸드	디저트·간식	8805	https://d1ruwxjthziwe4.cloudfront.net/marketing/8805.jpg	https://link.wadiz.kr/BeYz/3n4i5rq8	0				3	4.0	와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	12500		마음이가	마음이가 콩 쑥 호박 이북식 팥 인절미 떡 간식 디저트
 푸드	디저트·간식	8801	https://d1ruwxjthziwe4.cloudfront.net/marketing/8801.jpg	https://link.wadiz.kr/BeYz/5l4mv8wd	3500			일본식푸딩|커스타드푸딩만들기|일본커스터드푸딩|커스터드푸딩|푸딩|훗카이도푸딩|달걀푸딩|수제푸딩|떠먹는푸딩|일본푸딩|냉동푸딩|풍림커스터드푸딩|카스테라푸딩|꾸덕푸딩|생크림푸딩|대왕푸딩|	0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	23000			푸링 일본식 수제 커스터드 푸딩 전문점
 푸드	디저트·간식	8785	https://d1ruwxjthziwe4.cloudfront.net/marketing/8785.jpg	https://link.wadiz.kr/BeYz/tx20aiz8	0				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	5900			민초단 민트초코 팬케이크 로드 500g 1kg
-푸드	디저트·간식	8784	https://d1ruwxjthziwe4.cloudfront.net/marketing/8784.jpg	https://link.wadiz.kr/BeYz/tufdy8oy	0				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	13900			민초단 민트초코 프로틴볼 대소동 30g 6개입
 푸드	디저트·간식	8783	https://d1ruwxjthziwe4.cloudfront.net/marketing/8783.jpg	https://link.wadiz.kr/BeYz/t5vtzctu	0				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	11400			민초단 민트초코 대용량 파우더 1kg
 푸드	디저트·간식	8818	https://d1ruwxjthziwe4.cloudfront.net/marketing/8818.jpg	https://link.wadiz.kr/BeYz/d3l9fdsi	0				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	22000			지야마카롱 수제캐릭터 마카롱 8구 12구 선물세트
 푸드	디저트·간식	8819	https://d1ruwxjthziwe4.cloudfront.net/marketing/8819.jpg	https://link.wadiz.kr/BeYz/quwpf9zi	0				13	4.38	와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	12500		마음이가	마음이가 카스텔라 흑임자 초코떡
