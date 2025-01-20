@@ -2482,7 +2482,7 @@ category_name1	category_name2	id	image_link	link	shipping	shipping_settings	cond
 푸드	산지직송	8956	https://d1ruwxjthziwe4.cloudfront.net/marketing/8956.jpg	https://link.wadiz.kr/BeYz/gw8vuykm	4000				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	4990			오리and닭 닭똥집 닭근위 닭모래집 특수부위 1kg
 푸드	산지직송	8957	https://d1ruwxjthziwe4.cloudfront.net/marketing/8957.jpg	https://link.wadiz.kr/BeYz/h4rfcb6p	0				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	11900			오리and닭 양념 닭갈비 3인분 1kg 캠핑 소풍 밀키트
 푸드	산지직송	8967	https://d1ruwxjthziwe4.cloudfront.net/marketing/8967.jpg	https://link.wadiz.kr/BeYz/51eh0oos	3000				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	14500			허니스윗팜 한우 1등급 소고기 스테이크 구이용 늑간살 꽃갈비살 업진살 부채살 안심 치마살 200g
-푸드	산지직송	8968	https://d1ruwxjthziwe4.cloudfront.net/marketing/8968.jpg	https://link.wadiz.kr/BeYz/ereeb73h	0			방울토마토2KG|신품종방울토마토|흑대추방울토마토|방울토마토|토마토|허니스윗토마토|스윗팜|허니방울토마토|신품종|스윗토마토	0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	24000			허니스윗팜 신품종 흑대추방울토마토 2kg 특과
+푸드	산지직송	8968	https://d1ruwxjthziwe4.cloudfront.net/marketing/8968.jpg	https://link.wadiz.kr/BeYz/ereeb73h	0			방울토마토2KG|신품종방울토마토|흑대추방울토마토|방울토마토|토마토|허니스윗토마토|스윗팜|허니방울토마토|신품종|스윗토마토	0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	21000			허니스윗팜 신품종 흑대추방울토마토 2kg 특과
 푸드	산지직송	8995	https://d1ruwxjthziwe4.cloudfront.net/marketing/8995.jpg	https://link.wadiz.kr/BeYz/p2c55cr4	0				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	15700			정이가 햇당근 3kg 5kg 10kg
 푸드	산지직송	8970	https://d1ruwxjthziwe4.cloudfront.net/marketing/8970.jpg	https://link.wadiz.kr/BeYz/9tbrokod	3500				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	8500			허니스윗팜 유기농 반건조 무화과 100g
 푸드	산지직송	8997	https://d1ruwxjthziwe4.cloudfront.net/marketing/8997.jpg	https://link.wadiz.kr/BeYz/tsdoe15w	0				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	9900			정이가 무농약 햇 레드비트 2kg 3kg 5kg 10kg
