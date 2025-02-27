@@ -2281,7 +2281,6 @@ category_name1	category_name2	id	image_link	link	shipping	shipping_settings	cond
 푸드	디저트·간식	8810	https://d1ruwxjthziwe4.cloudfront.net/marketing/8810.jpg	https://link.wadiz.kr/BeYz/1mde521b	0				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	14500			우리밀 조청 꿀약과 고급형 선물상자(10개입)		
 푸드	디저트·간식	8811	https://d1ruwxjthziwe4.cloudfront.net/marketing/8811.jpg	https://link.wadiz.kr/BeYz/lgpmcbvp	0				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	47000			우리밀 조청 꿀약과 고급형 선물상자(30개입)		
 푸드	디저트·간식	8812	https://d1ruwxjthziwe4.cloudfront.net/marketing/8812.jpg	https://link.wadiz.kr/BeYz/fjsrppbl	0				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	13500			우리밀 조청 꿀약과 실속형 박스파우치(10개입)		
-푸드	디저트·간식	8792	https://d1ruwxjthziwe4.cloudfront.net/marketing/8792.jpg	https://link.wadiz.kr/BeYz/5uq25f1z	4000				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	39000			마야니 초콜릿 피아트 믹스2 레드틴 크레미니믹스		
 푸드	디저트·간식	8813	https://d1ruwxjthziwe4.cloudfront.net/marketing/8813.jpg	https://link.wadiz.kr/BeYz/ung3jk1s	3500				0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	9500			낭만부부 모짜렐라 치즈가래떡 500g		
 푸드	디저트·간식	8805	https://d1ruwxjthziwe4.cloudfront.net/marketing/8805.jpg	https://link.wadiz.kr/BeYz/5qm8q4r0	0				3	4.0	와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	12500		마음이가	마음이가 콩 쑥 호박 이북식 팥 인절미 떡 간식 디저트		
 푸드	디저트·간식	8801	https://d1ruwxjthziwe4.cloudfront.net/marketing/8801.jpg	https://link.wadiz.kr/BeYz/m7rrqvhe	3500			일본식푸딩|수제푸딩|달걀푸딩|커스터드푸딩|훗카이도푸딩|커스타드푸딩만들기|일본커스터드푸딩|떠먹는푸딩|일본푸딩|푸딩|풍림커스터드푸딩|꾸덕푸딩|냉동푸딩|생크림푸딩|카스테라푸딩|말랑푸딩|	0		와디즈 첫 로그인하고 5,000원x2 쿠폰 혜택 받으세요!	N	23000			푸링 일본식 수제 커스터드 푸딩 전문점		
